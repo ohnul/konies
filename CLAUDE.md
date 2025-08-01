@@ -1,7 +1,5 @@
 # CLAUDE.md
 
-
-
 ## Document Writing Rules
 
 This document establishes rules for collaborative novel writing between AI and human teams.
