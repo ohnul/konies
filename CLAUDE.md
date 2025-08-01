@@ -44,8 +44,8 @@ When the work is small in scale, `character-overview` and `setting-overview` may
 
 - **README**: Accessible to first-time readers to understand the work's overview. Includes work introduction, large-scale work composition, major document list, etc. Also includes theme, major materials, genre, target audience, main themes, core conflicts, production intent, main characters, setting, overall plot, work's originality and distinctive points.
 - **rules**: The `CLAUDE.md` document serves as rules. Content that must be referenced every time (files that LLMs mechanically reference always). Keep concise. Includes style guidelines, narrative perspective, tense, character addressing, consistency rules to note, major motifs and symbols, prohibited items, etc. Includes simple structural unit document rules and template lists.
-- **characters-overview**: Overview of major characters. Includes character relationships, core characteristics, personality keywords, speech and behavior patterns, rough story arcs, background stories, etc.
-- **settings-overview**: Overview of work background. Includes temporal and spatial background, social/political/economic structures, culture and customs, technology level, unique social rules, geographical information, etc.
+- **character-overview**: Overview of major characters. Includes character relationships, core characteristics, personality keywords, speech and behavior patterns, rough story arcs, background stories, etc.
+- **setting-overview**: Overview of work background. Includes temporal and spatial background, social/political/economic structures, culture and customs, technology level, unique social rules, geographical information, etc.
 - **plot-structure**: Definitions for sub-documents (structural unit documents). Varies according to work scale. Some works may need Part-level units while others may conclude with just a few scenes, so the structure of documents under this category is defined here. Also includes a list of higher-level structural unit documents, serving an index function. Basic unit usage for this work is also briefly mentioned in the rules document to avoid multiple references.
 
 ### Detailed Setting Documents
@@ -70,6 +70,19 @@ Documents like `template-seq.md` define templates for corresponding structural u
 	3. Never attempt to edit files with corrupted encoding
 - If Korean text appears as garbled characters (e.g., "ì¤ì¹ ë° ì¤í"), immediately recreate the file
 - Always verify file encoding after creation by reading the file
+
+### Final Novel Files
+
+Final novel files are the complete prose versions of the smallest structural unit documents. These files contain the actual novel text that readers will consume.
+
+- **File naming**: `novel-[numbers].md` format (e.g., `novel-02-03-11.md` for Act 2, Chapter 3, Scene 11)
+- **Location**: All final novel files are stored in the `/novel` directory
+- **Content**: Full prose narrative converted from structural unit documents
+- **Format**: 
+  - Written in Korean following all style guidelines
+  - Complete narrative prose without structural markers or metadata
+  - Maintains all elements from the structural document but in novel form
+- **Creation process**: Transform the smallest unit documents (scenes, moments, etc.) into flowing narrative text
 
 
 ## Style Guidelines
