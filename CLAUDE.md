@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This repository contains the documentation and planning materials for "구름골의 보물" (Treasure of Cloud Valley), a Korean children's adventure fantasy novel. The project is a collaborative novel writing effort between AI and human teams, targeting elementary to middle school readers (Harry Potter Book 1 reading level).
+This repository contains the documentation and planning materials for "구름골의 보물/Treasure of Cloud Valley", a Korean children's adventure fantasy novel. The project is a collaborative novel writing effort between AI and human teams, targeting elementary to middle school readers (Harry Potter Book 1 reading level).
 
 ## Document Writing Rules
 
@@ -17,6 +17,7 @@ This section establishes rules for collaborative novel writing between AI and hu
 - All documents are written in markdown format by default.
 - Considering context window limitations, rules documents are written in English while other documents are written in Korean.
 - Rules documents should be kept as concise as possible.
+- **Proper nouns**: In CLAUDE.md, all proper nouns (character names, place names, etc.) must be written in both Korean and English format as "Korean/English" to maintain consistency. Example: 구름골/Cloud Valley, 임수진/Im Su-jin.
 
 ### Structural Unit Definitions
 
@@ -61,6 +62,13 @@ Detailed content is defined in the plot-structure document. The basic rule is th
 
 Documents like `template-seq.md` define templates for corresponding structural unit documents. Generally, higher-level unit documents include lists for lower-level unit documents and have structures corresponding to each unit's purpose. For example, scene documents include time and space, and how the scene begins and ends, while episode documents describe how the rise and fall flow within the episode and what hook leads to the next episode. When certain units are omitted, higher-level unit documents include the functionality of the omitted units.
 
+**Available templates**:
+- `template-scene.md`: For scene-level documents
+- `template-seq.md`: For sequence-level documents
+- `template-episode.md`: For episode-level documents
+- `template-chapter.md`: For chapter-level documents
+- Additional templates created as needed for specific structural units
+
 ### File Encoding Rules (CRITICAL)
 
 - ALWAYS ensure files are saved with UTF-8 encoding
@@ -94,7 +102,7 @@ Final novel files are the complete prose versions of the smallest structural uni
 ### Narrative Perspective and Tense
 - **Point of view**: Third-person omniscient
 - **Tense**: Past tense with "-했다" endings in Korean
-- **Example**: "지훈은 하늘을 올려다보았다." (Jihoon looked up at the sky.)
+- **Example**: "지훈은 하늘을 올려다보았다." (Ji-hoon looked up at the sky.)
 
 ### Writing Style
 - **Sentence structure**: Keep sentences relatively short while varying structure for rhythm
@@ -119,7 +127,7 @@ Final novel files are the complete prose versions of the smallest structural uni
 - **Prohibited content**: No cruel or violent descriptions suitable for children's literature
 - **Fear elements**: Keep horror at tension level only, not actual fear
 - **Core messages**: Friendship, courage, victory
-- **Cultural elements**: Naturally incorporate Korean cultural elements (stone lanterns, dokkaebi, Silla artifacts) without excessive background explanation
+- **Cultural elements**: Naturally incorporate Korean cultural elements (stone lanterns, 도깨비/dokkaebi, 신라/Silla artifacts) without excessive background explanation
 
 ### Character Dialogue Guidelines
 - Each character's dialogue must reflect their unique Aspects and personality
@@ -135,3 +143,23 @@ Final novel files are the complete prose versions of the smallest structural uni
 - Include repetitive comedy patterns appropriate to each character
 - Balance tension with humor to maintain child-friendly atmosphere
 - Use character quirks and interactions for natural comedy
+
+### Repetitive Comedy Patterns
+- **고민준/Go Min-jun's filming addiction**: "This is amazing content!" even in dangerous situations
+- **임수진/Im Su-jin's clumsy exposure crisis**: Switching between perfect public persona and clumsy private self
+- **박지훈/Park Ji-hoon's unfiltered facts**: Blunt truths without social filters that accidentally solve problems
+- **박지영/Park Ji-young's fiery speeches**: Passionate activism that sometimes leads to actual fire incidents
+- **강태호/Kang Tae-ho's emotional control failures**: Logic breaking down in specific situations (especially around 지영/Ji-young)
+
+### Character-Specific Dialogue Patterns
+- **강태호/Kang Tae-ho**: Logical, concise, analytical language
+- **박지영/Park Ji-young**: Passionate, direct, activist vocabulary
+- **고민준/Go Min-jun**: YouTube slang, "Subscribe and like!", content-focused expressions
+- **박지훈/Park Ji-hoon**: Literal interpretations, nature metaphors, no social filters
+- **임수진/Im Su-jin**: Mode switching between formal/perfect (public) and casual/clumsy (private)
+
+### Major Motifs and Symbols
+- **청동 거울/Bronze mirror and light**: Tool for summoning the 도깨비/dokkaebi 두루/Duru, represents hidden truths
+- **꽃이 피는 돌/Flower-blooming stones/석등/Stone lanterns**: Trail markers leading to treasure, transformation through illumination
+- **"욕심 없는 자만 열 수 있는 상자/Box that only the ungreedy can open"**: Central moral theme about true value vs material wealth
+- **구름골/Cloud Valley**: The village name itself symbolizes transience and hidden treasures
