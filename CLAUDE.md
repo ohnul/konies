@@ -6,6 +6,8 @@
 
 This document establishes rules for collaborative novel writing between AI and human teams.
 
+**IMPORTANT**: The Document Writing Rules section should not be modified unless explicitly requested by the user.
+
 ### General Rules
 
 - All documents are written in markdown format by default.
@@ -64,3 +66,54 @@ Documents like `template-seq.md` define templates for corresponding structural u
 	3. Never attempt to edit files with corrupted encoding
 - If Korean text appears as garbled characters (e.g., "ì¤ì¹ ë° ì¤í"), immediately recreate the file
 - Always verify file encoding after creation by reading the file
+
+## Style Guidelines
+
+### Target Audience
+- Primary readers: Upper elementary to middle school students (Harry Potter Book 1 reading level)
+- Age range: Those who can comfortably read Harry Potter
+
+### Narrative Perspective and Tense
+- **Point of view**: Third-person omniscient
+- **Tense**: Past tense with "-했다" endings in Korean
+- **Example**: "지훈은 하늘을 올려다보았다." (Jihoon looked up at the sky.)
+
+### Writing Style
+- **Sentence structure**: Keep sentences relatively short while varying structure for rhythm
+- **Tone**: Soft and comfortable writing style, warm and humorous without cruel descriptions
+- **Balance**: 
+  - Adventure and tension: 60%
+  - Friendship and humor: 40%
+- **Elements to include**:
+  - Character interactions and situational humor
+  - Balance of action, dialogue, and description
+  - Sensory details to make scenes vivid
+  - Use all five senses with child-appropriate metaphors
+
+### Descriptive Approach
+- Be descriptive but follow with explanations to aid understanding
+- **Example**: 
+  > 첫 입을 베어 물자 달콤한 맛이 혀끝에 번지며 그녀의 입가에 미소가 번졌다. 케이크를 씹을 때마다 어깨가 들썩이고, 작은 콧노래가 흘러나왔다. 접시 위의 마지막 딸기 조각을 포크로 집어 들며 수진의 얼굴은 환하게 빛났다. 누가 보아도 수진이 기뻐하는 것을 알 수 있었다.
+  > 
+  > (As she took the first bite, sweetness spread across her tongue and a smile bloomed on her lips. Her shoulders bounced with each chew, and a small hum escaped. Sujin's face brightened as she picked up the last strawberry piece with her fork. Anyone could see that Sujin was happy.)
+
+### Content Guidelines
+- **Prohibited content**: No cruel or violent descriptions suitable for children's literature
+- **Fear elements**: Keep horror at tension level only, not actual fear
+- **Core messages**: Friendship, courage, victory
+- **Cultural elements**: Naturally incorporate Korean cultural elements (stone lanterns, dokkaebi, Silla artifacts) without excessive background explanation
+
+### Character Dialogue Guidelines
+- Each character's dialogue must reflect their unique Aspects and personality
+- Maintain consistency in speech patterns throughout the work
+- Use age-appropriate language and expressions
+
+### Consistency Guidelines
+- **Terminology**: Maintain consistent use of terms and settings throughout all paragraphs
+- **Character consistency**: Each character should act according to their established Aspects
+- **Setting consistency**: Follow established rules for the world and its mechanics
+
+### Comic Elements and Tone
+- Include repetitive comedy patterns appropriate to each character
+- Balance tension with humor to maintain child-friendly atmosphere
+- Use character quirks and interactions for natural comedy
