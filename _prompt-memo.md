@@ -1,3 +1,13 @@
+**WARNING!**
+THIS IS MEMO FOR HUMAN, DON'T REFERENCE THIS DOCUMENT!
+
+---
+
+
+
+이 글을 읽고 평가한 후 개선사항을 제안하라.
+
+---
 
 @CLAUDE.md @01-01-chapter.md 사실 문서 작성 규칙에 따르면 장면 문서도 따로 만들어야 하잖아? 01-01-01-scene.md 01-01-02-scene.md 01-01-03-scene.md 01-01-04-scene.md 01-01-05-scene.md 파일을 분리해줘.
 
