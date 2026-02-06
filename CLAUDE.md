@@ -56,17 +56,22 @@ When the work is small in scale, `character-overview` and `setting-overview` may
 
 ### Structural Unit Documents
 
-Detailed content is defined in the plot-structure document. The basic rule is that files start with numbers and end with units. For example, `01-act.md` contains explanations about Act 1. `01-03-chapter.md` contains content about Act 1, Chapter 3. As explained earlier, depending on scale, there may be `04-chapter.md` files or `03-24-scene.md` files. Which scale and units are used for this work is defined in the plot-structure document.
+Detailed content is defined in the plot-structure document. The basic rule is that files start with numbers and end with units. As explained earlier, depending on scale, there may be `04-chapter.md` files or `03-24-scene.md` files. Which scale and units are used for this work is defined in the plot-structure document.
+
+**This work uses Act-Chapter-Scene 3-tier structure.** Omitted units (Beat, Moment, Sequence, Episode) have their functions absorbed by adjacent units: Beat/Moment functions are absorbed by Scene, and Sequence/Episode functions are absorbed by Chapter.
+
+**Numbering convention**:
+- **Act**: Sequential number (e.g., `01-act.md`, `02-act.md`)
+- **Chapter**: Absolute numbering across the entire work (e.g., `02-03-chapter.md` = Act 2, Chapter 3 overall)
+- **Scene**: Relative numbering within each chapter (e.g., `02-03-01-scene.md` = Act 2, Chapter 3, Scene 1 of that chapter)
 
 ### Templates
 
 Documents like `template-seq.md` define templates for corresponding structural unit documents. Generally, higher-level unit documents include lists for lower-level unit documents and have structures corresponding to each unit's purpose. For example, scene documents include time and space, and how the scene begins and ends, while episode documents describe how the rise and fall flow within the episode and what hook leads to the next episode. When certain units are omitted, higher-level unit documents include the functionality of the omitted units.
 
-**Available templates**:
-- `template-scene.md`: For scene-level documents
-- `template-seq.md`: For sequence-level documents
-- `template-episode.md`: For episode-level documents
-- `template-chapter.md`: For chapter-level documents
+**Template status**: No templates exist yet. Templates will be created as the project structure stabilizes. Planned templates:
+- `template-scene.md`: Should include Beat functions (emotional changes per beat) and Moment functions (tension/atmosphere tracking) since these units are omitted in this work.
+- `template-chapter.md`: Should include Episode functions (mini-climax, start/end hooks) and Sequence functions (subplot objectives) since these units are omitted in this work.
 - Additional templates created as needed for specific structural units
 
 ### File Encoding Rules (CRITICAL)
