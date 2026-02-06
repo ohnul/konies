@@ -14,22 +14,40 @@
 - README.md and plot-structure.md have different Act subtitles for Acts 2 and 3
 - CLAUDE.md example uses relative numbering (`01-03-chapter.md` = Act 1, Chapter 3) but actual files use absolute numbering
 - CLAUDE.md says "Three-act structure" but work uses 4-act structure
+- Prologue numbering inconsistent: 00-prologue-v2.md (act doc) vs scenes named 00-00-01/00-00-02
 
 ## Completed Work Status
 - Act 1 fully structured: 2 chapters, 5 scenes (01-01-01 through 01-02-04)
-- Prologue structured (00-prologue-v2.md)
-- Novel files exist for prologue (novel-00-00-01, novel-00-00-02) and Act 1 beginning (novel-01-01-01, novel-01-02-01)
+- Prologue structured (00-prologue-v2.md) with 2 scenes
+- Novel files: prologue final (final/f-0-prologue.md), Act 1 Ch1 final (final/f-1-friends.md)
+- Novel directory also has: novel-00-00-01, novel-00-00-02, novel-01-01-01, novel-01-02-01 (+ gpt/cla variants)
 - Acts 2-4 and epilogue: structure planned but no detailed scene docs yet
+- Dual output paths: /novel/ (working drafts) and /final/ (polished versions)
 
-## Editorial Observations
-- Scene docs (e.g., 01-01-01-scene.md) are richly detailed with Beat/Moment structure, dialogue drafts, and [NOTE-TO-AI] markers
+## Editorial Observations (Full Review 2026-02-06)
+- Scene docs richly detailed with Beat/Moment structure, dialogue drafts, [NOTE-TO-AI] markers
 - Chapter docs serve as solid intermediate summaries
 - Act docs properly aggregate chapter-level information
-- The 60/40 adventure-tension/friendship-humor balance is well-articulated in rules but needs verification in actual novel files
-- 4th Act at 15% may be too compressed for "final confrontation + treasure discovery" - consider 20%
+- 60/40 adventure-tension/friendship-humor balance well-articulated but needs verification in novel files
+- 4th Act at 15% likely too compressed for "final confrontation + treasure discovery" - recommend 20%
+- Act 1 scene imbalance: Ch1 has 1 scene, Ch2 has 4 scenes (1:4 ratio)
+- Ch1's single scene carries too much narrative load (5 characters + crisis + legend + decision)
+- Time continuity issue: Scene doc says 3-4pm but chapter doc says 4-5pm
+- No act/chapter docs exist for Acts 2-4 (only mentioned in plot-structure.md)
+- Final novel prose quality is strong - f-0-prologue.md and f-1-friends.md show good execution
+- Character voice differentiation excellent in novel files
+- Prologue effectively establishes villain threat without excessive violence
+
+## File Organization Notes
+- Three output locations exist: /novel/, /final/, /old/novel/ - needs consolidation
+- old/ directory contains legacy versions (v0, v1 prologues, dated novel drafts)
+- _prompt-memo.md contains human team's working notes (marked DO NOT REFERENCE)
 
 ## Key File Paths
 - Rules: /Users/donghyunkim/Documents/codes/konies/CLAUDE.md
 - Plot structure: /Users/donghyunkim/Documents/codes/konies/plot-structure.md
 - README: /Users/donghyunkim/Documents/codes/konies/README.md
 - Scene example: /Users/donghyunkim/Documents/codes/konies/01-01-01-scene.md
+- Final prologue: /Users/donghyunkim/Documents/codes/konies/final/f-0-prologue.md
+- Final ch1: /Users/donghyunkim/Documents/codes/konies/final/f-1-friends.md
+- Detailed review: /Users/donghyunkim/Documents/codes/konies/.claude/agent-memory/content-director-kim/full-review-2026-02-06.md
