@@ -29,7 +29,7 @@ Higher-level and lower-level units may be equivalent. For example, a single mome
 - **Sequence**(시퀀스): A collection of related scenes, representing a subplot or major event. A collection of scenes aimed at achieving one plot "objective."
 - **Episode**(에피소드): Maintains reader interest and creates anticipation for the next installment. Includes mini-climax and hook. May serve as a serialization unit.
 - **Chapter**(장/챕터): Serves readability functions. Physical division considering reader's cognitive load and rest needs. Appropriate length and sense of closure.
-- **Act**(막): Major units based on narrative turning points. Three-act structure or equivalent to introduction-development-climax-resolution structure.
+- **Act**(막): Major units based on narrative turning points. The number of acts varies by work (e.g., 3-act, 4-act/기승전결). Prologue and Epilogue, while listed alongside acts for convenience, are framing devices rather than acts proper.
 - **Part**(부): May present entirely different stories within the same setting or different stories with the same theme, sometimes forming complete standalone works.
 - **Work**(작품): The complete novel
 
