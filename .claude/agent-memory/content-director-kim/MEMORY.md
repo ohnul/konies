@@ -44,14 +44,33 @@
 - old/ directory contains legacy versions (v0, v1 prologues, dated novel drafts)
 - _prompt-memo.md contains human team's working notes (marked DO NOT REFERENCE)
 
-## Evaluation Criteria (Created 2026-02-07)
+## Evaluation Criteria (Created 2026-02-07, Updated 2026-02-07)
 - Act evaluation criteria doc: /Users/donghyunkim/Documents/codes/konies/act/act-evaluation-criteria.md
-- 5 evaluation categories: Structure(25), Narrative Function(25), Character(20), Tone(15), Consistency(15) = 100pts
+- 5 evaluation categories (unchanged): Structure(25), Narrative Function(25), Character(20), Tone(15), Consistency(15) = 100pts
 - Grade system: S(90+), A(80+), B(70+), C(60+), D(<60); B+ required for Chapter doc creation
-- Cross-evaluation (횡단 평가) covers: tension curve, character balance, motif tracking, volume ratio
+- Cross-evaluation (횡단 평가) covers: tension curve, character balance, motif tracking, volume ratio, foreshadowing tracking
+- **2026-02-07 v2 changes from team feedback**:
+  - Added sub-criteria scoring tables for all items (A-E)
+  - B items coded B-1(Prologue)~B-6(Epilogue)
+  - New criteria: C-6(character interaction), D-5(expanded to pacing+rhythm+triggers), D-6(reader experience design), E-6(foreshadowing design)
+  - Required sections added: spatial route summary, time frame
+  - Prologue/Epilogue format exceptions explicitly stated
+  - Setting conflict resolution protocol added to E-4
+  - Cross-evaluation status clarified (separate phase, after all Acts reach B+)
+  - Cross-5 foreshadowing tracking table added
+  - [v] -> [x] standardized, subjective comment removed from sec 1
+  - Example re-scored: 02-act.md 89->84 (A grade maintained, stricter with new criteria)
 - Key finding during creation: "꽃이 피는 돌/석등" motif has a gap in Acts 2-4 (only appears in Act 1 and Epilogue)
 - Key finding: Act 4 has 6 scenes at 15% volume - may be too dense, consistent with earlier observation about compression
 - Key finding: Epilogue has 0 scenes designed - needs scene breakdown
+
+## Team Feedback Patterns (2026-02-07)
+- All 3 team members flagged: foreshadowing management, reader experience/pacing, subjective comments in criteria docs
+- Hyewon (plot): strongest on narrative dynamics, foreshadowing vs motif distinction, information revelation strategy
+- Hojin (writing): strongest on practical writing needs - space/time info, sensory details, character interaction chemistry
+- Yeonsu (editing): strongest on formal consistency, cross-verification with actual docs, process/protocol gaps
+- Rejected pattern: all 3 suggested item F or expanded scoring - kept at 5 items to avoid document bloat
+- "스스로" flagged as typo by 2 members but confirmed as correct Korean standard spelling
 
 ## Key File Paths
 - Rules: /Users/donghyunkim/Documents/codes/konies/CLAUDE.md
