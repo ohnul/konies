@@ -21,7 +21,8 @@
 - Prologue structured (00-prologue-v2.md) with 2 scenes
 - Novel files: prologue final (final/f-0-prologue.md), Act 1 Ch1 final (final/f-1-friends.md)
 - Novel directory also has: novel-00-00-01, novel-00-00-02, novel-01-01-01, novel-01-02-01 (+ gpt/cla variants)
-- Acts 2-4 and epilogue: structure planned but no detailed scene docs yet
+- Acts 2-4 act docs created (02-act.md, 03-act.md, 04-act.md, 05-epilogue.md) on 2026-02-07
+- Acts 2-4 chapter/scene docs: not yet created
 - Dual output paths: /novel/ (working drafts) and /final/ (polished versions)
 
 ## Editorial Observations (Full Review 2026-02-06)
@@ -33,7 +34,7 @@
 - Act 1 scene imbalance: Ch1 has 1 scene, Ch2 has 4 scenes (1:4 ratio)
 - Ch1's single scene carries too much narrative load (5 characters + crisis + legend + decision)
 - Time continuity issue: Scene doc says 3-4pm but chapter doc says 4-5pm
-- No act/chapter docs exist for Acts 2-4 (only mentioned in plot-structure.md)
+- Act docs for Acts 2-4 and epilogue created (2026-02-07), chapter docs still needed
 - Final novel prose quality is strong - f-0-prologue.md and f-1-friends.md show good execution
 - Character voice differentiation excellent in novel files
 - Prologue effectively establishes villain threat without excessive violence
