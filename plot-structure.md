@@ -36,29 +36,29 @@
 ## 구조 단위 문서 목록
 
 ### 막(Act) 문서 (프롤로그/에필로그 포함)
-- `00-prologue.md`: 프롤로그 - 악당의 탈출 (현재는 `00-prologue-v2.md`)
-- `01-act.md`: 제1막 - 문제 설정
-- `02-act.md`: 제2막 - 모험의 시작
-- `03-act.md`: 제3막 - 갈등과 성장
-- `04-act.md`: 제4막 - 클라이맥스
-- `05-epilogue.md`: 에필로그 - 새로운 시작
+- `act/00-prologue.md`: 프롤로그 - 악당의 탈출 (현재는 `act/00-prologue-v2.md`)
+- `act/01-act.md`: 제1막 - 문제 설정
+- `act/02-act.md`: 제2막 - 모험의 시작
+- `act/03-act.md`: 제3막 - 갈등과 성장
+- `act/04-act.md`: 제4막 - 클라이맥스
+- `act/05-epilogue.md`: 에필로그 - 새로운 시작
 
 prologue와 epilogue는 엄밀히 얘기하면 프레임이지만 같은 수준의 문서를 나열하기 위해 이 목록에 들어옴.
 
 ### 장(Chapter) 문서
-- `01-01-chapter.md`: 제1막 1장 - 마을의 위기
-- `01-02-chapter.md`: 제1막 2장 - 전설의 단서
-- `02-03-chapter.md`: 제2막 3장 - 첫 번째 만남
-- `02-04-chapter.md`: 제2막 4장 - 동굴 속의 비밀
-- `03-05-chapter.md`: 제3막 5장 - 추격과 탈출
-- `03-06-chapter.md`: 제3막 6장 - 재결합과 결의
-- `04-07-chapter.md`: 제4막 7장 - 최후의 대결
-- `04-08-chapter.md`: 제4막 8장 - 진정한 보물
+- `chapter/01-01-chapter.md`: 제1막 1장 - 마을의 위기
+- `chapter/01-02-chapter.md`: 제1막 2장 - 전설의 단서
+- `chapter/02-03-chapter.md`: 제2막 3장 - 첫 번째 만남
+- `chapter/02-04-chapter.md`: 제2막 4장 - 동굴 속의 비밀
+- `chapter/03-05-chapter.md`: 제3막 5장 - 추격과 탈출
+- `chapter/03-06-chapter.md`: 제3막 6장 - 재결합과 결의
+- `chapter/04-07-chapter.md`: 제4막 7장 - 최후의 대결
+- `chapter/04-08-chapter.md`: 제4막 8장 - 진정한 보물
 
 ### 씬(Scene) 문서 예시
-- `01-01-01-scene.md`: 교실에서의 만남
-- `01-01-02-scene.md`: 탈옥 뉴스
-- `01-01-03-scene.md`: 마을 수몰 위기 대화
+- `scene/01-01-01-scene.md`: 교실에서의 만남
+- `scene/01-01-02-scene.md`: 탈옥 뉴스
+- `scene/01-01-03-scene.md`: 마을 수몰 위기 대화
 - (이하 각 장마다 3-5개의 씬 문서)
 
 ## 템플릿 문서

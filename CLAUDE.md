@@ -51,7 +51,7 @@ When the work is small in scale, `character-overview` and `setting-overview` may
 
 ### Detailed Setting Documents
 
-- **character-SOMEONE**: If there is substantial content about characters, detailed separate documents are written for each.
+- **character/character-SOMEONE**: If there is substantial content about characters, detailed separate documents are written for each. Stored in the `character/` directory.
 - **setting-SOMETHING**: If there is substantial content about background and settings, detailed separate documents are written for each.
 
 ### Structural Unit Documents
@@ -60,10 +60,17 @@ Detailed content is defined in the plot-structure document. The basic rule is th
 
 **This work uses Act-Chapter-Scene 3-tier structure.** Omitted units (Beat, Moment, Sequence, Episode) have their functions absorbed by adjacent units: Beat/Moment functions are absorbed by Scene, and Sequence/Episode functions are absorbed by Chapter.
 
+**Folder structure**: Each structural unit is stored in its corresponding folder. The production pipeline flows as: `act/` → `chapter/` → `scene/` → `novel/` → `final/`.
+- `act/`: Act-level documents (including prologue/epilogue)
+- `chapter/`: Chapter-level documents
+- `scene/`: Scene-level documents
+- `novel/`: Draft novel prose converted from scene documents
+- `final/`: Finalized, publication-ready chapter files
+
 **Numbering convention**:
-- **Act**: Sequential number (e.g., `01-act.md`, `02-act.md`)
-- **Chapter**: Absolute numbering across the entire work (e.g., `02-03-chapter.md` = Act 2, Chapter 3 overall)
-- **Scene**: Relative numbering within each chapter (e.g., `02-03-01-scene.md` = Act 2, Chapter 3, Scene 1 of that chapter)
+- **Act**: Sequential number (e.g., `act/01-act.md`, `act/02-act.md`)
+- **Chapter**: Absolute numbering across the entire work (e.g., `chapter/02-03-chapter.md` = Act 2, Chapter 3 overall)
+- **Scene**: Relative numbering within each chapter (e.g., `scene/02-03-01-scene.md` = Act 2, Chapter 3, Scene 1 of that chapter)
 
 ### Templates
 
@@ -88,14 +95,22 @@ Documents like `template-seq.md` define templates for corresponding structural u
 
 Final novel files are the complete prose versions of the smallest structural unit documents. These files contain the actual novel text that readers will consume.
 
-- **File naming**: `novel-[numbers].md` format (e.g., `novel-02-03-11.md` for Act 2, Chapter 3, Scene 11)
-- **Location**: All final novel files are stored in the `/novel` directory
+- **File naming**: `novel/novel-[numbers].md` format (e.g., `novel/novel-02-03-11.md` for Act 2, Chapter 3, Scene 11)
+- **Location**: All final novel files are stored in the `novel/` directory
 - **Content**: Full prose narrative converted from structural unit documents
-- **Format**: 
+- **Format**:
   - Written in Korean following all style guidelines
   - Complete narrative prose without structural markers or metadata
   - Maintains all elements from the structural document but in novel form
 - **Creation process**: Transform the smallest unit documents (scenes, moments, etc.) into flowing narrative text
+
+### Finalized Chapter Files
+
+Finalized chapter files are the publication-ready versions assembled from novel files. These represent the final confirmed text.
+
+- **File naming**: `final/f-{chapter number}-{chapter name}.md` format (e.g., `final/f-0-prologue.md`, `final/f-1-friends.md`)
+- **Location**: All finalized files are stored in the `final/` directory
+- **Content**: Complete, reviewed chapter text ready for publication
 
 
 ## Style Guidelines
