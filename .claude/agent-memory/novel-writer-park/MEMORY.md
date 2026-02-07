@@ -12,6 +12,13 @@
 - Scene docs (e.g., 01-01-01-scene.md) have excellent sensory/beat detail; Act docs lack this granularity
 - Character interactions (not just individual traits) are what bring scenes alive in prose
 
+## Act Evaluation Criteria - Feedback History
+- 1st feedback: Proposed 12 items. 6 accepted (C-6, D-5, D-6 area, E-6, spatial/temporal sections, A-4 enhancement)
+- 6 not accepted: D-score increase, sensory keywords as independent item, reference works, dialogue pattern evolution, inner POV focus, writer checklist appendix
+- 2nd feedback: Confirmed good reflection quality. New suggestions: split evaluation example to separate file (~90 lines saved), clarify prologue detail-level tolerance, add judgment guide to cross-eval-4
+- Key lesson: Act-level docs are structural; sensory/stylistic detail belongs at Chapter/Scene level per team consensus
+- Sensory keywords deferred to Chapter evaluation criteria - follow up when that doc is created
+
 ## Writing Patterns That Worked
 - novel-01-01-01.md: Opening with environmental description (time, light, space) sets scene effectively
 - Character introduction through action (Sujin writing journal, Jihoon at window, Minjun on phone) works better than static description
@@ -25,6 +32,12 @@
 - Taeho: Introduces stats/probabilities; glasses-adjusting as thinking gesture
 
 ## Document References
-- `act/act-evaluation-criteria.md`: Evaluation framework by Kim Taesu (team lead)
+- `act/act-evaluation-criteria.md`: Evaluation framework by Kim Taesu (team lead), updated with team feedback
 - `character-overview.md`: All 5 protagonists + 2 villains + Duru + Gyeoul
 - `plot-structure.md`: 4-act structure with prologue/epilogue, 8 chapters total
+
+## Team Members & Roles
+- Kim Taesu (김태수): Content team lead, document structure & evaluation criteria
+- Park Hojin (박호진): Novel writer, prose craft perspective
+- Jo Hyewon (조혜원): Plot writer, 15yr experience, narrative dynamics perspective
+- Lee Yeonsu (이연수): Editor, 10yr experience, reader experience & consistency perspective

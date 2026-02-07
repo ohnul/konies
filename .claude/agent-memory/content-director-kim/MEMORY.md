@@ -63,6 +63,13 @@
 - Key finding during creation: "꽃이 피는 돌/석등" motif has a gap in Acts 2-4 (only appears in Act 1 and Epilogue)
 - Key finding: Act 4 has 6 scenes at 15% volume - may be too dense, consistent with earlier observation about compression
 - Key finding: Epilogue has 0 scenes designed - needs scene breakdown
+- **2nd review (2026-02-07)**: Rated document A grade, pipeline-ready. Minor items: cross-5 foreshadowing table needs sample data, changelog entry too compressed. D-5/D-6 low point values (2-3pts) may need monitoring for discriminatory power.
+- **v3 final edits (2026-02-07)**: Cross-5 foreshadowing table filled with 3 examples (민준 chocolate, 겨울이 loyalty, bronze mirror rules). Evaluation result recording location specified (feedback/ folder). Setting conflict arbiter clarified (content director decides). Cross-2 character note generalized (removed specific Act references for maintainability). Changelog entries restructured into 4 groups. Document finalized at 435 lines. All 4 reviewers rated A grade.
+
+## Evaluation Criteria - Next Steps (as of 2026-02-07)
+1. Run actual evaluation on all 6 Act docs (individual)
+2. Run cross-evaluation after all Acts reach B+
+3. Create Chapter evaluation criteria (incorporate rejected Act-level suggestions: info revelation strategy, sensory keywords, dialogue pattern evolution, cognitive load)
 
 ## Team Feedback Patterns (2026-02-07)
 - All 3 team members flagged: foreshadowing management, reader experience/pacing, subjective comments in criteria docs
