@@ -44,6 +44,15 @@
 - old/ directory contains legacy versions (v0, v1 prologues, dated novel drafts)
 - _prompt-memo.md contains human team's working notes (marked DO NOT REFERENCE)
 
+## Evaluation Criteria (Created 2026-02-07)
+- Act evaluation criteria doc: /Users/donghyunkim/Documents/codes/konies/act/act-evaluation-criteria.md
+- 5 evaluation categories: Structure(25), Narrative Function(25), Character(20), Tone(15), Consistency(15) = 100pts
+- Grade system: S(90+), A(80+), B(70+), C(60+), D(<60); B+ required for Chapter doc creation
+- Cross-evaluation (횡단 평가) covers: tension curve, character balance, motif tracking, volume ratio
+- Key finding during creation: "꽃이 피는 돌/석등" motif has a gap in Acts 2-4 (only appears in Act 1 and Epilogue)
+- Key finding: Act 4 has 6 scenes at 15% volume - may be too dense, consistent with earlier observation about compression
+- Key finding: Epilogue has 0 scenes designed - needs scene breakdown
+
 ## Key File Paths
 - Rules: /Users/donghyunkim/Documents/codes/konies/CLAUDE.md
 - Plot structure: /Users/donghyunkim/Documents/codes/konies/plot-structure.md
