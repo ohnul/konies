@@ -52,7 +52,7 @@
 - 에필로그: 구름골의 새로운 시작
 
 ### 주요 문서 목록
-- `characters-overview.md`: 주인공 5명과 주요 인물 소개
+- `character-overview.md`: 주인공 5명과 주요 인물 소개
 - `settings-overview.md`: 구름골 마을과 시대적 배경
 - `plot-structure.md`: 세부 플롯 구조와 장면 구성
 - `CLAUDE.md`: 작품 작성 규칙과 스타일 가이드
