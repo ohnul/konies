@@ -76,13 +76,28 @@
 - Time frame corrected: removed 30-min overlap between Ch1 and Ch2
 - "전설과 현실" motif: kept as Act 1 sub-motif, linked to parent motif "욕심 없는 자만 열 수 있는 상자"
 - Rejected items (consistent across feedback docs): plot-structure.md scene example mismatch (예시, not prescriptive); Act-level sensory keyword requirement (Scene-level concern); identical density requirement to Act 2 (structural role difference)
-- Next: re-evaluate 01-act.md to confirm B+ grade after reinforcement; then evaluate remaining Acts
+
+## Act 1 Re-evaluation (2026-02-08)
+- Re-evaluated after reinforcement: A grade (83/100), up from C (60)
+- Breakdown: A=21/25, B=22/25, C=16/20, D=12/15, E=12/15
+- All items at 80%+ = well-balanced improvement
+- Biggest gains: Structure(+7), Narrative Function(+5)
+- Chapter doc creation now APPROVED (B+ threshold exceeded)
+- **Remaining issues for S grade**:
+  1. [MUST FIX] "꽃이 피는 돌" body-NOTE conflict: body says "연꽃 문양" but NOTE says "연꽃과 관계 없음"
+  2. [D-6] Reader experience design still 0/2 (hook, page-turner, anchor scene all missing)
+  3. [C-6] Character interaction combos not explicitly listed (1/3)
+  4. [E-6] Foreshadowing items 2-4 unconfirmed per author's own NOTE-TO-AI
+  5. [A-4] Ch1(1 scene) vs Ch2(4 scenes) imbalance intent unexplained
+- Quality parity with 02-act.md (84pts) achieved
+- Next: evaluate remaining Acts (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
 
 ## Evaluation Criteria - Next Steps (as of 2026-02-08)
-1. Re-evaluate 01-act.md after reinforcement (target: B+ or above)
+1. ~~Re-evaluate 01-act.md after reinforcement~~ DONE: A grade (83pts)
 2. Run evaluation on remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
 3. Run cross-evaluation after all Acts reach B+
 4. Create Chapter evaluation criteria (incorporate rejected Act-level suggestions: info revelation strategy, sensory keywords, dialogue pattern evolution, cognitive load)
+5. Fix 01-act.md "꽃이 피는 돌" body-NOTE conflict before Chapter doc creation
 
 ## Team Feedback Patterns (2026-02-07)
 - All 3 team members flagged: foreshadowing management, reader experience/pacing, subjective comments in criteria docs

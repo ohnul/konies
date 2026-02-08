@@ -5,12 +5,14 @@
 - Numbering: Act(sequential), Chapter(absolute), Scene(relative within chapter)
 - Existing novel files: novel-00-00-01, novel-00-00-02, novel-01-01-01, novel-01-02-01 (multiple versions)
 
-## Key Insights from Act Evaluation Review (2026-02-07)
+## Key Insights from Act Evaluation Reviews
 - Act documents serve as top-level guides; their quality directly impacts novel prose quality
-- Most useful Act-level info for writing: emotional arc, tone ratios, character crisis responses
-- Missing from current Act docs: sensory keywords, spatial movement paths, internal time progression
-- Scene docs (e.g., 01-01-01-scene.md) have excellent sensory/beat detail; Act docs lack this granularity
+- Most useful Act-level info for writing: emotional arc, tone ratios, character crisis responses, growth arc starting points
+- Act-level docs should NOT contain sensory keywords (Scene level concern, per team consensus)
 - Character interactions (not just individual traits) are what bring scenes alive in prose
+- **01-act.md re-evaluation (2026-02-08)**: D(56) -> A(85). Key improvements: growth arc section, 7-stage emotional arc, tone ratio with justification, humor element design, spatial/temporal sections
+- **01-act.md remaining issues**: NOTE-TO-AI inconsistencies (flower stone riddle interpretation), unconfirmed foreshadowing (3 of 4), C-6 character interactions still weak
+- **Important**: "꽃이 피는 돌" = NOT lotus pattern. It's the flower-petal-shaped base of old stone lanterns with a faint arrow. Follow NOTE-TO-AI, not the main text where it says "연꽃 문양"
 
 ## Act Evaluation Criteria - Feedback History
 - 1st feedback: Proposed 12 items. 6 accepted (C-6, D-5, D-6 area, E-6, spatial/temporal sections, A-4 enhancement)
