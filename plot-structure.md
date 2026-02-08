@@ -55,10 +55,12 @@ prologue와 epilogue는 엄밀히 얘기하면 프레임이지만 같은 수준�
 - `chapter/04-07-chapter.md`: 제4막 7장 - 최후의 대결
 - `chapter/04-08-chapter.md`: 제4막 8장 - 진정한 보물
 
-### 씬(Scene) 문서 예시
-- `scene/01-01-01-scene.md`: 교실에서의 만남
-- `scene/01-01-02-scene.md`: 탈옥 뉴스
-- `scene/01-01-03-scene.md`: 마을 수몰 위기 대화
+### 씬(Scene) 문서 (제1막)
+- `scene/01-01-01-scene.md`: 방과 후 교실
+- `scene/01-02-01-scene.md`: 꽃이 피는 돌 찾기
+- `scene/01-02-02-scene.md`: 마을 탐색
+- `scene/01-02-03-scene.md`: 석등의 비밀 발견
+- `scene/01-02-04-scene.md`: 불꽃이 만든 길
 - (이하 각 장마다 3-5개의 씬 문서)
 
 ## 템플릿 문서
