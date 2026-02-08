@@ -154,16 +154,30 @@
   - Hyewon's 연꽃 문양 E-4 error catch was most impactful single finding
 
 ## Chapter Evaluation Results (2026-02-08)
-- **01-01-chapter.md**: D grade (42/100) by Taesoo. A=10/25(40%), B=11/25(44%), C=10/20(50%), D=3/15(20%), E=8/15(53%)
+- **01-01-chapter.md 1st eval**: D grade (42/100) by Taesoo. A=10/25(40%), B=11/25(44%), C=10/20(50%), D=3/15(20%), E=8/15(53%)
   - D항목 20% = 항목별 최소 기준(40%) 심각 미달, 필수 보완 대상
   - Root causes: no tone/pacing section, no subplot goals, no mini-climax designation, no cognitive load management
   - Single-scene structure (01-01-01 only) confirmed as major structural concern
-  - Act doc has rich content (tone, humor, pacing, foreshadowing) that Chapter doc fails to inherit
-  - Scene doc (01-01-01) also has detailed Beat/Moment/sensory info that Chapter should bridge
-  - 7 [필수] items + 5 [권장] items identified
-  - Memory prediction confirmed: "expected to score similarly low" (line 127 of MEMORY) was accurate
-  - **01-01-chapter.md scored 25 points LOWER than 01-02-chapter.md** (42 vs 67). D항목 gap is the largest (3 vs 9)
   - Key learning: Chapter docs written before evaluation criteria existed lack Episode/Sequence absorption features almost entirely
+- **01-01-chapter.md 4-person eval (1st round)**: Taesoo(D/42), Hyewon(D/51), Yeonsu(D/53), Hojin(D/54)
+  - All 4 unanimous D grade; average 50pts
+  - Common issues: no tone section, no subplot goals, no mini-climax, no info disclosure strategy, no cognitive load management
+  - Key insights: Act doc has rich content that Chapter doc failed to inherit; Scene doc has detailed Beat/Moment info that Chapter should bridge
+
+## Chapter 01-01 Reinforcement (2026-02-08)
+- **Rewrite completed**: ~134 lines -> ~359 lines (2.7x expansion)
+- All 11 required sections now present (was missing 2+)
+- **Feedback processing results** (4 evaluation files updated with "김태수 팀장 응답"):
+  - Accepted items applied: tone section, subplot goals (seed-level), mini-climax (Moment 4), info disclosure strategy, cognitive load management (3+2 intro), sensory keywords, character interaction design, humor placement, tension/relaxation rhythm, foreshadowing management, reader experience design
+  - **Scene split decision**: Maintained single scene (spacetime principle) with 5-moment internal structure + cognitive load management. Partially accepted from all 4 reviewers - enhanced moment-level guidance instead of splitting
+  - Deferred: scene split re-evaluation after re-grading
+  - Character tag behaviors added: 수진(펜 떨어뜨림), 지훈(창가 겨울이), 민준(카메라), 지영(문 쾅), 태호(확률 계산)
+  - Start hook changed: vague "peaceful classroom" -> "전교생 5명뿐인 교실에서, 학생회장이 펜을 떨어뜨렸다"
+  - End hook: "복도를 달리는 세 아이와 한 마리의 발소리 뒤로, 형과 누나의 날카로운 의심이 쫓아온다"
+  - Subplot goals at seed level: 수진 가면벗기, 민준 현실/가상 괴리, 지영/태호 미행
+  - Info dump prevention: 3-stage legend disclosure, character intro via behavior not description, economic info -> emotional translation
+  - Tone ratio: 55% friendship/humor, 45% adventure/tension (matching Act doc)
+- **Awaiting re-evaluation**: target B+(75+) for Scene doc creation approval
 
 ## Evaluation Criteria - Next Steps (as of 2026-02-08)
 1. ~~Re-evaluate 01-act.md after reinforcement~~ DONE: A grade (83pts)
@@ -173,9 +187,11 @@
 5. ~~Create Chapter evaluation criteria~~ DONE: 2026-02-08, v1=378 lines
 6. ~~Process Chapter eval criteria feedback~~ DONE: 2026-02-08, v2=421 lines, 19 changes from 4 reviewers
 7. Formalize "마을 빚 50억" in setting-overview.md (separate task, triggered by Yeonsu feedback)
-8. ~~Evaluate 01-01-chapter.md~~ DONE: D grade (42/100), needs reinforcement
-9. Evaluate 01-02-chapter.md (formal evaluation, not just criteria example)
-10. Reinforce both Chapter docs to B+ for Scene doc creation
+8. ~~Evaluate 01-01-chapter.md~~ DONE: D grade (42/100), 4-person avg 50pts
+9. ~~Reinforce 01-01-chapter.md~~ DONE: rewritten 134->359 lines, all 11 sections, feedback responses added
+10. Re-evaluate 01-01-chapter.md (target B+/75+)
+11. Evaluate 01-02-chapter.md (formal evaluation, not just criteria example)
+12. Reinforce 01-02-chapter.md to B+ for Scene doc creation
 11. Create Chapter docs for Acts 2-4 (02-03, 02-04, 03-05, 03-06, 04-07, 04-08)
 12. D항목 배점 재조정: Chapter 평가 3회 이상 실시 후 재검토 (Hyewon/Hojin 요청, 현재 거절). 1st evaluation (01-01) shows D항목 IS the weakest area - this strengthens the case for eventual rebalancing
 13. Add CLAUDE.md "서브플롯" term definition (Yeonsu request, separate task)
