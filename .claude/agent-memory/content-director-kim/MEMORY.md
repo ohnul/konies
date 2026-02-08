@@ -108,13 +108,32 @@
 - **01-act.md now at 147 lines** (up from 127), structurally more complete
 - Next: evaluate remaining Acts (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
 
+## Chapter Evaluation Criteria (Created 2026-02-08)
+- Chapter evaluation criteria doc: /Users/donghyunkim/Documents/codes/konies/chapter/chapter-evaluation-criteria.md
+- 5 evaluation categories matching Act structure: Structure(25), Narrative+Absorption(25), Character(20), Tone/Pacing/Reader(15), Consistency(15) = 100pts
+- Key differences from Act evaluation:
+  - A-2 "씬 분할의 적절성": evaluates Scene decomposition quality (new, Chapter-specific)
+  - A-3 "후크 설계": Episode function absorption (start hook, mini-climax, end hook)
+  - B-2 "정보 공개 전략": info revelation strategy (deferred from Act criteria)
+  - B-3 "서브플롯 진행": Sequence function absorption (subplot objectives per chapter)
+  - D-3 "인지 부하 관리": cognitive load for target readers (new, Chapter-specific)
+  - D-5 "감각 키워드와 분위기 전환": sensory keywords per scene (deferred from Act criteria)
+  - No chapter-type-specific criteria (unlike Act's B-1~B-6); chapters evaluated uniformly
+- Grade system: same S/A/B/C/D; B+ required for Scene doc creation
+- Balance check appendix: covers volume ratio, character distribution, tone continuity, hook chain within same Act
+- Evaluation example: 01-02-chapter.md scored C (67/100) - weakest in B-3 (no subplot goals) and D (tone/pacing details)
+- Feedback file naming: `YYYYMMDD-HHMM-{막번호}-{장번호}-chapter-eval.md`
+- 01-01-chapter.md expected to score similarly low: single scene overload, missing Episode/Sequence absorption elements
+
 ## Evaluation Criteria - Next Steps (as of 2026-02-08)
 1. ~~Re-evaluate 01-act.md after reinforcement~~ DONE: A grade (83pts)
 2. ~~Process 2nd round feedback for 01-act.md~~ DONE: 5 items applied, comments on all 4 feedback docs
 3. Run evaluation on remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
 4. Run cross-evaluation after all Acts reach B+
-5. Create Chapter evaluation criteria (incorporate rejected Act-level suggestions: info revelation strategy, sensory keywords, dialogue pattern evolution, cognitive load)
+5. ~~Create Chapter evaluation criteria~~ DONE: 2026-02-08, 378 lines, includes evaluation example (01-02-chapter.md = C/67)
 6. Formalize "마을 빚 50억" in setting-overview.md (separate task, triggered by Yeonsu feedback)
+7. Evaluate existing Chapter docs (01-01-chapter.md, 01-02-chapter.md) and reinforce to B+ for Scene doc creation
+8. Create Chapter docs for Acts 2-4 (02-03, 02-04, 03-05, 03-06, 04-07, 04-08)
 
 ## Team Feedback Patterns (2026-02-07, updated 2026-02-08)
 - All 3 team members flagged: foreshadowing management, reader experience/pacing, subjective comments in criteria docs
