@@ -48,6 +48,9 @@
 - **01-01-chapter.md 2nd eval (2026-02-08)**: D(54) -> A(88), +34pts. All 13 feedback items (6 mandatory + 7 recommended) reflected. Key improvements: 5-moment internal structure, cognitive load management strategy, info disclosure mapping table, character-specific dialogue/action directions with moment mapping, tension/relaxation rhythm with transition triggers, sensory keywords per moment, subplot goals in verb+result form. Chapter now provides unique value beyond Act doc.
 - Remaining minor issues: subplot table missing Jihoon/Taeho seeds, moment 3->4 transition coincidence, tactile senses underrepresented, terminology handling not systematized
 - **Key pattern**: Effective Chapter revision strategy = add Chapter-unique value (cognitive load mgmt, info mapping, character-moment mapping) rather than just expanding Act content
+- **01-02-chapter.md 1st eval (2026-02-08)**: D(50). Critical issues: "연꽃 문양" setting error (must be "꽃받침 형태의 받침"), no subplot goals section, no character arc progression, no character interaction design, no tension/relaxation rhythm, no sensory keywords, no humor placement plan, time frame mismatch with Act (Ch ends 6pm vs Act 7pm). C(8/20) and D(6/15) at 40% minimum threshold.
+- **01-02 vs 01-01 gap**: 01-02 is at the level 01-01 was BEFORE revision (D grade). Same core problem: "Act document abstractor" instead of "intermediate converter". Needs same treatment as 01-01 revision.
+- **Key lesson repeated**: Chapter docs that only list role keywords without scene-specific actions/dialogue directions are useless for prose writing. The confirmed 01-01 should be the template for all future Chapter docs.
 
 ## Document References
 - `act/act-evaluation-criteria.md`: Evaluation framework by Kim Taesu (team lead), updated with team feedback
