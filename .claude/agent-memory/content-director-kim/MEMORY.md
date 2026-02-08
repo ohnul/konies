@@ -108,33 +108,63 @@
 - **01-act.md now at 147 lines** (up from 127), structurally more complete
 - Next: evaluate remaining Acts (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
 
-## Chapter Evaluation Criteria (Created 2026-02-08)
+## Chapter Evaluation Criteria (Created 2026-02-08, v2 2026-02-08)
 - Chapter evaluation criteria doc: /Users/donghyunkim/Documents/codes/konies/chapter/chapter-evaluation-criteria.md
 - 5 evaluation categories matching Act structure: Structure(25), Narrative+Absorption(25), Character(20), Tone/Pacing/Reader(15), Consistency(15) = 100pts
 - Key differences from Act evaluation:
   - A-2 "씬 분할의 적절성": evaluates Scene decomposition quality (new, Chapter-specific)
-  - A-3 "후크 설계": Episode function absorption (start hook, mini-climax, end hook)
+  - A-3 "후크 설계": Episode function absorption (start hook, end hook; mini-climax location only, effect -> B-4)
   - B-2 "정보 공개 전략": info revelation strategy (deferred from Act criteria)
   - B-3 "서브플롯 진행": Sequence function absorption (subplot objectives per chapter)
+  - B-4 "미니 클라이맥스와 서사적 완결감": Episode self-containment evaluation added in v2
   - D-3 "인지 부하 관리": cognitive load for target readers (new, Chapter-specific)
   - D-5 "감각 키워드와 분위기 전환": sensory keywords per scene (deferred from Act criteria)
   - No chapter-type-specific criteria (unlike Act's B-1~B-6); chapters evaluated uniformly
 - Grade system: same S/A/B/C/D; B+ required for Scene doc creation
-- Balance check appendix: covers volume ratio, character distribution, tone continuity, hook chain within same Act
+- Balance check appendix: covers volume ratio, character distribution, tone continuity, hook chain, foreshadowing chain (5 items, v2)
 - Evaluation example: 01-02-chapter.md scored C (67/100) - weakest in B-3 (no subplot goals) and D (tone/pacing details)
 - Feedback file naming: `YYYYMMDD-HHMM-{막번호}-{장번호}-chapter-eval.md`
 - 01-01-chapter.md expected to score similarly low: single scene overload, missing Episode/Sequence absorption elements
-- **Taesoo feedback (2026-02-08)**: Rated A grade, pipeline-ready. Top 2 issues: (1) scoring scale anchors needed for high-point items (A-2/B-1), (2) Episode "narrative self-containment" evaluation missing. Also flagged: expected volume field missing from checklist, villain character evaluation absent, balance-5 (foreshadowing flow) missing from appendix, plot-structure.md template vs criteria checklist gap needs acknowledgment.
+- **v2 changes from 4-person feedback (2026-02-08)**:
+  - A-3/B-4 mini-climax dual evaluation resolved: A-3 = hooks + location only, B-4 = effect + self-containment
+  - D-1/D-2 role differentiation clarified: D-1 = base tone + mood keywords, D-2 = tension/release dynamics
+  - Scoring scale anchors added for A-2 (6pt) and B-1 (6pt): 4-level anchors (6/4/2/0)
+  - Required sections: 10 -> 11 (added "예상 분량/비중"), section omission penalty: -1/missing, -0.5/distributed
+  - D-5 minimum standard: sensory keywords mandatory for mood-transition scenes, recommended for others
+  - D-6 expanded: vocabulary level appropriateness added
+  - A-2: spatiotemporal unit principle added as first checkpoint
+  - Balance-5 foreshadowing chain added to appendix
+  - B-1/E-3 role separation clarified (narrative function vs formal data consistency)
+  - Double-penalty prevention principle added
+  - Prologue/epilogue exemption stated
+  - plot-structure.md template relationship stated
+  - C-2: villain character evaluation conditionally added
+  - E-5: scene-foreshadowing mapping added
+  - Evaluation example E-4 error corrected (연꽃 문양 inconsistency flagged), A-4/B-3 scores adjusted
+  -補完 priority tags ([필수]/[권장]) added to evaluation output guide
+  - "챕터" -> "장" unified throughout appendix
+  - B-3: subplot target phrasing guide (verb+result) and absence scoring guide added
+- **Feedback patterns (Chapter eval criteria)**:
+  - 3/4 flagged A-3/B-4 mini-climax duplication (Hyewon, Yeonsu, Taesoo)
+  - 3/4 flagged balance-5 foreshadowing missing (Taesoo, Hyewon, Yeonsu)
+  - 2/4 flagged D-1/D-2 overlap (Hojin directly, Hyewon indirectly)
+  - 2/4 flagged scoring scale anchors (Taesoo, Yeonsu)
+  - D item scoring increase (15->20): rejected (Hyewon strongly, Hojin/Yeonsu indirectly) - will revisit after 3+ evaluations
+  - B-5 scoring increase (4->5): rejected (Hyewon) - will revisit after evaluation experience
+  - Hyewon's 연꽃 문양 E-4 error catch was most impactful single finding
 
 ## Evaluation Criteria - Next Steps (as of 2026-02-08)
 1. ~~Re-evaluate 01-act.md after reinforcement~~ DONE: A grade (83pts)
 2. ~~Process 2nd round feedback for 01-act.md~~ DONE: 5 items applied, comments on all 4 feedback docs
 3. Run evaluation on remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
 4. Run cross-evaluation after all Acts reach B+
-5. ~~Create Chapter evaluation criteria~~ DONE: 2026-02-08, 378 lines, includes evaluation example (01-02-chapter.md = C/67)
-6. Formalize "마을 빚 50억" in setting-overview.md (separate task, triggered by Yeonsu feedback)
-7. Evaluate existing Chapter docs (01-01-chapter.md, 01-02-chapter.md) and reinforce to B+ for Scene doc creation
-8. Create Chapter docs for Acts 2-4 (02-03, 02-04, 03-05, 03-06, 04-07, 04-08)
+5. ~~Create Chapter evaluation criteria~~ DONE: 2026-02-08, v1=378 lines
+6. ~~Process Chapter eval criteria feedback~~ DONE: 2026-02-08, v2=421 lines, 19 changes from 4 reviewers
+7. Formalize "마을 빚 50억" in setting-overview.md (separate task, triggered by Yeonsu feedback)
+8. Evaluate existing Chapter docs (01-01-chapter.md, 01-02-chapter.md) and reinforce to B+ for Scene doc creation
+9. Create Chapter docs for Acts 2-4 (02-03, 02-04, 03-05, 03-06, 04-07, 04-08)
+10. D항목 배점 재조정: Chapter 평가 3회 이상 실시 후 재검토 (Hyewon/Hojin 요청, 현재 거절)
+11. Add CLAUDE.md "서브플롯" term definition (Yeonsu request, separate task)
 
 ## Team Feedback Patterns (2026-02-07, updated 2026-02-08)
 - All 3 team members flagged: foreshadowing management, reader experience/pacing, subjective comments in criteria docs
