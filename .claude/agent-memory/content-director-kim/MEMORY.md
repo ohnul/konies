@@ -66,10 +66,23 @@
 - **2nd review (2026-02-07)**: Rated document A grade, pipeline-ready. Minor items: cross-5 foreshadowing table needs sample data, changelog entry too compressed. D-5/D-6 low point values (2-3pts) may need monitoring for discriminatory power.
 - **v3 final edits (2026-02-07)**: Cross-5 foreshadowing table filled with 3 examples (민준 chocolate, 겨울이 loyalty, bronze mirror rules). Evaluation result recording location specified (feedback/ folder). Setting conflict arbiter clarified (content director decides). Cross-2 character note generalized (removed specific Act references for maintainability). Changelog entries restructured into 4 groups. Document finalized at 435 lines. All 4 reviewers rated A grade.
 
-## Evaluation Criteria - Next Steps (as of 2026-02-07)
-1. Run actual evaluation on all 6 Act docs (individual)
-2. Run cross-evaluation after all Acts reach B+
-3. Create Chapter evaluation criteria (incorporate rejected Act-level suggestions: info revelation strategy, sensory keywords, dialogue pattern evolution, cognitive load)
+## Act 1 Evaluation & Reinforcement (2026-02-08)
+- 01-act.md evaluated by 4 reviewers: Taesoo(C/60), Hyewon(D/54), Hojin(D/56), Yeonsu(D/57)
+- Common issues: missing spatial route/time frame, missing growth arc, poor Jiyoung/Taeho roles, no tone ratio, no foreshadowing section
+- Reinforcement added: 6 new sections (spatial route, time frame, growth arc, foreshadowing, humor elements, prologue connection)
+- Emotional arc expanded from 4 to 7 stages; turning points from 3 to 5
+- Legend narrator corrected: Sujin -> Jihoon (matching scene doc 01-01-01)
+- Tone ratio set: friendship/humor 55%, adventure/tension 45% (deviation from 60/40 default justified for setup act)
+- Time frame corrected: removed 30-min overlap between Ch1 and Ch2
+- "전설과 현실" motif: kept as Act 1 sub-motif, linked to parent motif "욕심 없는 자만 열 수 있는 상자"
+- Rejected items (consistent across feedback docs): plot-structure.md scene example mismatch (예시, not prescriptive); Act-level sensory keyword requirement (Scene-level concern); identical density requirement to Act 2 (structural role difference)
+- Next: re-evaluate 01-act.md to confirm B+ grade after reinforcement; then evaluate remaining Acts
+
+## Evaluation Criteria - Next Steps (as of 2026-02-08)
+1. Re-evaluate 01-act.md after reinforcement (target: B+ or above)
+2. Run evaluation on remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
+3. Run cross-evaluation after all Acts reach B+
+4. Create Chapter evaluation criteria (incorporate rejected Act-level suggestions: info revelation strategy, sensory keywords, dialogue pattern evolution, cognitive load)
 
 ## Team Feedback Patterns (2026-02-07)
 - All 3 team members flagged: foreshadowing management, reader experience/pacing, subjective comments in criteria docs
