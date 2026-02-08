@@ -6,11 +6,22 @@
 - Second review: rated A, 2 minor suggestions remaining (D-6 배점 조정, 평가 결과 기록 위치)
 - 01-act.md evaluated (2026-02-07): rated D (57/100), 11 improvement recommendations
 - 01-act.md re-evaluated (2026-02-08): rated A (83/100), +26 improvement. 5 S-grade suggestions remaining
+- Chapter evaluation criteria reviewed (2026-02-08): rated A-, 11 suggestions made
+  - Key issues: A-3/B-4 mini-climax duplication, B-1/E-3 role overlap, example scoring transparency
 
 ## Document Review Patterns
 - `act/act-evaluation-criteria.md`: 436-line evaluation criteria document, well-structured with 5 pillars (A~E), scoring system (100pt), and cross-evaluation appendix
+- `chapter/chapter-evaluation-criteria.md`: 379-line document, inherits Act criteria structure with Chapter-specific additions (Episode/Sequence absorption, scene splitting, info disclosure strategy, cognitive load, sensory keywords)
 - Team feedback cycle: 3 reviewers (이연수/편집, 조혜원/플롯, 박호진/집필) -> 팀장 반영 -> 2차 리뷰
 - 김태수 팀장 responds to feedback with clear accept/reject reasoning
+
+## Evaluation Criteria Cross-Document Patterns
+- Both Act and Chapter criteria use identical A~E structure (25/25/20/15/15 scoring)
+- Act criteria: 횡단 평가 (cross-evaluation across Acts), Chapter criteria: 균형 점검 (balance check within same Act)
+- **Recurring structural issue**: evaluation items that overlap (e.g., mini-climax in both A-3 and B-4 of Chapter criteria; similar to how Act criteria had overlapping concerns)
+- **Example scoring transparency**: Both criteria documents need clearer linkage between scoring deductions and specific checklist items
+- **Term inconsistency pattern**: "Chapter/장/챕터" triple notation in Chapter criteria mirrors earlier "톤/분위기" ambiguity in Act criteria
+- Act criteria resolved: 평가 결과 기록 위치, 설정 충돌 해결 규칙 -- both carried over to Chapter criteria successfully
 
 ## Act Document Quality Patterns
 - **01-act.md quality gap RESOLVED**: After revision, 01-act.md (83pt) now matches 02-act.md (84pt example) quality
@@ -35,9 +46,11 @@ Remaining for S-grade: C-6 상호작용 설계, D-6 앵커 장면, E-4 "50억" �
 
 ## Key Editorial Observations
 - "스스로" spelling issue: appears in 04-act.md (line 8, 51). May be typo for "스스로"
-- Prologue/Epilogue formatting exceptions now documented in criteria
+- Prologue/Epilogue formatting exceptions now documented in Act criteria; Chapter criteria lacks this
 - Cross-evaluation (횡단 평가) relationship to individual scoring now clarified
 - Setting conflict resolution rule: Act docs cannot independently create rules not in parent docs
+- Chapter criteria missing "복선 연쇄" in balance check appendix (Act criteria has 횡단-5)
+- "서브플롯" used extensively in Chapter criteria but not defined in CLAUDE.md
 
 ## Feedback Style Notes
 - Re-evaluation should: compare before/after, acknowledge improvements, focus on remaining gaps

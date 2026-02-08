@@ -124,6 +124,7 @@
 - Evaluation example: 01-02-chapter.md scored C (67/100) - weakest in B-3 (no subplot goals) and D (tone/pacing details)
 - Feedback file naming: `YYYYMMDD-HHMM-{막번호}-{장번호}-chapter-eval.md`
 - 01-01-chapter.md expected to score similarly low: single scene overload, missing Episode/Sequence absorption elements
+- **Taesoo feedback (2026-02-08)**: Rated A grade, pipeline-ready. Top 2 issues: (1) scoring scale anchors needed for high-point items (A-2/B-1), (2) Episode "narrative self-containment" evaluation missing. Also flagged: expected volume field missing from checklist, villain character evaluation absent, balance-5 (foreshadowing flow) missing from appendix, plot-structure.md template vs criteria checklist gap needs acknowledgment.
 
 ## Evaluation Criteria - Next Steps (as of 2026-02-08)
 1. ~~Re-evaluate 01-act.md after reinforcement~~ DONE: A grade (83pts)

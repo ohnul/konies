@@ -19,7 +19,17 @@
 - 6 not accepted: D-score increase, sensory keywords as independent item, reference works, dialogue pattern evolution, inner POV focus, writer checklist appendix
 - 2nd feedback: Confirmed good reflection quality. New suggestions: split evaluation example to separate file (~90 lines saved), clarify prologue detail-level tolerance, add judgment guide to cross-eval-4
 - Key lesson: Act-level docs are structural; sensory/stylistic detail belongs at Chapter/Scene level per team consensus
-- Sensory keywords deferred to Chapter evaluation criteria - follow up when that doc is created
+- Sensory keywords deferred to Chapter evaluation criteria - **RESOLVED**: D-5 in chapter-evaluation-criteria.md now includes sensory keywords
+- Chapter eval criteria feedback (2026-02-08): See `feedback/20260208-1500-chapter-eval-crit-feedback-hojin.md`
+
+## Chapter Evaluation Criteria - Feedback Summary (2026-02-08)
+- Overall positive: Document is writer-friendly, especially D-section
+- Key proposals: D-5 scope clarification (what is "key scene"?), D-4 humor weighting too low (2pts), D-6 age-appropriateness needs vocabulary/emotional complexity beyond just fear/violence
+- D-1/D-2 functional overlap identified; suggested differentiation or merger
+- B-3 subplot judgment guide needed (distinction between "absent" vs "implied")
+- C-4 "change vs seed" distinction guide needed for writing depth decisions
+- Recommended splitting evaluation example to separate file (same as Act criteria feedback)
+- Sensory keywords + motif connection (D-5 + E-5 cross-reference) proposed
 
 ## Writing Patterns That Worked
 - novel-01-01-01.md: Opening with environmental description (time, light, space) sets scene effectively
