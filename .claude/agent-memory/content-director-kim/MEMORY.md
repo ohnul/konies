@@ -15,8 +15,8 @@
 - README.md: wrong filenames (characters-overview, settings-overview), different Act subtitles from plot-structure.md
 - Prologue numbering: 00-prologue-v2.md vs scenes 00-00-01/00-00-02
 - setting-overview.md: "마을 빚 50억" not formalized yet (used in act/chapter/scene/novel/final)
-- **Act-Chapter spatial inconsistency**: Act says "운동장(탈출)", Chapter says "복도(교실 탈출 시)" - PENDING resolution
-- **Foreshadowing classification drift**: Act "검토 중" vs Chapter "확정" for 지영/태호 미행 - PENDING sync
+- ~~Act-Chapter spatial inconsistency~~: RESOLVED 2026-02-08. Act: "복도(탈출) -> 운동장(경유)", Chapter: "복도(교실 탈출 시) -> 운동장(경유, 지영/태호 시점의 창밖 장면)". Report 보류1 -> 해결됨
+- ~~Foreshadowing classification drift~~: RESOLVED 2026-02-08. 겨울이/지영태호 복선 모두 Act/Chapter 양쪽 "보류"로 통일. 최종원고 단계에서 구체화하기로 합의.
 
 ## Completed Work Status (Updated 2026-02-08)
 - **Act docs**: All created (00-prologue through 05-epilogue). 01-act-confirmed.md = A grade (83pts)
@@ -53,8 +53,8 @@
 
 ## Next Steps (Priority Order)
 1. ~~Re-evaluate 01-01-chapter.md~~ DONE: A/87 avg, feedback applied (8 accepted items)
-2. **Resolve Act-Chapter spatial inconsistency** (운동장 vs 복도) - needs team discussion
-3. **Sync foreshadowing classifications** between Act and Chapter docs
+2. ~~Resolve Act-Chapter spatial inconsistency~~ DONE: 2026-02-08, aligned to final/f-1-friends.md
+3. ~~Sync foreshadowing classifications~~ DONE: 2026-02-08. 겨울이/지영태호 양쪽 "보류"로 통일, Act/Chapter/Report 3개 문서 동기화 완료
 4. Evaluate 01-02-chapter.md formally -> reinforce to B+ -> Scene approval
 5. Evaluate remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
 6. Create Chapter docs for Acts 2-4
