@@ -83,29 +83,47 @@
 - All items at 80%+ = well-balanced improvement
 - Biggest gains: Structure(+7), Narrative Function(+5)
 - Chapter doc creation now APPROVED (B+ threshold exceeded)
-- **Remaining issues for S grade**:
-  1. [MUST FIX] "꽃이 피는 돌" body-NOTE conflict: body says "연꽃 문양" but NOTE says "연꽃과 관계 없음"
-  2. [D-6] Reader experience design still 0/2 (hook, page-turner, anchor scene all missing)
-  3. [C-6] Character interaction combos not explicitly listed (1/3)
-  4. [E-6] Foreshadowing items 2-4 unconfirmed per author's own NOTE-TO-AI
-  5. [A-4] Ch1(1 scene) vs Ch2(4 scenes) imbalance intent unexplained
 - Quality parity with 02-act.md (84pts) achieved
+
+## Act 1 - 2nd Round Feedback Processing (2026-02-08)
+- 4 reviewers re-evaluated: Taesoo(A/83), Hojin(A/85), Yeonsu(A/83), Hyewon(A/83)
+- Team leader comments added to all 4 feedback docs
+- **Accepted & applied to 01-act.md**:
+  1. [E-4] "꽃이 피는 돌" body-NOTE conflict RESOLVED: "연꽃 문양" -> "불꽃이 피어나는 돌(석등)" throughout
+  2. [C-6] Character interaction section ADDED: 5 key combos with narrative functions
+  3. [D-6] Reader experience design ADDED: hook, anchor scene ("불꽃도 꽃이잖아!" moment), page-turner (light in abandoned hall)
+  4. [E-6] Foreshadowing split into "confirmed" (탈옥범 뉴스) and "under review" (3 others) with deliberation notes
+  5. [D-5] Pacing summary ADDED: "전반=대화 중심 느린 설정, 후반=행동 중심 빠른 탐색" + relaxation zones specified
+- **Accepted but separate task**:
+  - [E-4] "마을 빚 50억" needs to be formalized in setting-overview.md (Yeonsu's finding; already used in scene/novel/final files)
+- **Rejected items**:
+  - Scene-level detail requests (Scene별 비중, 지훈 대사 예시, 지훈 직설 화법 행동 설계) -> Chapter/Scene docs
+  - 3-stage transition time gap annotation -> unnecessary meta-info
+  - 전환점 1->2 connective tissue -> already covered by emotional arc "균열" stage
+  - "왜 아이들이 직접 나서는가" explicit motivation -> Chapter doc level
+  - 지영의 열정 발현 다양화 -> intentional design (growth arc: "열정이 제지로만 향하는" = starting weakness)
+  - Prologue foreshadowing 1막 유지/회수 mapping -> cross-evaluation phase
+  - Ch1 single scene split -> Chapter doc creation phase
+  - "현실 80% + 환상 20%" ratio mention -> irrelevant for setup act (no fantasy elements yet)
+- **01-act.md now at 147 lines** (up from 127), structurally more complete
 - Next: evaluate remaining Acts (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
 
 ## Evaluation Criteria - Next Steps (as of 2026-02-08)
 1. ~~Re-evaluate 01-act.md after reinforcement~~ DONE: A grade (83pts)
-2. Run evaluation on remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
-3. Run cross-evaluation after all Acts reach B+
-4. Create Chapter evaluation criteria (incorporate rejected Act-level suggestions: info revelation strategy, sensory keywords, dialogue pattern evolution, cognitive load)
-5. Fix 01-act.md "꽃이 피는 돌" body-NOTE conflict before Chapter doc creation
+2. ~~Process 2nd round feedback for 01-act.md~~ DONE: 5 items applied, comments on all 4 feedback docs
+3. Run evaluation on remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
+4. Run cross-evaluation after all Acts reach B+
+5. Create Chapter evaluation criteria (incorporate rejected Act-level suggestions: info revelation strategy, sensory keywords, dialogue pattern evolution, cognitive load)
+6. Formalize "마을 빚 50억" in setting-overview.md (separate task, triggered by Yeonsu feedback)
 
-## Team Feedback Patterns (2026-02-07)
+## Team Feedback Patterns (2026-02-07, updated 2026-02-08)
 - All 3 team members flagged: foreshadowing management, reader experience/pacing, subjective comments in criteria docs
-- Hyewon (plot): strongest on narrative dynamics, foreshadowing vs motif distinction, information revelation strategy
-- Hojin (writing): strongest on practical writing needs - space/time info, sensory details, character interaction chemistry
-- Yeonsu (editing): strongest on formal consistency, cross-verification with actual docs, process/protocol gaps
+- Hyewon (plot): strongest on narrative dynamics, foreshadowing vs motif distinction, information revelation strategy; also flags 지영 character depth issues and prologue foreshadowing mapping
+- Hojin (writing): strongest on practical writing needs - space/time info, sensory details, character interaction chemistry; "숲의 설계도" metaphor well captures Act doc function evolution
+- Yeonsu (editing): strongest on formal consistency, cross-verification with actual docs, process/protocol gaps; uniquely found "마을 빚 50억" setting-overview gap
 - Rejected pattern: all 3 suggested item F or expanded scoring - kept at 5 items to avoid document bloat
 - "스스로" flagged as typo by 2 members but confirmed as correct Korean standard spelling
+- 2nd round pattern: 지영's "열정" direction was flagged by Hyewon in both rounds - track this for Act 2+ reviews
 
 ## Key File Paths
 - Rules: /Users/donghyunkim/Documents/codes/konies/CLAUDE.md
