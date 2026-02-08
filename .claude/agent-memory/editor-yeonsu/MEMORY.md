@@ -61,5 +61,31 @@ Remaining for S-grade: C-6 상호작용 설계, D-6 앵커 장면, E-4 "50억" �
 - For Act evaluations: always compare against other Act documents for quality consistency
 - Use concrete examples from the evaluated document when pointing out issues
 
+## Chapter Document Evaluation Patterns
+
+### 01-01-chapter.md Evaluation (2026-02-08)
+- **Score**: 53/100, D grade (재작성 필요)
+- **Critical issue**: D항목 5/15 (33%) -- below 40% minimum threshold, mandatory remediation
+- **Root cause**: Act document (83pt, A grade) has rich design but Chapter document failed to inherit it
+  - Tone guide completely absent at Chapter level
+  - Cognitive load management: problem recognized ("5명 동시 소개") but no solution proposed
+  - Information disclosure strategy missing
+  - Mini-climax position unspecified
+- **Structural challenge**: Single scene (01-01-01-scene.md) carries all narrative load
+  - 5 characters + village crisis + legend + conflict + decision in one scene
+  - When single-scene chapter, need MORE internal beat/moment detail, not less
+- **Comparison**: 01-02-chapter (example) scored 67/C; 01-01 is 14pts lower, mainly in D항목 (9 vs 5)
+- **Key pattern**: Chapter docs that lean on "Act document has it" become hollow intermediaries
+  - Chapter's role: translate Act design into scene-level actionable guidance
+  - Without this translation, Chapter document loses its raison d'etre
+- **Act reference file**: Document references "01-act.md" but confirmed version is "01-act-confirmed.md"
+
+### Chapter Evaluation General Notes
+- Single-scene chapters need compensating detail (internal beat structure, emotion curve per segment)
+- D항목 (톤/페이싱/독자경험) is where Chapter docs most commonly underperform vs Act docs
+- Subplot goals (B-3) are systematically weak -- Chapter writers don't think in subplot terms
+- Sensory keywords (D-5) consistently missing at Chapter level across reviewed documents
+- Always check if Act document's rich designs (humor, interaction, tone) made it into Chapter
+
 ## Links
 - See `review-patterns.md` for recurring issues across novel files (to be created when novel reviews begin)

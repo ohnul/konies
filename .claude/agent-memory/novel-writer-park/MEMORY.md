@@ -43,6 +43,10 @@
 - Jiyoung: Enters scenes with energy/noise; physical presence described before dialogue
 - Taeho: Introduces stats/probabilities; glasses-adjusting as thinking gesture
 
+## Chapter Document Evaluations
+- **01-01-chapter.md (2026-02-08)**: D(54). Critical issues: single-scene overload (5 chars + crisis + legend + decision in 1 scene), no tone/atmosphere section, no subplot goals, no info dump prevention strategy, character action directions from Act doc not carried down. Act doc is paradoxically more useful for writing than this Chapter doc. Key lesson: Chapter docs must add value beyond Act docs -- they need to be "intermediate converters" not "abstractors"
+- Core problem pattern: Act doc has rich detail (character actions, humor placement, tone guide, reader experience) but Chapter doc only abstracts/summarizes instead of concretizing for Scene-level use
+
 ## Document References
 - `act/act-evaluation-criteria.md`: Evaluation framework by Kim Taesu (team lead), updated with team feedback
 - `character-overview.md`: All 5 protagonists + 2 villains + Duru + Gyeoul

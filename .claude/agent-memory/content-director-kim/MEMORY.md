@@ -153,6 +153,18 @@
   - B-5 scoring increase (4->5): rejected (Hyewon) - will revisit after evaluation experience
   - Hyewon's 연꽃 문양 E-4 error catch was most impactful single finding
 
+## Chapter Evaluation Results (2026-02-08)
+- **01-01-chapter.md**: D grade (42/100) by Taesoo. A=10/25(40%), B=11/25(44%), C=10/20(50%), D=3/15(20%), E=8/15(53%)
+  - D항목 20% = 항목별 최소 기준(40%) 심각 미달, 필수 보완 대상
+  - Root causes: no tone/pacing section, no subplot goals, no mini-climax designation, no cognitive load management
+  - Single-scene structure (01-01-01 only) confirmed as major structural concern
+  - Act doc has rich content (tone, humor, pacing, foreshadowing) that Chapter doc fails to inherit
+  - Scene doc (01-01-01) also has detailed Beat/Moment/sensory info that Chapter should bridge
+  - 7 [필수] items + 5 [권장] items identified
+  - Memory prediction confirmed: "expected to score similarly low" (line 127 of MEMORY) was accurate
+  - **01-01-chapter.md scored 25 points LOWER than 01-02-chapter.md** (42 vs 67). D항목 gap is the largest (3 vs 9)
+  - Key learning: Chapter docs written before evaluation criteria existed lack Episode/Sequence absorption features almost entirely
+
 ## Evaluation Criteria - Next Steps (as of 2026-02-08)
 1. ~~Re-evaluate 01-act.md after reinforcement~~ DONE: A grade (83pts)
 2. ~~Process 2nd round feedback for 01-act.md~~ DONE: 5 items applied, comments on all 4 feedback docs
@@ -161,10 +173,12 @@
 5. ~~Create Chapter evaluation criteria~~ DONE: 2026-02-08, v1=378 lines
 6. ~~Process Chapter eval criteria feedback~~ DONE: 2026-02-08, v2=421 lines, 19 changes from 4 reviewers
 7. Formalize "마을 빚 50억" in setting-overview.md (separate task, triggered by Yeonsu feedback)
-8. Evaluate existing Chapter docs (01-01-chapter.md, 01-02-chapter.md) and reinforce to B+ for Scene doc creation
-9. Create Chapter docs for Acts 2-4 (02-03, 02-04, 03-05, 03-06, 04-07, 04-08)
-10. D항목 배점 재조정: Chapter 평가 3회 이상 실시 후 재검토 (Hyewon/Hojin 요청, 현재 거절)
-11. Add CLAUDE.md "서브플롯" term definition (Yeonsu request, separate task)
+8. ~~Evaluate 01-01-chapter.md~~ DONE: D grade (42/100), needs reinforcement
+9. Evaluate 01-02-chapter.md (formal evaluation, not just criteria example)
+10. Reinforce both Chapter docs to B+ for Scene doc creation
+11. Create Chapter docs for Acts 2-4 (02-03, 02-04, 03-05, 03-06, 04-07, 04-08)
+12. D항목 배점 재조정: Chapter 평가 3회 이상 실시 후 재검토 (Hyewon/Hojin 요청, 현재 거절). 1st evaluation (01-01) shows D항목 IS the weakest area - this strengthens the case for eventual rebalancing
+13. Add CLAUDE.md "서브플롯" term definition (Yeonsu request, separate task)
 
 ## Team Feedback Patterns (2026-02-07, updated 2026-02-08)
 - All 3 team members flagged: foreshadowing management, reader experience/pacing, subjective comments in criteria docs
