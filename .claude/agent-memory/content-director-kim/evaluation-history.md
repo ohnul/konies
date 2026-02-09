@@ -66,23 +66,92 @@
 - **Scene eval file**: feedback/20260209-1445-01-02-04-scene-eval-kim.md
 - **Inter-rater discrepancy**: 태수 53.5 vs 팀 75.5 = 22pt gap. Largest in project. Root: B-1(5->2 for 종료훅), B-2(4->1 for emotion tags), A-2(5->3 for 하늘모순+종료훅). 01-02-03-confirmed as comparison standard raised bar.
 
-## Act 02 Evaluation (2026-02-10)
-- **1st eval (태수)**: C/61. A=15/25, B=18/25, C=11/20, D=8/15, E=9/15.
-- **Comparison**: 01-act-confirmed A/83. Gap = -22pts. Same as Chapter pre-criteria gaps.
-- **Root cause**: Written before eval criteria. Missing 6+ sections that 01-act has post-reinforcement.
-- **Weakest areas**: C-4 growth arc (0/3), C-6 interaction (0/3), D-6 reader experience (0/2)
-- **Strongest areas**: C-1 (3/3), D-1 (3/3), E-1 (2/2) -- basic listing/description items are solid
-- **B항목 best** at 72% (narrative function core is sound), **D항목 worst** at 53%
-- **Unique issue**: "Why go deeper into cave?" -- behavioral motivation gap in A-2 connective tissue
-- **Cross-doc finding**: README.md Act 2/3 descriptions don't match actual Act documents
-- **Eval criteria self-referential issue**: criteria's own example scores this doc at 84/A vs actual 61/C. 23pt gap from criteria evolution.
-- **8 mandatory + 7 recommended improvements identified**
-- **Expected post-reinforcement**: B/70-75 (mandatory only) or A/82-88 (all items)
-- **Eval file**: feedback/20260210-0600-02-act-eval-kim.md
+## Act 02 Evaluation (2026-02-10, 4-evaluator + reinforcement)
+
+### 1st Evaluation (4-person)
+- **Scores**: 태수 61(C), 연수 73(B), 혜원 68(C), 호진 62(C). Avg=66(C), Range=12pts.
+- **Score by evaluator and category**:
+  - 태수: A=15, B=18, C=11, D=8, E=9 (total 61)
+  - 연수: A=18, B=20, C=14, D=10, E=11 (total 73)
+  - 혜원: A=17, B=18, C=13, D=9, E=11 (total 68)
+  - 호진: A=14, B=18, C=10, D=7, E=13 (total 62)
+- **Category averages**: A=16/25(64%), B=18.5/25(74%), C=12/20(60%), D=8.5/15(57%), E=10/15(67%)
+- **B항목 strongest (74%)**, **D항목 weakest (57%)**
+- **Inter-rater range 12pts**: Wider than Chapter docs (01-02 chapter: 7pts, 01-01 chapter: 3pts). Act-level evaluations show more subjective divergence.
+- **Comparison**: 01-act-confirmed A/83 vs 02-act avg C/66. Gap = -17pts (avg) to -22pts (태수).
+- **Root cause**: Written before eval criteria. Missing spatial route, time frame, growth arc, interaction, pacing, reader experience, humor, foreshadowing, unresolved tasks.
+- **Weakest items**: C-4 growth arc (avg 0.5/3), C-6 interaction (avg 0.5/3), D-6 reader experience (avg 0.5/2)
+- **Strongest items**: C-1 listing (avg 2.75/3), D-1 atmosphere (avg 2.75/3), E-1 ref docs (avg 1.75/2)
+
+### Key Issues by Agreement Level
+- **4/4 agreement (8 items, all mandatory)**:
+  1. Cave entry motivation unspecified ("why go deeper instead of escaping?")
+  2. Spatial route absent (where exactly are they?)
+  3. Time frame absent (when does Act 2 happen?)
+  4. Character growth arc absent
+  5. Pacing/tension-release design absent
+  6. Humor elements absent
+  7. Reader experience design absent
+  8. Emotional arc insufficient (4 stages for 5 scenes)
+- **3/4 agreement (4 items)**:
+  1. Gyeoul's cave arrival method unspecified
+  2. Stone lantern motif continuity missing (석등->제단 문양 연결)
+  3. "Conflict seeds" too vague (character attitude divergence unspecified)
+  4. Villain brother dynamics underdeveloped
+- **2/4 specific items**:
+  - 1막 종료 후크 회수 미명시 (태수/호진)
+  - "구니스 오마주" removal (태수/혜원)
+  - 두루 존재 규칙 "사라지는" -> "활동 불가" (연수/태수)
+  - Foreshadowing section needed (태수/연수)
+  - Chapter/Scene volume ratios needed (호진/태수)
+
+### Notable Evaluator Perspectives
+- **연수 (73/B, most generous)**: Highest on A(18) and B(20). Strong on narrative axis and Duru rule precision. Proposed 지영/태호 indirect presence in Act 2 (held). Found eval criteria example error. "서사축은 탄탄하나 설계도 기능이 부족"
+- **혜원 (68/C)**: A-3 scoring outlier: gave 4/4 for emotional arc ("감정 그래프가 있으면 OK"). Other 3 gave 2-3/4. Strong structural analysis. Flagged Acts 3-4 needing similar treatment. "꼼꼼한 집이지만 설계도가 부족한 집"
+- **호진 (62/C, writer perspective)**: D항목 most strict at 7/15 (47%). Demanded sensory information, reader experience details. Proposed 수진 "으악!" reaction (partially held). "작가가 이 설계도만 보고 집을 지을 수 있는가?" framework. Found 5월 일몰 7:10pm data for time reference.
+- **태수 (61/C, most strict)**: Comprehensive structural critique. Flagged "구니스 오마주" removal, README inconsistency, eval criteria example discrepancy. Set cave entry motivation as #1 priority.
+
+### A-3 Scoring Disagreement (Emotional Arc)
+- 혜원: 4/4 (full marks). Rationale: "4단계 감정 그래프가 존재하고 방향은 정확"
+- 연수: 3/4. Rationale: "단계가 부족하지만 큰 방향은 맞음"
+- 호진: 2/4. Rationale: "5개 씬에 4단계는 부족. 씬별 세분화 필요"
+- 태수: 3/4. Rationale: "기본 방향은 있으나 세분화 부족"
+- **Resolution**: Expanded from 4 to 9 stages, covering all emotional transitions in 5 scenes.
+
+### Held/Deferred Items
+1. **지영/태호 indirect presence in Act 2 (연수 proposal)**: HELD. 2막은 초등 삼인조+악당 중심. 막 끝 합류로 충분. 중간 간접 등장은 3막 Chapter에서 검토.
+2. **수진 "으악!" reaction to Duru (호진 proposal)**: PARTIALLY HELD. 포획 장면 "떨리는 손" = 채택. 두루 만남 "으악!" = Scene-level 결정. 두루 만남 씬은 지훈/민준이 중심이므로 수진 반응 결정은 하위 문서에 위임.
+
+### Reinforcement Details (2026-02-10)
+- **Size**: 80 -> 192 lines (240% expansion). 43 lines more than 01-act-confirmed (149 lines). Justified: Act 2 = 30% of work volume vs Act 1 = 20%.
+- **Major additions**:
+  - Spatial route: 10-step path (마을회관 앞 -> 주변 -> 내부 -> 동굴 입구 -> 초입부 -> 심층부 -> 제단 -> 좁은 통로 -> 폭포 -> 별도 출구)
+  - Time frame: 6 periods (7pm-9:30pm) with NOTE-TO-AI for sunset reference
+  - Character growth arc: 3 characters (수진: 가면 첫 균열, 지훈: 비인간 교감 역설, 민준: 약점=강점 역설)
+  - Character interaction: 6 combinations with narrative function
+  - Emotional arc: 4 -> 9 stages (기대/긴장 -> 불안/경계 -> 공포/무력감 -> 안도/결속 -> 호기심/경외 -> 경이/교감 -> 스릴/협력 -> 아찔/성취 -> 여운/기대)
+  - Pacing: chapter-level rhythm + 10 tension-release triggers
+  - Reader experience: hook (1막 빛 회수), anchor (두루 소환 장면), page-turning (지영/태호 합류)
+  - Humor: 5 patterns (민준 촬영집착, 두루 "달다!", 마희재 겨울이, 지훈 무필터, 악당 투닥)
+  - Age-appropriateness: 4 scene-level guidelines (포획/감금/추격/폭포)
+  - Foreshadowing: recover 2 (탈옥범 뉴스, 마을회관 빛) / install 5 (민준 순수, 소환규칙, 두루 성격, 제단 문양, 겨울이 활약) / hold 3 (지영/태호 미행, 욕심없는자, 겨울이 감정반응)
+  - Unresolved tasks: 5 items (보물 실체, 악당 목적, 두루 봉인 조건, 제단-석등 문양 관계, 지영/태호 합류 경위)
+  - "구니스 오마주" removed, "마을회관" -> "버려진 마을회관" throughout
+  - Tone ratio 60:40 -> 65:35 with justification (고강도 긴장 사건 집중)
+  - Cave entry motivation: dual (enemy footsteps blocking exit + phosphorescent light curiosity)
+  - Gyeoul: tracking children's trail + biting through ropes
+  - Stone lantern motif: 제단 불꽃 문양 = 석등 꽃받침 문양, 수진 대사
+  - Villain dynamics: blame-shifting dialogue examples, 마기재 격분 약점, 마희재 겨울이 반응
+  - 두루 rule: "사라지는" -> "활동 불가" (setting-overview alignment)
+- **Expected re-evaluation score**: B/70-75 (mandatory only) or A/82-88 (all items)
+- **Eval files**: feedback/20260210-0600-02-act-eval-{kim,yeonsu,hyewon,park}.md (all with 팀장 검토 의견 appended)
 
 ## Team Feedback Patterns
-- Hyewon (plot): narrative dynamics, foreshadowing vs motif, info revelation; tracks 지영 character depth
-- Hojin (writing): practical needs - space/time, sensory details, character chemistry; "숲의 설계도" metaphor
-- Yeonsu (editing): formal consistency, cross-verification, process gaps; found "마을 빚 50억" gap
+- Hyewon (plot): narrative dynamics, foreshadowing vs motif, info revelation; tracks 지영 character depth. A-3 scoring outlier (lenient on emotional arc structure).
+- Hojin (writing): practical needs - space/time, sensory details, character chemistry; "숲의 설계도" / "작가가 이걸로 지을 수 있는가" framework. D항목 consistently strictest evaluator.
+- Yeonsu (editing): formal consistency, cross-verification, process gaps; found "마을 빚 50억" gap, eval criteria example error, 두루 rule precision. Most generous scorer overall.
+- 태수 (content director): Most comprehensive and strictest. Sets structural priorities. Identifies cross-doc issues (README inconsistency, eval criteria gaps).
 - Rejected pattern: all suggested expanded scoring - kept at 5 items
-- D항목 배점 재조정: pending review after 3+ evaluations (01-01 D항목 was weakest -> supports rebalancing case)
+- D항목 배점 재조정: pending review after 3+ evaluations. Evidence: D항목 consistently weakest in ALL initial evals (Act and Chapter). But 01-02 chapter showed 87% on D post-reinforcement, suggesting quality issue not weight issue.
+- **Inter-rater range pattern**: Chapters 3-7pts, Acts 12pts. Higher-level docs show more evaluator divergence.
+- **Score ranking pattern**: 연수 > 혜원 > 호진 >= 태수 (consistent across 01-02-chapter and 02-act)

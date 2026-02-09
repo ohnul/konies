@@ -19,7 +19,7 @@
 - ~~Foreshadowing classification drift~~: RESOLVED 2026-02-08. 겨울이/지영태호 복선 모두 Act/Chapter 양쪽 "보류"로 통일. 최종원고 단계에서 구체화하기로 합의.
 
 ## Completed Work Status (Updated 2026-02-10)
-- **Act docs**: All created (00-prologue through 05-epilogue). 01-act-confirmed.md = A grade (83pts). 02-act.md = C grade (61pts, 태수 eval 2026-02-10)
+- **Act docs**: All created (00-prologue through 05-epilogue). 01-act-confirmed.md = A grade (83pts). 02-act.md = reinforced (80->192 lines), avg C/66pts (4-eval), awaiting re-eval
 - **Chapter docs**: 01-01 = A grade (avg 87pts across 4 evaluators, feedback applied, SCENE APPROVED). 01-02 = **A grade (태수 2차 86pts)**, reinforced 2026-02-08 (116->361 lines), re-evaluated 2026-02-09. SCENE APPROVED. Acts 2-4 chapters not created
 - **Scene docs**: Act 1 complete (01-01-01 through 01-02-04). Prologue 2 scenes. Acts 2-4 none
 - **Novel/Final**: f-0-prologue.md, f-1-friends.md finalized. Working drafts in novel/
@@ -33,6 +33,9 @@
 - Act 4 compression risk: 6 scenes at 15% volume - needs expansion consideration
 - 01-01-chapter.md reinforcement was transformative: 134->359->368 lines, D(42)->A(87)->A(~89-91 est.)
 - Key lesson: Chapter docs need Episode/Sequence absorption features explicitly; docs written before eval criteria lack these
+- Act 2 tone ratio: 65:35 (adventure:humor) adjusted from 60:40 due to high-tension events (capture, cave, chase)
+- Act doc inter-rater range (12pts) wider than Chapter doc range (3-7pts). Act-level evaluations have more subjective divergence.
+- 02-act.md reinforcement size: 80->192 lines (240%). 43 lines MORE than 01-act-confirmed (149 lines) -- justified by 30% vs 20% volume share
 
 ## 4-Evaluator Feedback Review Insights (2026-02-08)
 - **Score consistency**: 4 evaluators scored 85/87/88/88. 3-point range = very high inter-rater agreement
@@ -68,8 +71,9 @@
 12b. ~~Evaluate 01-02-04-scene.md~~ DONE 2026-02-09: 태수 1차 D/53.5pts. 8 mandatory + 7 recommended. Team eval B/75.5 -- 22pt discrepancy (largest in project).
 12c. Evaluate remaining Scene doc (01-01-01) using new criteria. Needs reinforcement first.
 13. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic issue). 01-02-04 is clean (no 연꽃문양).
-13a. ~~Evaluate 02-act.md~~ DONE 2026-02-10: 태수 C/61pts. Needs reinforcement. 8 mandatory + 7 recommended.
-13b. Evaluate remaining Act docs (00-prologue, 03-act, 04-act, 05-epilogue)
+13a. ~~Evaluate 02-act.md~~ DONE 2026-02-10: 4-eval avg C/66pts. Reinforced (80->192 lines). Awaiting re-eval.
+13b. Re-evaluate reinforced 02-act.md (expected B/70-75 or A/82-88)
+13c. Evaluate remaining Act docs (00-prologue, 03-act, 04-act, 05-epilogue)
 14. Create Chapter docs for Acts 2-4
 15. Cross-evaluation after all Act 1 chapters reach B+ (both now A)
 16. Act 1 Chapter balance check (균형 점검) - both chapters now B+ eligible
@@ -81,41 +85,11 @@
 22. Apply ASCII removal to Act eval criteria (횡단-1) at next update
 23. Eval criteria format efficiency review (표 제거 검토) at Scene v1.2
 
-## 01-02-chapter.md 4-Evaluator Review (2026-02-08)
-- **Scores**: 태수 49, 호진 50, 연수 53, 혜원 56. Avg=52, Range=7pts (wider than 01-01's 3pt range)
-- **All 4 = D grade**. Unanimous: Scene docs cannot proceed.
-- **Root cause**: Document written BEFORE eval criteria existed. Lacks Episode/Sequence absorption features entirely.
-- **8 common issues (4/4 agreement)**: (1) "연꽃 문양" -> "꽃받침 형태" fix, (2) subplot section missing, (3) mini-climax unspecified, (4) humor placement = 0, (5) tension/release rhythm absent, (6) ref filename mismatch, (7) character arc absent, (8) time frame mismatch (6pm vs 7pm)
-- **지훈 "논리적 사고" misclassification**: 3/4 flagged (태수/연수/호진). His actual trait is "문자 그대로 해석".
-- **Score variance analysis**: C항목 had widest range (혜원12 vs 호진8). 혜원 more lenient on C-1(3/3 vs others 2/3) and C-2(3/4 vs others 2/4). D항목 most consistent (6-7, tightest range).
-- **B-5 discrepancy**: 태수 4/4(generous) vs 연수/호진 3/4. "전환 트리거 미명시" is valid deduction.
-- **Strongest point**: B-5 (causal chain) = avg 3.5/4. The 5-step puzzle structure is solid.
-- **Weakest point**: D-4 (humor) = 0/2 (3 evaluators), 1/2 (호진). Pattern confirmed: D항목 weakest in initial evals.
-- **Notable insights by evaluator**: 연수="작품 정체성 40% 누락", 호진="캐릭터가 살아 있지 않다", 혜원="분량 큰 장이 가이드 적은 역설", 호진="5월 일몰 7:10pm" data
-- **연수 subplot suggestion (held)**: "민준 촬영 집착이 마찰 발생" -- Act says "시너지 첫 증명" so friction deferred to Act 2+
-- **Estimated post-reinforcement**: 70-80pts (B to A range) -- **ACTUAL: 86pts (A)**. Estimate was conservative.
-- **Feedback response completed**: 팀장 응답 added to all 4 eval files (2026-02-08)
-- **Reinforcement applied 2026-02-08**: 116->361 lines. All 8 common issues addressed:
-  - (1) "연꽃 문양" fully replaced with "꽃받침 형태" (18 occurrences)
-  - (2) 서브플롯 목표 섹션 신설 (4 entries with 동사+결과)
-  - (3) 미니 클라이맥스 "씬2후반~씬3 삼인조 시너지" 확정, 독자감정/스케일/주제연결 명시
-  - (4) 유머 요소 배치 5패턴 표, 씬별 배치 명시
-  - (5) 긴장/이완 리듬: ASCII곡선 + 이완구간5개 + 전환트리거6개
-  - (6) 참조문서명: 01-act-confirmed.md, 01-01-chapter-confirmed.md, scene/ 경로 포함
-  - (7) 캐릭터 아크 진행 3명 (수진/지훈/민준), 1장 약점->2장 변화 조짐 표
-  - (8) Act 정합성: 막내위치(70%), 감정아크(5~7단계), 시간(~7시경), 공간동선 모두 명시
-- **추가 반영**: 지훈 "논리적 사고"->"문자 그대로 해석" 수정, 정보공개전략 표, 인지부하관리, 감각키워드 씬별 표, 캐릭터 포커스 4단계(중심/주요/보조/부재), 겨울이 "감정반응" 방향 통일
-
-## 01-02-chapter.md 2nd Evaluation (2026-02-09, 태수 only)
-- **Score**: 86pts / A grade (up from 49pts / D)
-- **Score breakdown**: A=22/25, B=22/25, C=16/20, D=13/15, E=13/15
-- **All items at 80%+**: most balanced doc so far. No item below 80%.
-- **1차 필수 보완 8건 전부 이행 확인**
-- **01-01과의 질적 격차 해소**: 87 vs 86, 1점 차 (C-5 상호작용 설계에서 미세 차이)
-- **Remaining weaknesses**: C-5 (interaction design, 2/4), D-3 (cognitive load, 2/3), E-5 (foreshadowing, 2/3)
-- **5 recommendations for S grade**: (1) interaction depth, (2) Scene 2 internal moments, (3) 탈옥범 reminder device, (4) 지훈 nature-talk trait formalization, (5) sensory transition planning
-- **Key insight**: D항목 rebalancing hypothesis weakened -- 01-02 scored 13/15 (87%) on D, proving current 15-point allocation is sufficient for well-designed docs. D항목 weakness in initial evals is a doc quality issue, not a criteria weight issue.
-- **Pattern confirmed**: "Pre-criteria docs score D, post-reinforcement docs score A" = consistent across 01-01 and 01-02
+## 01-02-chapter.md Summary (Details in evaluation-history.md)
+- **1st eval (4-person)**: avg D/52. 8 common issues. Written before eval criteria.
+- **Reinforcement**: 116->361 lines. All 8 issues + 지훈 trait fix + 정보공개전략 + 인지부하관리 etc.
+- **2nd eval (태수)**: A/86. All items 80%+. D항목 rebalancing hypothesis weakened (87% on D).
+- **Pattern**: D/52 -> A/86 (+34). Same as 01-01 (D/50 -> A/87).
 
 ## Scene Evaluation Criteria Design Notes (2026-02-09)
 - Scene = smallest structural unit. No sub-documents. Converts directly to novel/ files.
@@ -174,17 +148,28 @@
 - **Confirmed 비교 기준 효과**: 01-02-03-confirmed(332행)와의 품질 격차가 평가 엄격화의 핵심 원인. 같은 Chapter 내 씬의 품질 편차가 크면, 낮은 씬이 더 낮게 보인다.
 - **보강 후 예상**: 필수 8건 -> B/75, 필수+권장 15건 -> A/86. 패턴 일치.
 
-## 02-act.md Evaluation (2026-02-10, 태수 only)
-- **Score**: 61pts / C grade. A=15/25(60%), B=18/25(72%), C=11/20(55%), D=8/15(53%), E=9/15(60%)
-- **01-act-confirmed comparison**: 83 vs 61 = -22pts. 80 lines vs 149 lines (54% of 01-act).
-- **Pattern confirmed again**: Pre-criteria doc scores C (not D, but close). Same root cause as all other pre-criteria docs.
-- **Missing sections (vs 01-act)**: spatial route, time frame, character growth arc, character interaction, pacing, reader experience design, humor section, foreshadowing section, unresolved tasks
-- **Key structural issues**: (1) Why do kids go DEEPER into cave instead of escaping? Motivation unspecified. (2) How does Gyeoul find the cave? (3) Time frame completely absent (when does Act 2 happen relative to Act 1's 7pm ending?)
-- **Setting consistency issue**: "구니스(The Goonies) 오마주" -- no basis in upper docs. Recommend removal.
-- **README inconsistency discovered**: README says Act 2 = "단서 추적과 첫 위기", Act 3 = "도깨비와의 만남, 추격전". But actual 02-act has 도깨비 meeting in Act 2. README outdated.
-- **B항목 strongest** (72%), **D항목 weakest** (53%). D항목 weakest pattern holds for Act docs too.
-- **Eval criteria example discrepancy**: criteria doc's own example scores 02-act at 84/A. My eval = 61/C. 23pt gap. Root: (1) example from v1 pre-01-act-reinforcement era, (2) v2 added C-6/D-5/D-6/E-6, (3) relative standard after 01-act-confirmed. Recommend updating criteria example or adding version note.
-- **Estimated post-reinforcement**: 필수 8건 -> B/70-75, 필수+권장 15건 -> A/82-88
+## 02-act.md 4-Evaluator Review + Reinforcement (2026-02-10)
+- **Scores**: 태수 61(C), 연수 73(B), 혜원 68(C), 호진 62(C). Avg=66(C), Range=12pts
+- **Inter-rater range**: 12pts (wider than 01-02-chapter 1st eval's 7pt, wider than 01-01-chapter's 3pt). Act docs show more evaluator divergence than Chapter docs.
+- **Score by category (avg)**: A=16/25(64%), B=18.5/25(74%), C=12/20(60%), D=8.5/15(57%), E=10/15(67%)
+- **B항목 strongest (74%)**, **D항목 weakest (57%)**. D항목 weakness pattern confirmed for ALL doc types.
+- **12 common items (3+/4 agreement)**: cave entry motivation, Gyeoul arrival method, 1st Act hook recovery, spatial route, time frame, character growth arc, emotional arc expansion, pacing, stone lantern motif, conflict seeds specifics, villain dynamics, humor elements
+- **Reinforcement applied 2026-02-10**: 80->192 lines (240%). All mandatory+recommended items applied.
+  - Spatial route (10-step), time frame (6 periods 7pm-9:30pm), growth arc (3 chars), interaction (6 combos)
+  - Emotional arc 4->9 stages, pacing with 10 tension-release triggers
+  - Reader experience design (hook/anchor/page-turning), humor (5 patterns), age-appropriateness (4 scenes)
+  - Foreshadowing (recover 2/install 5/hold 3), unresolved tasks (5 items)
+  - "구니스 오마주" removed, "마을회관"->"버려진 마을회관", tone 60:40->65:35 justified
+  - Cave entry motivation: enemy footsteps + phosphorescent light. Gyeoul: tracking + rope biting
+  - Stone lantern motif: 제단 불꽃 문양 = 석등 꽃받침 문양, Sujin dialogue
+- **Notable evaluator insights**: 연수=가장 관대(73/B, 서사축+두루규칙+1막후크 높게), 호진=작가적시각(D항목 가장 엄격 7/15, 감각정보/독자경험 세밀 요구), 혜원=구조적시각(A-3 감정아크 4/4 만점이나 3명은 확장 요구), 태수=가장 엄격(61/C, 종합적)
+- **A-3 scoring disagreement**: 혜원 4/4 vs 태수/연수/호진 2-3/4. 혜원은 "감정 그래프가 있으면 OK", 나머지는 "씬별 세분화 필요". 최종: 9단계로 확장.
+- **지영/태호 indirect presence (held)**: 연수 제안. 2막은 초등 삼인조+악당 중심, 막 끝 합류로 처리. 중간 간접 등장은 보류.
+- **수진 "으악!" 반응 (partially held)**: 호진 제안. 포획 장면은 "떨리는 손"으로 채택, 두루 만남 "으악!"은 Scene에서 결정.
+- **두루 존재 규칙**: "사라지는"(원문) -> "활동 불가"(setting-overview 정합). 연수 지적으로 수정.
+- **Estimated post-reinforcement**: B/70-75 (mandatory only) or A/82-88 (all items). Awaiting re-eval.
+- **README inconsistency**: Act 2/3 descriptions outdated. Deferred to after all Acts reach B+.
+- **Eval criteria example gap**: criteria example 84/A vs actual avg 66/C. 18pt gap. Version evolution + relative standard issue.
 
 ## Key File Paths
 - Act eval criteria: act/act-evaluation-criteria.md
@@ -197,4 +182,4 @@
 - Feedback report: report/20260208-2100-01-01-chapter-feedback-report.md
 - Scene eval criteria feedback: feedback/20260209-1700-scene-eval-crit-feedback-{taesoo,hyewon,yeonsu,hojin}.md
 - Scene eval criteria pending decisions: report/20260209-scene-eval-crit-pending-decisions.md
-- Act 2 eval (태수): feedback/20260210-0600-02-act-eval-kim.md
+- Act 2 eval (4-evaluator): feedback/20260210-0600-02-act-eval-{kim,yeonsu,hyewon,park}.md
