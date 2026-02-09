@@ -6,6 +6,7 @@
 - **01-02-04-scene: B(75.5) team eval. D-items 9/15(60%) yeonsu eval. (2026-02-09)**
 - **novel-01-02-01: B+, edited. novel-01-02-02: B+, edited. novel-01-02-03: B+, edited. (2026-02-09)**
 - **novel-01-02-04: B+, edited. 8 mandatory + 12 recommended = 20 items. 222->228 lines. (2026-02-09)**
+- **02-act.md: B(73) yeonsu eval. A=18/25, B=21/25, C=12/20(weakest), D=11/15, E=11/15. (2026-02-10)**
 - All 4 novel files: consistent B+ pre-edit, 5-8 mandatory + 9~12 recommended each
 - Act/Chapter eval criteria: reviewed. Scene eval criteria: reviewed.
 
@@ -51,11 +52,19 @@
 - **번쩍임 복선**: 01-02-01 설치, novel-01-02-02 회수완료. 01-02-02-scene 미회수.
 - **"연꽃" vs "꽃받침"**: Novel에서 통일완료. 01-02-03-scene은 아직 "연꽃".
 - **석등 위치**: setting-overview="중앙", 01-02-02-scene="공터 한쪽" -- 모순.
+- **마을회관 용어**: setting-overview 구분(마을회관=현용, 폐 마을회관=구건물). 02-act.md에서 "마을회관"으로만 지칭 3회.
+- **두루 존재 규칙 모호**: setting-overview "활동 가능" vs 02-act "사라지는" -- 규칙 확정 필요.
+- **구니스 오마주**: 02-act.md만 언급, 상위 문서 근거 없음. 공식화 or 삭제 필요.
+- **1막끝 빛 복선**: 01-act-confirmed "마을회관에서 빛 새어나옴" -> 2막 초반 회수 미기술.
 
 ## Evaluation Criteria Notes
 - A-3/B-2/D-1: Beat/Moment triple overlap risk at Scene level
 - "전환 트리거" used heavily but undefined in any document
 - Scene "구체화 허용" in 설정 충돌 해결 (new vs Chapter)
+- **Act eval pattern**: B항목(서사) strong, C항목(캐릭터) weak = "서사 뼈대 탄탄, 캐릭터 살 부족" 패턴.
+- **Act 문서 성숙도 격차**: 1막 confirmed(149행) vs 2막 초안(80행). 2막이 30% 비중 최대 막인데 밀도 최저.
+- **Act 필수 보강 패턴**: 성장 아크 + 상호작용 + 공간 동선 + 시간 프레임 + 복선 관리 = 5대 누락 섹션.
+- **동굴 진입 동기**: 겨울이 구출 후 밖으로 안 나가고 깊이 들어가는 인과 -- Act 수준에서 명시 필요.
 
 ## Feedback Style
 - Re-evaluation: Before/After comparison table first

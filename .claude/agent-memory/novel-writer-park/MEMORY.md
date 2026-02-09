@@ -125,6 +125,16 @@
   - **Act-ending scene lesson**: The final scene of an act carries the ending hook for the entire act. "희미한 빛" is not just a scene ending -- it's the 1st act's final image and 2nd act's opening question. Its absence from beat text is a structural failure, not just a detail omission.
   - Expected revision path: same core formula + M1 beat redesign + "희미한 빛" hook placement + 지영/태호 미행 미세 암시. D(58) -> A(82~87).
 
+## Act 2 Evaluation (2026-02-10)
+- **02-act.md evaluation**: C(62). D-section scored 7/15 (47%), worst among all items. Key issues: pacing section completely absent (D-5=0), emotion arc too coarse (4 stages for 30% act), humor only 2 patterns, no reader experience design
+- **Cross-team scoring**: Kim=C(61), Hyewon=C(68), Yeonsu=B(73), Park=C(62). Average ~66, consensus C grade
+- **D-5 pacing is the single most impactful deficiency for writing**: Without pacing design, ALL scenes end up same speed. Act 1 had clear "slow setup -> fast pursuit" + specific relaxation points
+- **Critical narrative gap**: "Why do kids go deeper into cave instead of escaping?" -- Act must provide behavioral motivation (e.g., "hear villain returning at entrance" or "Gyeoul leads inward")
+- **1막 ending hook "희미한 빛" NOT received by 2막**: This is a cross-act continuity failure. I wrote this hook in novel-01-02-04; if Act 2 doesn't acknowledge it, the 2막 first scene will miss the connection
+- **Mahijae-Gyeoul comedy**: Untapped gold. character-overview says "stops for cute animals" + Gyeoul is the decoy = perfect tension-release humor in chase scene. Strongly recommended for Act-level humor design
+- **Sujin role weakness in Act 2**: Only "calm judgment" assigned. Missing public/private mode switch, no growth arc moment. Proposed: captured = public mode facade cracking (growth), Duru appearance = involuntary scream (comedy)
+- **Pattern confirmed**: Pre-evaluation-criteria docs = D-C grade. Post-revision = A grade. Same pattern as 01-act, 01-01-chapter, 01-02-chapter. Expected: 02-act D(62) -> A(85-88) after revision
+
 ## Document References
 - `act/act-evaluation-criteria.md`: Evaluation framework by Kim Taesu (team lead), updated with team feedback
 - `character-overview.md`: All 5 protagonists + 2 villains + Duru + Gyeoul

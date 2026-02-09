@@ -21,7 +21,7 @@ THIS IS A MEMO "FOR HUMAN", DON'T REFERENCE THIS DOCUMENT!
 
 ## scene 평가 및 반영
 
-모든 팀원, subagent 들은 "scene 문서 평가 기준"에 따라 01-02-03-scene 문서를 평가하라. feedback 폴더에 평가 문서를 작성하고 파일명은 기존의 규칙을 따른다.
+모든 subagent 들은 "scene 문서 평가 기준"에 따라 01-02-03-scene 문서를 평가하라. feedback 폴더에 평가 문서를 작성하고 파일명은 기존의 규칙을 따른다.
 
 플롯작가는 "01-02-04-scene-eval"가 포함된 01-02-04-scene의 평가를 참고해서 01-02-04-scene 문서를 수정하시오. 받아들일 부분은 받아들여 문서를 수정하고 거절 및 보류 의견은 각 피드백 문서 하단에 기록을 남기시오.
 

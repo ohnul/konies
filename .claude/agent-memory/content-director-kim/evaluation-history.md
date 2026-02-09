@@ -66,6 +66,20 @@
 - **Scene eval file**: feedback/20260209-1445-01-02-04-scene-eval-kim.md
 - **Inter-rater discrepancy**: 태수 53.5 vs 팀 75.5 = 22pt gap. Largest in project. Root: B-1(5->2 for 종료훅), B-2(4->1 for emotion tags), A-2(5->3 for 하늘모순+종료훅). 01-02-03-confirmed as comparison standard raised bar.
 
+## Act 02 Evaluation (2026-02-10)
+- **1st eval (태수)**: C/61. A=15/25, B=18/25, C=11/20, D=8/15, E=9/15.
+- **Comparison**: 01-act-confirmed A/83. Gap = -22pts. Same as Chapter pre-criteria gaps.
+- **Root cause**: Written before eval criteria. Missing 6+ sections that 01-act has post-reinforcement.
+- **Weakest areas**: C-4 growth arc (0/3), C-6 interaction (0/3), D-6 reader experience (0/2)
+- **Strongest areas**: C-1 (3/3), D-1 (3/3), E-1 (2/2) -- basic listing/description items are solid
+- **B항목 best** at 72% (narrative function core is sound), **D항목 worst** at 53%
+- **Unique issue**: "Why go deeper into cave?" -- behavioral motivation gap in A-2 connective tissue
+- **Cross-doc finding**: README.md Act 2/3 descriptions don't match actual Act documents
+- **Eval criteria self-referential issue**: criteria's own example scores this doc at 84/A vs actual 61/C. 23pt gap from criteria evolution.
+- **8 mandatory + 7 recommended improvements identified**
+- **Expected post-reinforcement**: B/70-75 (mandatory only) or A/82-88 (all items)
+- **Eval file**: feedback/20260210-0600-02-act-eval-kim.md
+
 ## Team Feedback Patterns
 - Hyewon (plot): narrative dynamics, foreshadowing vs motif, info revelation; tracks 지영 character depth
 - Hojin (writing): practical needs - space/time, sensory details, character chemistry; "숲의 설계도" metaphor

@@ -18,8 +18,8 @@
 - ~~Act-Chapter spatial inconsistency~~: RESOLVED 2026-02-08. Act: "복도(탈출) -> 운동장(경유)", Chapter: "복도(교실 탈출 시) -> 운동장(경유, 지영/태호 시점의 창밖 장면)". Report 보류1 -> 해결됨
 - ~~Foreshadowing classification drift~~: RESOLVED 2026-02-08. 겨울이/지영태호 복선 모두 Act/Chapter 양쪽 "보류"로 통일. 최종원고 단계에서 구체화하기로 합의.
 
-## Completed Work Status (Updated 2026-02-09)
-- **Act docs**: All created (00-prologue through 05-epilogue). 01-act-confirmed.md = A grade (83pts)
+## Completed Work Status (Updated 2026-02-10)
+- **Act docs**: All created (00-prologue through 05-epilogue). 01-act-confirmed.md = A grade (83pts). 02-act.md = C grade (61pts, 태수 eval 2026-02-10)
 - **Chapter docs**: 01-01 = A grade (avg 87pts across 4 evaluators, feedback applied, SCENE APPROVED). 01-02 = **A grade (태수 2차 86pts)**, reinforced 2026-02-08 (116->361 lines), re-evaluated 2026-02-09. SCENE APPROVED. Acts 2-4 chapters not created
 - **Scene docs**: Act 1 complete (01-01-01 through 01-02-04). Prologue 2 scenes. Acts 2-4 none
 - **Novel/Final**: f-0-prologue.md, f-1-friends.md finalized. Working drafts in novel/
@@ -68,7 +68,8 @@
 12b. ~~Evaluate 01-02-04-scene.md~~ DONE 2026-02-09: 태수 1차 D/53.5pts. 8 mandatory + 7 recommended. Team eval B/75.5 -- 22pt discrepancy (largest in project).
 12c. Evaluate remaining Scene doc (01-01-01) using new criteria. Needs reinforcement first.
 13. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic issue). 01-02-04 is clean (no 연꽃문양).
-13a. Evaluate remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
+13a. ~~Evaluate 02-act.md~~ DONE 2026-02-10: 태수 C/61pts. Needs reinforcement. 8 mandatory + 7 recommended.
+13b. Evaluate remaining Act docs (00-prologue, 03-act, 04-act, 05-epilogue)
 14. Create Chapter docs for Acts 2-4
 15. Cross-evaluation after all Act 1 chapters reach B+ (both now A)
 16. Act 1 Chapter balance check (균형 점검) - both chapters now B+ eligible
@@ -173,6 +174,18 @@
 - **Confirmed 비교 기준 효과**: 01-02-03-confirmed(332행)와의 품질 격차가 평가 엄격화의 핵심 원인. 같은 Chapter 내 씬의 품질 편차가 크면, 낮은 씬이 더 낮게 보인다.
 - **보강 후 예상**: 필수 8건 -> B/75, 필수+권장 15건 -> A/86. 패턴 일치.
 
+## 02-act.md Evaluation (2026-02-10, 태수 only)
+- **Score**: 61pts / C grade. A=15/25(60%), B=18/25(72%), C=11/20(55%), D=8/15(53%), E=9/15(60%)
+- **01-act-confirmed comparison**: 83 vs 61 = -22pts. 80 lines vs 149 lines (54% of 01-act).
+- **Pattern confirmed again**: Pre-criteria doc scores C (not D, but close). Same root cause as all other pre-criteria docs.
+- **Missing sections (vs 01-act)**: spatial route, time frame, character growth arc, character interaction, pacing, reader experience design, humor section, foreshadowing section, unresolved tasks
+- **Key structural issues**: (1) Why do kids go DEEPER into cave instead of escaping? Motivation unspecified. (2) How does Gyeoul find the cave? (3) Time frame completely absent (when does Act 2 happen relative to Act 1's 7pm ending?)
+- **Setting consistency issue**: "구니스(The Goonies) 오마주" -- no basis in upper docs. Recommend removal.
+- **README inconsistency discovered**: README says Act 2 = "단서 추적과 첫 위기", Act 3 = "도깨비와의 만남, 추격전". But actual 02-act has 도깨비 meeting in Act 2. README outdated.
+- **B항목 strongest** (72%), **D항목 weakest** (53%). D항목 weakest pattern holds for Act docs too.
+- **Eval criteria example discrepancy**: criteria doc's own example scores 02-act at 84/A. My eval = 61/C. 23pt gap. Root: (1) example from v1 pre-01-act-reinforcement era, (2) v2 added C-6/D-5/D-6/E-6, (3) relative standard after 01-act-confirmed. Recommend updating criteria example or adding version note.
+- **Estimated post-reinforcement**: 필수 8건 -> B/70-75, 필수+권장 15건 -> A/82-88
+
 ## Key File Paths
 - Act eval criteria: act/act-evaluation-criteria.md
 - Chapter eval criteria: chapter/chapter-evaluation-criteria.md
@@ -184,3 +197,4 @@
 - Feedback report: report/20260208-2100-01-01-chapter-feedback-report.md
 - Scene eval criteria feedback: feedback/20260209-1700-scene-eval-crit-feedback-{taesoo,hyewon,yeonsu,hojin}.md
 - Scene eval criteria pending decisions: report/20260209-scene-eval-crit-pending-decisions.md
+- Act 2 eval (태수): feedback/20260210-0600-02-act-eval-kim.md
