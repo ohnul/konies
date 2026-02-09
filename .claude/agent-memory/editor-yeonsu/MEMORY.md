@@ -8,6 +8,7 @@
 - 01-01-chapter.md: D(53) -> A(88), +35. All 13 items reflected.
 - 01-02-chapter.md: D(53) -> A(88), +35. All 13 items reflected. (2026-02-09)
 - **01-02-01-scene.md: D(57) -> A(83), +26. 13/14 items reflected. (2026-02-09)**
+- **novel-01-02-01.md: B+ (first novel prose review). 5 mandatory + 9 recommended = 14 suggestions. (2026-02-09)**
 
 ## Improvement Patterns
 - Chapters: 53->88 (+35), consistent across both
@@ -67,5 +68,37 @@
 - Provide specific alternative dialogue examples for 대사 톤 changes
 - Acknowledge feedback absorption explicitly with counts
 
+## Novel Review Patterns (novel-01-02-01, first review)
+
+### Scene-to-Novel Conversion Issues
+- [감각:] tags from scene docs get "dumped" as consecutive description blocks (line 7 problem)
+- Fix: distribute sensory details across beats, interleave with action/dialogue
+- Scene doc pacing notes ("대사 사이에 묘사 삽입") not fully realized in novel prose
+- Transition triggers become "explained" instead of "shown" -- need action-based transitions
+
+### Recurring Novel-Level Problems
+- "뒤를 돌아보다" repeated 3x (lines 11, 105, 129) -- same anxiety gesture overused
+- "안도" emotion stated 3x -- once early, once mid, once late. 2x is max.
+- Sensory detail contradiction: line 113 "포장된 마을 길" vs line 145 "부드러운 흙"
+- tell-not-show pattern: lines 35, 47, 93 (emotional state named instead of shown)
+
+### Character Voice in Novel
+- 민준: Strongest. "썸네일이 안 되잖아!" confirmed as model dialogue in novel form too.
+- 지훈: Good overall but line 99 duplicates 수진's direction. Needs unique angle per scene doc.
+- 수진: Internal thoughts over-explained by narrator (lines 35, 41). Better to show via action.
+- Pattern: novelist tends to use narrator explanation for 수진's processing, action for 민준.
+
+### Novel Scoring Calibration
+- novel-01-02-01: B+ (first novel file reviewed)
+- 5 mandatory fixes, 9 recommended fixes = 14 total suggestions
+- Strongest section: M2 (촬영 소동) -- comic rhythm well executed
+- Weakest section: M1 (추리 구간) -- insufficient breathing space between interpretations
+
+### Scene Doc Fidelity Check
+- Beat coverage: 100% (all beats from scene doc present)
+- Added content: mostly good (지훈 "돌은 만져봐야", 겨울이 loyalty detail)
+- Weakened content: M1-B3 "미완성 원형" tension, M3-B1 지훈 differentiation
+- Contradictions: spatial description (포장 vs 흙길), none in character/plot
+
 ## Links
-- See `review-patterns.md` for recurring issues (to create when novel reviews begin)
+- See `review-patterns.md` for detailed recurring issue tracking (TODO: create)

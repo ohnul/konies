@@ -3,7 +3,7 @@
 ## Project Structure
 - Pipeline: `act/` -> `chapter/` -> `scene/` -> `novel/` -> `final/`
 - Numbering: Act(sequential), Chapter(absolute), Scene(relative within chapter)
-- Existing novel files: novel-00-00-01, novel-00-00-02, novel-01-01-01, novel-01-02-01 (multiple versions)
+- Existing novel files: novel-00-00-01, novel-00-00-02, novel-01-01-01 (confirmed), novel-01-02-01 (revised 2026-02-09)
 
 ## Key Insights from Act Evaluation Reviews
 - Act documents serve as top-level guides; their quality directly impacts novel prose quality
@@ -35,13 +35,25 @@
 - novel-01-01-01.md: Opening with environmental description (time, light, space) sets scene effectively
 - Character introduction through action (Sujin writing journal, Jihoon at window, Minjun on phone) works better than static description
 - Tension-comedy rhythm: serious moment -> Minjun's camera -> relief -> back to plot
+- **novel-01-02-01 revision (2026-02-09)**: Scene doc transition triggers are critical for prose structure:
+  - M1->M2: Physical sound (삼각대 찰칵) breaks intellectual mood into comic mood
+  - M2->M3: Sensory change (wind direction + evening cooking smells + shadow growth) signals time passage
+- **Pacing by moment type**: M1(추리)=description between dialogue lines, M2(코믹)=rapid ping-pong minimal description, M3(출발)=gradual acceleration with walking rhythm
+- **Sokkup-chingu dynamic**: Sujin-Jihoon friendship shown through Sujin taking Jihoon's unconventional nature ideas seriously. Subtler than direct mention.
 
 ## Character Voice Notes
-- Minjun: Camera always ready, "대박 콘텐츠" as reflex; should evolve subtly across acts
-- Sujin: Public/private mode switch is best shown through physical contrast (posture, speech formality)
-- Jihoon: Speaks in short sentences, nature metaphors come naturally, Gyeoul reflects his emotions
+- Minjun: Camera always ready, "대박 콘텐츠" as reflex; should evolve subtly across acts. "썸네일이 안 되잖아!" is peak Minjun voice.
+- Sujin: Public/private mode switch best shown through physical contrast. Camera triggers private mode most effectively. Leader mode = direction + action verb sentences.
+- Jihoon: Short sentences, nature metaphors, Gyeoul reflects his emotions. **Avoid "맞아" as opening word** -- replace with sensory/literal observations ("돌은 만져봐야 하니까", "마을 한가운데라면 가장 오래된 것들이 있을 거야")
 - Jiyoung: Enters scenes with energy/noise; physical presence described before dialogue
 - Taeho: Introduces stats/probabilities; glasses-adjusting as thinking gesture
+
+## Novel File Continuity Notes
+- novel-01-01-01-confirmed ends: three kids running across schoolyard, Jiyoung shouting "거기 서!", Sujin's journal left behind
+- novel-01-02-01 starts: running, Jiyoung's voice fading, kids stop at schoolyard middle
+- novel-01-02-01 ends: kids pass school gate, see Jiyoung/Taeho silhouettes in 2F window, heading toward village zelkova tree with mysterious flash
+- Time gap between 01-01-01 and 01-02-01: ~15min (school exit to schoolyard middle)
+- Next scene (01-02-02) should start at village, near zelkova tree, ~4:30pm
 
 ## Chapter Document Evaluations
 - **01-01-chapter.md 1st eval (2026-02-08)**: D(54). Critical issues: single-scene overload, no tone section, no subplot goals, no info dump prevention, character actions not carried down from Act. Key lesson: Chapter docs must be "intermediate converters" not "abstractors"
