@@ -3,7 +3,7 @@
 ## Project Structure
 - Pipeline: `act/` -> `chapter/` -> `scene/` -> `novel/` -> `final/`
 - Numbering: Act(sequential), Chapter(absolute), Scene(relative within chapter)
-- Existing novel files: novel-00-00-01, novel-00-00-02, novel-01-01-01 (confirmed), novel-01-02-01 (revised 2026-02-09)
+- Existing novel files: novel-00-00-01, novel-00-00-02, novel-01-01-01 (confirmed), novel-01-02-01 (revised 2026-02-09), novel-01-02-02 (new 2026-02-09)
 
 ## Key Insights from Act Evaluation Reviews
 - Act documents serve as top-level guides; their quality directly impacts novel prose quality
@@ -40,6 +40,14 @@
   - M2->M3: Sensory change (wind direction + evening cooking smells + shadow growth) signals time passage
 - **Pacing by moment type**: M1(추리)=description between dialogue lines, M2(코믹)=rapid ping-pong minimal description, M3(출발)=gradual acceleration with walking rhythm
 - **Sokkup-chingu dynamic**: Sujin-Jihoon friendship shown through Sujin taking Jihoon's unconventional nature ideas seriously. Subtler than direct mention.
+- **novel-01-02-02 (2026-02-09)**: Exploration scene pacing = location episodes need distinct mini-arcs (each with arrival, investigation, disappointment). Avoid making them feel like a checklist by giving each location a unique sensory/comic moment.
+  - Zelkova tree: elder interaction + Sujin's acting skill (comic)
+  - Well: Minjun's ghost fear + Gyeoul's surprise entrance (jump scare comic)
+  - Pavilion: Gyeoul's mysterious sniffing (foreshadow) + failing morale
+  - Shrine: sacred atmosphere + escalating frustration
+  - Central square: fatigue -> intellectual breakthrough -> physical discovery
+- **"불꽃도 꽃이잖아!" moment**: Best achieved by building up fatigue/despair BEFORE the eureka. Minjun's physical action (벌떡 일어남, bench shaking) makes the moment visceral. Short sentences + exclamations = rapid tempo shift.
+- **Scene doc vs Chapter doc inconsistency handling**: Scene 01-02-02 says "연꽃 문양" but Chapter confirmed doc says "꽃받침 형태 받침". Always follow Chapter confirmed + NOTE-TO-AI over unrevised Scene docs. In prose, described as "꽃받침" shape, not "연꽃 문양".
 
 ## Character Voice Notes
 - Minjun: Camera always ready, "대박 콘텐츠" as reflex; should evolve subtly across acts. "썸네일이 안 되잖아!" is peak Minjun voice.
@@ -54,6 +62,11 @@
 - novel-01-02-01 ends: kids pass school gate, see Jiyoung/Taeho silhouettes in 2F window, heading toward village zelkova tree with mysterious flash
 - Time gap between 01-01-01 and 01-02-01: ~15min (school exit to schoolyard middle)
 - Next scene (01-02-02) should start at village, near zelkova tree, ~4:30pm
+- novel-01-02-02 starts: arriving at village center, zelkova tree exploration
+- novel-01-02-02 ends: stone lantern discovered at central square, kids celebrating, sunset, leads to next scene (detailed stone lantern observation)
+- novel-01-02-02 route: zelkova tree -> well -> pavilion -> shrine -> central square bench (rest) -> stone lantern
+- Time in novel-01-02-02: ~5:30pm to ~6:30pm (per scene doc)
+- Next scene (01-02-03) should start at the stone lantern, closer observation, flashlight use, arrow discovery
 
 ## Chapter Document Evaluations
 - **01-01-chapter.md 1st eval (2026-02-08)**: D(54). Critical issues: single-scene overload, no tone section, no subplot goals, no info dump prevention, character actions not carried down from Act. Key lesson: Chapter docs must be "intermediate converters" not "abstractors"

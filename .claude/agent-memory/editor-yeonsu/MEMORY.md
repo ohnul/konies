@@ -9,6 +9,7 @@
 - 01-02-chapter.md: D(53) -> A(88), +35. All 13 items reflected. (2026-02-09)
 - **01-02-01-scene.md: D(57) -> A(83), +26. 13/14 items reflected. (2026-02-09)**
 - **novel-01-02-01.md: B+ (first novel prose review). 5 mandatory + 9 recommended = 14 suggestions. (2026-02-09)**
+- **novel-01-02-01.md EDITED: 5 mandatory + 10 recommended applied directly. (2026-02-09)**
 
 ## Improvement Patterns
 - Chapters: 53->88 (+35), consistent across both
@@ -99,6 +100,27 @@
 - Added content: mostly good (지훈 "돌은 만져봐야", 겨울이 loyalty detail)
 - Weakened content: M1-B3 "미완성 원형" tension, M3-B1 지훈 differentiation
 - Contradictions: spatial description (포장 vs 흙길), none in character/plot
+
+## Novel Editing Patterns (First Direct Edit: novel-01-02-01)
+
+### What Worked Well in Direct Editing
+- Mandatory fixes were straightforward: spatial contradictions, dialogue differentiation, tell->show
+- Condensing narrator explanation (41행 과잉 설명 제거) improved flow immediately
+- Merging split-action sequences (93-97행 리더 모드 2단계->1단계) tightened pacing
+- Adding breathing-space descriptions in M1 (lines 41, 35) improved reader participation rhythm
+
+### Editing Decisions Log
+- Removed middle "안도" check (105-109행 삭제), kept first (11행) and last (125행) = 3->2
+- Removed "뒤를 돌아보다" 3rd instance (129행), kept 1st (11행) and 2nd (101행 "교실 건물 쪽은 조용했다"로 간접 표현) = 3->1.5
+- "시간이 흐르고 있었다" tell sentence removed -- shadow description already conveys this
+- 119행 "아직 불안이 완전히 사라진 것은 아니었다" -> condensed to fragment style for better rhythm
+- 109행 "걱정이 고개를 들었다" cliche -> "가슴이 두근거리는 것이 설렘 때문인지, 불안 때문인지" (more 수진-specific)
+
+### Pitfalls to Watch in Future Edits
+- When removing middle安도 check, need transition sentence for 지훈's 수학 숙제 대사 context
+- Condensing two 수진 대사 into one paragraph risks wall-of-text; broke with action between
+- Adding M1 breathing descriptions must stay SHORT (1-2 sentences max) to not slow pacing further
+- Fragment sentences ("~모르겠지만.") work for emotional beats but should be used sparingly
 
 ## Links
 - See `review-patterns.md` for detailed recurring issue tracking (TODO: create)
