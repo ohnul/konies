@@ -23,7 +23,7 @@
 - **Chapter docs**: 01-01 = A grade (avg 87pts across 4 evaluators, feedback applied, SCENE APPROVED). 01-02 = **A grade (태수 2차 86pts)**, reinforced 2026-02-08 (116->361 lines), re-evaluated 2026-02-09. SCENE APPROVED. Acts 2-4 chapters not created
 - **Scene docs**: Act 1 complete (01-01-01 through 01-02-04). Prologue 2 scenes. Acts 2-4 none
 - **Novel/Final**: f-0-prologue.md, f-1-friends.md finalized. Working drafts in novel/
-- **Evaluation criteria**: Act (v3, finalized), Chapter (v2, finalized), Scene (v1, 2026-02-09)
+- **Evaluation criteria**: Act (v3, finalized), Chapter (v2, finalized), Scene (v1.1, 2026-02-09, 4-evaluator feedback applied)
 - **Reports**: report/20260208-2100-01-01-chapter-feedback-report.md (4-evaluator feedback synthesis)
 
 ## Editorial Observations
@@ -59,15 +59,18 @@
 5. ~~Reinforce 01-02-chapter.md~~ DONE 2026-02-08
 6. ~~Re-evaluate 01-02-chapter.md~~ DONE 2026-02-09: 태수 86pts/A. Scene approved. Remaining 3 evaluators pending.
 7. ~~Create Scene evaluation criteria~~ DONE 2026-02-09: scene/scene-evaluation-criteria.md (v1, 479 lines)
-8. Evaluate existing Scene docs (01-01-01 through 01-02-04) using new criteria
-9. Evaluate remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
-10. Create Chapter docs for Acts 2-4
-11. Cross-evaluation after all Act 1 chapters reach B+ (both now A)
-12. Act 1 Chapter balance check (균형 점검) - both chapters now B+ eligible
-13. Formalize "마을 빚 50억" in setting-overview.md
-14. Add CLAUDE.md "서브플롯" term definition
-15. Formalize "통합학급" setting in character-overview.md (지훈 14세/초등팀 tension)
-16. Formalize 지훈 "자연물에 대한 풍부한 표현" in character-overview.md
+8. ~~Self-review Scene eval criteria~~ DONE 2026-02-09: A grade, feedback/20260209-1700-scene-eval-crit-feedback-taesoo.md
+9. ~~Apply Scene eval criteria feedback~~ DONE 2026-02-09: 4-evaluator feedback (19 accepted, 4 held, 7 rejected). v1->v1.1. Scene eval criteria feedback report: report/20260209-scene-eval-crit-pending-decisions.md
+10. Evaluate existing Scene docs (01-01-01 through 01-02-04) using new criteria
+11. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic issue)
+12. Evaluate remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
+13. Create Chapter docs for Acts 2-4
+14. Cross-evaluation after all Act 1 chapters reach B+ (both now A)
+15. Act 1 Chapter balance check (균형 점검) - both chapters now B+ eligible
+16. Formalize "마을 빚 50억" in setting-overview.md
+17. Add CLAUDE.md "서브플롯" term definition
+18. Formalize "통합학급" setting in character-overview.md (지훈 14세/초등팀 tension)
+19. Formalize 지훈 "자연물에 대한 풍부한 표현" in character-overview.md
 
 ## 01-02-chapter.md 4-Evaluator Review (2026-02-08)
 - **Scores**: 태수 49, 호진 50, 연수 53, 혜원 56. Avg=52, Range=7pts (wider than 01-01's 3pt range)
@@ -117,6 +120,18 @@
 - Balanced-6 added to appendix: time continuity check between scenes (addresses recurring time mismatch issue found in both chapter and scene evals).
 - 01-02-02's Moment 1 (4 location beats with no emotion progression) is a concrete example of "beat-level emotion tracking failure" -- useful teaching case for future evaluations.
 
+## Scene Eval Criteria Self-Review + 4-Evaluator Feedback (2026-02-09)
+- **Self-review grade**: A. 4 feedbacks filed: feedback/20260209-1700-scene-eval-crit-feedback-{taesoo,hyewon,yeonsu,hojin}.md
+- **4-evaluator consensus**: All 4 graded A- to A. Key common issues: (1) A-3/B-2/D-1 boundary, (2) D-6 pacing anchor, (3) B-5 structure
+- **v1.1 applied 19 items**: A-3/B-2/D-1 삼분 명확화, D-6 앵커, B-5 세부구조, B-1 역할분리+서브플롯, D-3 차등적용+예시, B-4 정당한and then, D-5 긴장감/공포 경계, 프롤로그 치환 규칙, 균형-2/4 구분 등
+- **5 items held**: (1) 감정선 ASCII 곡선 필수화, (2) B-3 독자 지식 상태, (3) 균형-7 서브플롯, (4) E-3 세부 검증 예시, (5) D-4 배점 상향
+- **7 items rejected**: 비트 서사적 필수성(B-4 과부하), Key Image 독립화(D항목 포화), C-2 5점 앵커(형식 불균형), 예시 분리(즉시 대조 가치), 밀도 판정 공식화, 전환 트리거 용어 정의, 필수 섹션 축소
+- **Eval example rescored**: A-3 4->5(구조적 판단으로 수정), B-2 3->2(감정 단조 집중), D-6 0->1(앵커 적용). Total 67->68pts, still C grade
+- **Key lesson - "집필자 자유" 원칙**: 호진의 핵심 통찰. Scene 문서가 소설 초안이 되면 안 됨. D-3 차등 적용(일반 비트=키워드), D-6 문체 지시 집필자 재량, C-2 간접 지시 활용 -- 모두 "설계도 vs 시공"의 경계를 지키는 원칙
+- **"연꽃 문양" is systemic**: STILL OPEN. Fix needed across ALL Scene docs
+- **3-tier eval criteria now complete**: Act(v3)->Chapter(v2)->Scene(v1.1). All use same structure, 40% floor rule
+- **Pending decisions report**: report/20260209-scene-eval-crit-pending-decisions.md (5 items)
+
 ## Key File Paths
 - Act eval criteria: act/act-evaluation-criteria.md
 - Chapter eval criteria: chapter/chapter-evaluation-criteria.md
@@ -126,3 +141,5 @@
 - Chapter 01-02: chapter/01-02-chapter.md (A/86pts 태수 2nd eval, D/avg52pts 1st eval)
 - Chapter 01-02 evals: feedback/20260208-2300-01-02-chapter-eval-{taesoo,hyewon,yeonsu,hojin}.md (1차), feedback/20260209-1500-01-02-chapter-eval-taesoo.md (2차)
 - Feedback report: report/20260208-2100-01-01-chapter-feedback-report.md
+- Scene eval criteria feedback: feedback/20260209-1700-scene-eval-crit-feedback-{taesoo,hyewon,yeonsu,hojin}.md
+- Scene eval criteria pending decisions: report/20260209-scene-eval-crit-pending-decisions.md

@@ -54,6 +54,17 @@
 - **Key pattern confirmed**: Same revision strategy as 01-01 works for 01-02. Core formula = Chapter-unique value (character-moment mapping + sensory keywords + humor placement + cognitive load mgmt + info disclosure mapping). Both chapters went from D to A with +34~37pt improvement.
 - **Key lesson repeated**: Chapter docs that only list role keywords without scene-specific actions/dialogue directions are useless for prose writing. The confirmed 01-01 should be the template for all future Chapter docs.
 
+## Scene Evaluation Criteria - Feedback Summary (2026-02-09)
+- Feedback file: `feedback/20260209-1700-scene-eval-crit-feedback-hojin.md`
+- Overall positive: "집필 설계도" identity well-established, pipeline awareness strong
+- **Top priority**: D-3 sensory description level adjustment. "묘사 문장 수준" for ALL beats is too prescriptive; propose: start/end situations = sentence-level, transition points = direction + 1 concrete image, general beats = keyword + sense type only. Key argument: prevents Scene doc from becoming novel draft, preserves writer's creative freedom
+- **D-6 pacing guide**: Moment-level tempo design = useful. Beat-level sentence rhythm prescriptions = not useful in practice. Propose "템포와 밀도" instead of "문장 길이/호흡". Added scale anchors (2/1/0pt). Eval example gave 0pt to doc that had moment-level pacing = too harsh.
+- **C-2 dialogue (6pts)**: Highest score in C-section, absolutely correct. But propose emphasizing "indirect direction" value alongside direct quotes to prevent forced filler dialogue. Also propose 5pt anchor between 4pt and 6pt gap.
+- **D-4 humor (2pts)**: Still low per my view (same as Chapter feedback), but this time proposed strengthening criteria instead of raising score: add "narrative function" checkpoints
+- **C-5 character movement (2pts)**: Score appropriate but needs scope guide (fixed-space scenes vs movement scenes)
+- **A-2 start/end situations**: "첫 문단을 쓸 수 있는 수준" is intuitive but interpretation varies; propose clarifying 3pt anchor
+- **New issues**: 11 mandatory sections = high document burden (propose streamlining 2 sections), B-2 emotion tracking format needs guide, A-2/E-2 role overlap needs differentiation, motif-sensory cross-reference (D-3/E-5) still missing (was promised from Chapter feedback), prologue application needs B-1/E-3 substitution guide
+
 ## Document References
 - `act/act-evaluation-criteria.md`: Evaluation framework by Kim Taesu (team lead), updated with team feedback
 - `character-overview.md`: All 5 protagonists + 2 villains + Duru + Gyeoul
