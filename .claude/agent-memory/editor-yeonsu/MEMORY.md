@@ -5,13 +5,15 @@
 - 01-02-01-scene: D(57)->A(83). 01-02-02-scene: D(56) 1st. 01-02-03-scene: D(45) 1st, confirmed.
 - **01-02-04-scene: B(75.5) team eval. D-items 9/15(60%) yeonsu eval. (2026-02-09)**
 - **novel-01-02-01: B+, edited. novel-01-02-02: B+, edited. novel-01-02-03: B+, edited. (2026-02-09)**
-- All 3 novel files: consistent B+ pre-edit, 5 mandatory + 9~10 recommended each
+- **novel-01-02-04: B+, edited. 8 mandatory + 12 recommended = 20 items. 222->228 lines. (2026-02-09)**
+- All 4 novel files: consistent B+ pre-edit, 5-8 mandatory + 9~12 recommended each
 - Act/Chapter eval criteria: reviewed. Scene eval criteria: reviewed.
 
-## Novel Editing Summary (3 files complete)
+## Novel Editing Summary (4 files complete)
 - See `novel-editing-log.md` for detailed per-file editing decisions
-- Consistent reduction: ~5-6% line count per file (tell removal + dump reduction)
-- Beat coverage: 100% maintained across all 3 files (no scene doc content lost)
+- Files 01-03: Consistent reduction ~5-6% line count. File 04: +3% (dump split + 복선 추가)
+- Beat coverage: 100% maintained across all 4 files (no scene doc content lost)
+- File 04 unique: paragraph structure was primary issue (uniform short paras), not line count
 
 ## Persistent Authorial Habits (across all 3 novel files)
 1. **Sensory dump at transitions**: 3-5 sentences of pure env description at location changes. Fix: distribute.
@@ -22,6 +24,9 @@
 6. **삼인조 시너지 서술자 설명**: At climax moments, narrator explains team synergy structure directly. DELETE always.
 7. **저녁 풍경 반복**: 장소 전환마다 같은 환경(연기, 불빛, 하늘색) 반복. File 02: 연기 4x->1x. File 03: 불빛 3x->1x.
 8. **클라이맥스 전후 tell 밀집**: 감정 정점 직전/직후에 서술자 설명 집중. 독자 안내 의도지만 감동 해침.
+9. **메타 표현 혼입**: "이전 장면에서와 같은 방식으로" -- 장면 문서 용어가 소설에 유입. Always replace with in-story references.
+10. **전환 트리거 덤프**: Scene doc의 [전환 트리거] 블록이 소설에서 감각 덤프 문단으로 직역됨. 분산 필수.
+11. **수진-지훈 대사 중복**: 같은 의미를 두 캐릭터가 거의 같은 표현으로 반복 (04: "석등이 여기로 데려온 거야"). 차별화 필수.
 
 ## Character Voice Patterns
 - **민준**: Strongest voice across all files. "썸네일이 안 되잖아!", "감옥 가면 유튜브 못 해!" = model. 04-scene: 6/8 unique (75%).
@@ -61,9 +66,10 @@
 
 ## Novel Review Calibration
 - All 3 files: B+ pre-edit. Consistent quality from novelist.
-- Strongest sections: comic beats (우물 겨울이, 촬영 소동, 감옥 코믹)
-- Weakest sections: M1 analytical segments (breathing), climax narrator intrusion
+- Strongest sections: comic beats (우물 겨울이, 촬영 소동, 감옥 코믹, 겨울이 고양이 추격전, 카메라=용기)
+- Weakest sections: M1 analytical segments (breathing), climax narrator intrusion, transition trigger dumps
 - Scene doc fidelity: 100% beat coverage, good additions, occasional weakening
+- File 04 new pattern: paragraph uniformity (all 1-3 sentence paras regardless of moment speed)
 
 ## Key Editorial Techniques
 - **수진 손가락 접기**: "탈락" + 손가락 접기 x4 -> 주먹 = 좌절감 시각 상징
@@ -71,6 +77,9 @@
 - **감각 덤프 분산**: 전환부 5문장 덩어리 -> 대사 사이에 1-2문장씩 분배
 - **이중 정점 해소**: 하나를 의문형/관찰형으로 낮추고 하나만 환호로 유지
 - **서술자 정리 삭제**: 대사/행동이 이미 전달한 정보의 서술자 반복 제거
+- **수진-지훈 대사 차별화**: 동일 의미 대사를 수진=분석("다섯 개 전부", "패턴"), 지훈=감각("이 길이 보여준 거")으로 분리
+- **전환 트리거 분산**: Scene doc [전환 트리거] 5-6문장 -> 2문장 핵심만 유지 + 나머지 다음 비트 대사 사이에 삽입
+- **복선 삽입**: 장면 문서 복선 관리 표에 있으나 소설 누락된 항목(지영/태호 미행 암시) 환경 소리로 처리
 
 ## Links
 - `novel-editing-log.md`: Detailed per-file editing decisions and line-level changes
