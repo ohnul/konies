@@ -49,7 +49,9 @@
 - Remaining minor issues: subplot table missing Jihoon/Taeho seeds, moment 3->4 transition coincidence, tactile senses underrepresented, terminology handling not systematized
 - **Key pattern**: Effective Chapter revision strategy = add Chapter-unique value (cognitive load mgmt, info mapping, character-moment mapping) rather than just expanding Act content
 - **01-02-chapter.md 1st eval (2026-02-08)**: D(50). Critical issues: "연꽃 문양" setting error (must be "꽃받침 형태의 받침"), no subplot goals section, no character arc progression, no character interaction design, no tension/relaxation rhythm, no sensory keywords, no humor placement plan, time frame mismatch with Act (Ch ends 6pm vs Act 7pm). C(8/20) and D(6/15) at 40% minimum threshold.
-- **01-02 vs 01-01 gap**: 01-02 is at the level 01-01 was BEFORE revision (D grade). Same core problem: "Act document abstractor" instead of "intermediate converter". Needs same treatment as 01-01 revision.
+- **01-02-chapter.md 2nd eval (2026-02-09)**: D(50) -> A(87), +37pts. All 3 critical issues resolved: (1) "연꽃 문양" -> "꽃받침 형태 받침" corrected throughout, (2) Full character sections with dialogue/action directions, interaction design, arc progression, (3) Complete reader experience design (tension/relaxation rhythm, humor placement, sensory keywords, cognitive load mgmt). Quality gap with 01-01-confirmed essentially eliminated.
+- Remaining minor issues: Scene 2 internal pacing guide, sensory transition strategy between scenes, taste sense absent, 탈옥범 복선 유지 방안 needs concrete device
+- **Key pattern confirmed**: Same revision strategy as 01-01 works for 01-02. Core formula = Chapter-unique value (character-moment mapping + sensory keywords + humor placement + cognitive load mgmt + info disclosure mapping). Both chapters went from D to A with +34~37pt improvement.
 - **Key lesson repeated**: Chapter docs that only list role keywords without scene-specific actions/dialogue directions are useless for prose writing. The confirmed 01-01 should be the template for all future Chapter docs.
 
 ## Document References

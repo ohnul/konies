@@ -2,77 +2,55 @@
 
 ## Project Status
 - Act evaluation criteria document reviewed twice (2026-02-07)
-- First review: rated B+, 11 suggestions made, 10 accepted
-- Second review: rated A, 2 minor suggestions remaining (D-6 배점 조정, 평가 결과 기록 위치)
-- 01-act.md evaluated (2026-02-07): rated D (57/100), 11 improvement recommendations
-- 01-act.md re-evaluated (2026-02-08): rated A (83/100), +26 improvement. 5 S-grade suggestions remaining
 - Chapter evaluation criteria reviewed (2026-02-08): rated A-, 11 suggestions made
-  - Key issues: A-3/B-4 mini-climax duplication, B-1/E-3 role overlap, example scoring transparency
-- **01-01-chapter.md evaluated (2026-02-08 18:00)**: rated D (53/100), 13 improvement items
-- **01-01-chapter.md re-evaluated (2026-02-08 21:00)**: rated A (88/100), +35 improvement. All 13 items reflected.
+- 01-act.md: D(57) -> A(83), +26
+- 01-01-chapter.md: D(53) -> A(88), +35. All 13 items reflected.
+- **01-02-chapter.md: D(53) -> A(88), +35. All 13 items reflected. (2026-02-09)**
 
-## Document Review Patterns
-- `act/act-evaluation-criteria.md`: 436-line evaluation criteria document, well-structured
-- `chapter/chapter-evaluation-criteria.md`: 379-line document, inherits Act criteria structure
-- Team feedback cycle: 3 reviewers -> 팀장 반영 -> 2차 리뷰
-- 김태수 팀장 responds to feedback with clear accept/reject reasoning
+## Improvement Pattern: D->A (+35) is Consistent
+- 01-01: 53->88, 01-02: 53->88. Same start, same end.
+- Both achieved identical category scores (A:22, B:22, C:17, D:14, E:13)
+- Suggests systematic learning transfer from 01-01 revision to 01-02 revision
+- Team's feedback absorption rate: 100% (13/13 items in both cases)
 
-## Evaluation Criteria Cross-Document Patterns
-- Both Act and Chapter criteria use identical A~E structure (25/25/20/15/15 scoring)
-- Act criteria: 횡단 평가, Chapter criteria: 균형 점검
-- **Recurring structural issue**: evaluation items that overlap
-- Setting conflict resolution rule: lower docs cannot independently create rules not in parent docs
+## Chapter Document Quality Patterns
 
-## Act Document Quality Patterns
-- 01-act.md: D->A (57->83pt). Key additions: growth arcs, humor, time frame, 감정 아크
-- **"마을 빚 50억" setting conflict**: Still unresolved in setting-overview.md (팀장: "별도 작업")
-- NOTE-TO-AI annotations: 01-act has unresolved 복선 design questions
+### 01-01-chapter Key Innovation
+- 5-moment structure for single-scene chapters
+- Solved "single scene overload" problem
 
-## Chapter Document Evaluation Patterns
+### 01-02-chapter Key Innovation
+- D항목: 6->14 (+8), most dramatic. Was at 40% threshold, now 93%
+- Humor (D-4): 0->2. 5 comedy patterns with dual function (이완+서사)
+- Tension/release: ASCII graph + 5 이완 구간 + 6 전환 트리거 (exceeds 01-01's 4)
+- Mini-climax: 3-stage chain (민준 idea -> 지훈 discovery -> 수진 synthesis)
+- "연꽃 문양" -> "꽃받침 형태 받침": Critical setting fix completed
+- Remaining for S-grade: D-5 씬3 감각(후각), E-4 "석등 길" 용어 통일
 
-### 01-01-chapter.md Revision Assessment (D->A, 53->88pt, +35)
-- **Most dramatic improvement**: D항목 5->14 (+9). Was below 40% threshold, now 93%.
-- **Key structural innovation**: 5-moment structure within single scene. Solved the "single scene overload" problem elegantly.
-- **Root cause of initial failure**: Act document's rich design not inherited. Now fully translated.
-- **Strengths of revised version**:
-  - Cognitive load management (3-stage character intro + tag behaviors + info repetition)
-  - Tone system (기조 톤 -> 비율 -> 모멘트별 키워드 -> 이완 구간 -> 트리거 -> 유머 -> 감각) forms organic whole
-  - Character interaction design (3 core interactions with narrative function)
-  - Info disclosure strategy (8 items mapped to moments with anti-dump measures)
-- **Remaining for S-grade (4 items)**:
-  1. D-5: Moment 3 sensory keywords need enrichment (전설 장면의 마법적 분위기)
-  2. B-3: 지훈/태호 subplot seeds missing from subplot section
-  3. E-2: Classroom-to-village spatial bridge needs detail
-  4. C-4: Internal ripple of weakness exposure (수진's anxiety after being seen)
-- **Now exceeds 01-02-chapter example (67pt) by 21pts in all categories**
-- **Can serve as reference document for future Chapter writing**
+### General Chapter Patterns
+- D항목 consistently weakest initially, then most improved
+- B-3 서브플롯 systematically weak at first pass
+- D-5 감각: 미각 absent across both chapters; transition scenes get less sensory detail
+- **Quality gap between 01-01 and 01-02 NOW RESOLVED**: Both at 88
+- Moment structure for single-scene, scene-level detail for multi-scene chapters
 
-### Chapter Evaluation General Notes
-- Single-scene chapters need compensating detail -> SOLVED by moment structure in 01-01
-- D항목 is where Chapter docs most commonly underperform vs Act docs -> Pattern confirmed, then resolved
-- Subplot goals (B-3) systematically weak -> Pattern: writers omit less prominent characters' subplots
-- Sensory keywords (D-5) missing -> Pattern: "transition" moments get less sensory detail than "event" moments
-- **NEW PATTERN**: When Chapter doc quality exceeds its sibling (01-01: 88 vs 01-02: 67), creates quality gap risk for final novel. Should recommend sibling update.
-- **NEW PATTERN**: Moment structure is effective solution for single-scene chapters. Should recommend for similar cases.
-
-## Key Editorial Observations
-- "스스로" spelling issue: appears in 04-act.md (line 8, 51)
-- "마을 빚 50억" setting conflict remains unresolved across Act->Chapter pipeline
-- "서브플롯" used extensively but not defined in CLAUDE.md
-- Chapter doc's role: translate Act design into scene-level actionable guidance (core principle confirmed)
-
-## Feedback Style Notes
-- Re-evaluation: compare before/after, acknowledge improvements, focus remaining gaps
-- Be fair to genuine improvements - don't hold back points
-- Always verify cross-document consistency (character-overview, setting-overview, plot-structure)
-- When quality gap exists between sibling chapters, note the risk explicitly
-- Use concrete examples from the evaluated document when pointing out issues
+## Recurring Issues to Track
+- **"스스로" typo**: 04-act.md (line 8, 51), 01-02-chapter.md (~line 210)
+- **"석등 길" vs "연쇄 석등"**: setting-overview vs chapter terminology gap
+- **"마을 빚 50억"**: Unresolved in setting-overview.md (팀장: "별도 작업")
 
 ## Scoring Calibration
-- 01-act.md: 83/100 (A)
-- 01-01-chapter.md (initial): 53/100 (D) -> (revised): 88/100 (A)
-- 01-02-chapter.md (example): 67/100 (C)
-- Quality hierarchy: 01-01-chapter(88) > 01-act(83) > 01-02-chapter(67)
+- 01-act: 83/100 (A)
+- 01-01-chapter: 88/100 (A)
+- 01-02-chapter: 88/100 (A)
+- Quality: 01-01 = 01-02 (88) > 01-act (83). Chapters more detailed than Act, as expected.
+
+## Feedback Style
+- Re-evaluation: Before/After table first, then detailed scoring
+- Acknowledge complete feedback absorption explicitly
+- Cross-document consistency checks are critical (character-overview, setting-overview, Act NOTE-TO-AI)
+- When sibling chapters match quality, note the balance explicitly
+- Chapter doc's core role: translate Act design into scene-level actionable guidance
 
 ## Links
 - See `review-patterns.md` for recurring issues across novel files (to be created when novel reviews begin)

@@ -18,9 +18,9 @@
 - ~~Act-Chapter spatial inconsistency~~: RESOLVED 2026-02-08. Act: "복도(탈출) -> 운동장(경유)", Chapter: "복도(교실 탈출 시) -> 운동장(경유, 지영/태호 시점의 창밖 장면)". Report 보류1 -> 해결됨
 - ~~Foreshadowing classification drift~~: RESOLVED 2026-02-08. 겨울이/지영태호 복선 모두 Act/Chapter 양쪽 "보류"로 통일. 최종원고 단계에서 구체화하기로 합의.
 
-## Completed Work Status (Updated 2026-02-08)
+## Completed Work Status (Updated 2026-02-09)
 - **Act docs**: All created (00-prologue through 05-epilogue). 01-act-confirmed.md = A grade (83pts)
-- **Chapter docs**: 01-01 = A grade (avg 87pts across 4 evaluators, feedback applied, SCENE APPROVED). 01-02 = D grade (avg 52pts), **reinforced 2026-02-08** (116->361 lines, 8 items applied, awaiting re-eval). Acts 2-4 chapters not created
+- **Chapter docs**: 01-01 = A grade (avg 87pts across 4 evaluators, feedback applied, SCENE APPROVED). 01-02 = **A grade (태수 2차 86pts)**, reinforced 2026-02-08 (116->361 lines), re-evaluated 2026-02-09. SCENE APPROVED. Acts 2-4 chapters not created
 - **Scene docs**: Act 1 complete (01-01-01 through 01-02-04). Prologue 2 scenes. Acts 2-4 none
 - **Novel/Final**: f-0-prologue.md, f-1-friends.md finalized. Working drafts in novel/
 - **Evaluation criteria**: Act (v3, finalized), Chapter (v2, finalized)
@@ -52,17 +52,20 @@
 - B-4: 이연수 gave 5/5 (others 4/5). Editors may weight narrative completeness over reader emotion specification.
 
 ## Next Steps (Priority Order)
-1. ~~Re-evaluate 01-01-chapter.md~~ DONE: A/87 avg, feedback applied (8 accepted items)
-2. ~~Resolve Act-Chapter spatial inconsistency~~ DONE: 2026-02-08, aligned to final/f-1-friends.md
-3. ~~Sync foreshadowing classifications~~ DONE: 2026-02-08. 겨울이/지영태호 양쪽 "보류"로 통일, Act/Chapter/Report 3개 문서 동기화 완료
-4. ~~Evaluate 01-02-chapter.md formally~~ DONE: D/avg52pts (4 evaluators: 49/50/53/56). Feedback responses added.
-5. ~~Reinforce 01-02-chapter.md~~: DONE 2026-02-08. 8 common issues applied. 116->361 lines. Awaiting re-evaluation.
-6. Evaluate remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
-6. Create Chapter docs for Acts 2-4
-7. Cross-evaluation after all Acts reach B+
-8. Formalize "마을 빚 50억" in setting-overview.md
-9. Add CLAUDE.md "서브플롯" term definition
-10. Formalize "통합학급" setting in character-overview.md (지훈 14세/초등팀 tension)
+1. ~~Re-evaluate 01-01-chapter.md~~ DONE: A/87 avg
+2. ~~Resolve Act-Chapter spatial inconsistency~~ DONE
+3. ~~Sync foreshadowing classifications~~ DONE
+4. ~~Evaluate 01-02-chapter.md formally~~ DONE: D/avg52pts
+5. ~~Reinforce 01-02-chapter.md~~ DONE 2026-02-08
+6. ~~Re-evaluate 01-02-chapter.md~~ DONE 2026-02-09: 태수 86pts/A. Scene approved. Remaining 3 evaluators pending.
+7. Evaluate remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
+8. Create Chapter docs for Acts 2-4
+9. Cross-evaluation after all Act 1 chapters reach B+ (both now A)
+10. Act 1 Chapter balance check (균형 점검) - both chapters now B+ eligible
+11. Formalize "마을 빚 50억" in setting-overview.md
+12. Add CLAUDE.md "서브플롯" term definition
+13. Formalize "통합학급" setting in character-overview.md (지훈 14세/초등팀 tension)
+14. Formalize 지훈 "자연물에 대한 풍부한 표현" in character-overview.md
 
 ## 01-02-chapter.md 4-Evaluator Review (2026-02-08)
 - **Scores**: 태수 49, 호진 50, 연수 53, 혜원 56. Avg=52, Range=7pts (wider than 01-01's 3pt range)
@@ -76,7 +79,7 @@
 - **Weakest point**: D-4 (humor) = 0/2 (3 evaluators), 1/2 (호진). Pattern confirmed: D항목 weakest in initial evals.
 - **Notable insights by evaluator**: 연수="작품 정체성 40% 누락", 호진="캐릭터가 살아 있지 않다", 혜원="분량 큰 장이 가이드 적은 역설", 호진="5월 일몰 7:10pm" data
 - **연수 subplot suggestion (held)**: "민준 촬영 집착이 마찰 발생" -- Act says "시너지 첫 증명" so friction deferred to Act 2+
-- **Estimated post-reinforcement**: 70-80pts (B to A range)
+- **Estimated post-reinforcement**: 70-80pts (B to A range) -- **ACTUAL: 86pts (A)**. Estimate was conservative.
 - **Feedback response completed**: 팀장 응답 added to all 4 eval files (2026-02-08)
 - **Reinforcement applied 2026-02-08**: 116->361 lines. All 8 common issues addressed:
   - (1) "연꽃 문양" fully replaced with "꽃받침 형태" (18 occurrences)
@@ -89,11 +92,22 @@
   - (8) Act 정합성: 막내위치(70%), 감정아크(5~7단계), 시간(~7시경), 공간동선 모두 명시
 - **추가 반영**: 지훈 "논리적 사고"->"문자 그대로 해석" 수정, 정보공개전략 표, 인지부하관리, 감각키워드 씬별 표, 캐릭터 포커스 4단계(중심/주요/보조/부재), 겨울이 "감정반응" 방향 통일
 
+## 01-02-chapter.md 2nd Evaluation (2026-02-09, 태수 only)
+- **Score**: 86pts / A grade (up from 49pts / D)
+- **Score breakdown**: A=22/25, B=22/25, C=16/20, D=13/15, E=13/15
+- **All items at 80%+**: most balanced doc so far. No item below 80%.
+- **1차 필수 보완 8건 전부 이행 확인**
+- **01-01과의 질적 격차 해소**: 87 vs 86, 1점 차 (C-5 상호작용 설계에서 미세 차이)
+- **Remaining weaknesses**: C-5 (interaction design, 2/4), D-3 (cognitive load, 2/3), E-5 (foreshadowing, 2/3)
+- **5 recommendations for S grade**: (1) interaction depth, (2) Scene 2 internal moments, (3) 탈옥범 reminder device, (4) 지훈 nature-talk trait formalization, (5) sensory transition planning
+- **Key insight**: D항목 rebalancing hypothesis weakened -- 01-02 scored 13/15 (87%) on D, proving current 15-point allocation is sufficient for well-designed docs. D항목 weakness in initial evals is a doc quality issue, not a criteria weight issue.
+- **Pattern confirmed**: "Pre-criteria docs score D, post-reinforcement docs score A" = consistent across 01-01 and 01-02
+
 ## Key File Paths
 - Act eval criteria: act/act-evaluation-criteria.md
 - Chapter eval criteria: chapter/chapter-evaluation-criteria.md
 - Act 1 confirmed: act/01-act-confirmed.md
 - Chapter 01-01: chapter/01-01-chapter.md (A/87 avg, feedback applied)
-- Chapter 01-02: chapter/01-02-chapter.md (D/49pts, 1st eval)
-- Chapter 01-02 evals: feedback/20260208-2300-01-02-chapter-eval-{taesoo,hyewon,yeonsu,hojin}.md (all with 팀장 응답)
+- Chapter 01-02: chapter/01-02-chapter.md (A/86pts 태수 2nd eval, D/avg52pts 1st eval)
+- Chapter 01-02 evals: feedback/20260208-2300-01-02-chapter-eval-{taesoo,hyewon,yeonsu,hojin}.md (1차), feedback/20260209-1500-01-02-chapter-eval-taesoo.md (2차)
 - Feedback report: report/20260208-2100-01-01-chapter-feedback-report.md
