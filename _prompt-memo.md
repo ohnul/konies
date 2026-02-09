@@ -13,6 +13,12 @@ THIS IS A MEMO "FOR HUMAN", DON'T REFERENCE THIS DOCUMENT!
 
 
 
+
+
+
+
+
+
 근육 수정, 
 
 ---

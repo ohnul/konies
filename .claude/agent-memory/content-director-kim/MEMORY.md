@@ -23,7 +23,7 @@
 - **Chapter docs**: 01-01 = A grade (avg 87pts across 4 evaluators, feedback applied, SCENE APPROVED). 01-02 = **A grade (태수 2차 86pts)**, reinforced 2026-02-08 (116->361 lines), re-evaluated 2026-02-09. SCENE APPROVED. Acts 2-4 chapters not created
 - **Scene docs**: Act 1 complete (01-01-01 through 01-02-04). Prologue 2 scenes. Acts 2-4 none
 - **Novel/Final**: f-0-prologue.md, f-1-friends.md finalized. Working drafts in novel/
-- **Evaluation criteria**: Act (v3, finalized), Chapter (v2, finalized)
+- **Evaluation criteria**: Act (v3, finalized), Chapter (v2, finalized), Scene (v1, 2026-02-09)
 - **Reports**: report/20260208-2100-01-01-chapter-feedback-report.md (4-evaluator feedback synthesis)
 
 ## Editorial Observations
@@ -58,14 +58,16 @@
 4. ~~Evaluate 01-02-chapter.md formally~~ DONE: D/avg52pts
 5. ~~Reinforce 01-02-chapter.md~~ DONE 2026-02-08
 6. ~~Re-evaluate 01-02-chapter.md~~ DONE 2026-02-09: 태수 86pts/A. Scene approved. Remaining 3 evaluators pending.
-7. Evaluate remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
-8. Create Chapter docs for Acts 2-4
-9. Cross-evaluation after all Act 1 chapters reach B+ (both now A)
-10. Act 1 Chapter balance check (균형 점검) - both chapters now B+ eligible
-11. Formalize "마을 빚 50억" in setting-overview.md
-12. Add CLAUDE.md "서브플롯" term definition
-13. Formalize "통합학급" setting in character-overview.md (지훈 14세/초등팀 tension)
-14. Formalize 지훈 "자연물에 대한 풍부한 표현" in character-overview.md
+7. ~~Create Scene evaluation criteria~~ DONE 2026-02-09: scene/scene-evaluation-criteria.md (v1, 479 lines)
+8. Evaluate existing Scene docs (01-01-01 through 01-02-04) using new criteria
+9. Evaluate remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
+10. Create Chapter docs for Acts 2-4
+11. Cross-evaluation after all Act 1 chapters reach B+ (both now A)
+12. Act 1 Chapter balance check (균형 점검) - both chapters now B+ eligible
+13. Formalize "마을 빚 50억" in setting-overview.md
+14. Add CLAUDE.md "서브플롯" term definition
+15. Formalize "통합학급" setting in character-overview.md (지훈 14세/초등팀 tension)
+16. Formalize 지훈 "자연물에 대한 풍부한 표현" in character-overview.md
 
 ## 01-02-chapter.md 4-Evaluator Review (2026-02-08)
 - **Scores**: 태수 49, 호진 50, 연수 53, 혜원 56. Avg=52, Range=7pts (wider than 01-01's 3pt range)
@@ -103,9 +105,22 @@
 - **Key insight**: D항목 rebalancing hypothesis weakened -- 01-02 scored 13/15 (87%) on D, proving current 15-point allocation is sufficient for well-designed docs. D항목 weakness in initial evals is a doc quality issue, not a criteria weight issue.
 - **Pattern confirmed**: "Pre-criteria docs score D, post-reinforcement docs score A" = consistent across 01-01 and 01-02
 
+## Scene Evaluation Criteria Design Notes (2026-02-09)
+- Scene = smallest structural unit. No sub-documents. Converts directly to novel/ files.
+- Beat absorption: B-2 evaluates emotion tracking per beat. A-3 evaluates structural appropriateness of beat/moment division.
+- Moment absorption: D-1 evaluates atmosphere transition design per moment.
+- Key differentiator from Chapter criteria: **specificity level**. Scene requires "novel-writable" level: dialogue examples (not just direction), sensory descriptions (not just keywords), pacing guide (beat-level tempo).
+- C-2 (dialogue) is 6pts (highest in C항목) because Scene is last stop before novel. Character voice must be concretely defined here.
+- Dual-scoring prevention: A-3 checks structural presence of beat/moment; B-2/D-1 check content effectiveness.
+- Existing Scene docs (01-01-01 through 01-02-04) were written pre-criteria. Expected pattern: D-grade initial -> A-grade post-reinforcement (same as chapter docs).
+- **Evaluation example insight**: 01-02-02 scored C/67pts. Main issues: (1) "연꽃 문양" setting conflict, (2) time mismatch with Chapter, (3) Moment 1 emotion flatness, (4) missing pacing guide. These mirror Chapter initial evaluation patterns.
+- Balanced-6 added to appendix: time continuity check between scenes (addresses recurring time mismatch issue found in both chapter and scene evals).
+- 01-02-02's Moment 1 (4 location beats with no emotion progression) is a concrete example of "beat-level emotion tracking failure" -- useful teaching case for future evaluations.
+
 ## Key File Paths
 - Act eval criteria: act/act-evaluation-criteria.md
 - Chapter eval criteria: chapter/chapter-evaluation-criteria.md
+- Scene eval criteria: scene/scene-evaluation-criteria.md
 - Act 1 confirmed: act/01-act-confirmed.md
 - Chapter 01-01: chapter/01-01-chapter.md (A/87 avg, feedback applied)
 - Chapter 01-02: chapter/01-02-chapter.md (A/86pts 태수 2nd eval, D/avg52pts 1st eval)
