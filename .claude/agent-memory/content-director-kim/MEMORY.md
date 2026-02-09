@@ -61,16 +61,20 @@
 7. ~~Create Scene evaluation criteria~~ DONE 2026-02-09: scene/scene-evaluation-criteria.md (v1, 479 lines)
 8. ~~Self-review Scene eval criteria~~ DONE 2026-02-09: A grade, feedback/20260209-1700-scene-eval-crit-feedback-taesoo.md
 9. ~~Apply Scene eval criteria feedback~~ DONE 2026-02-09: 4-evaluator feedback (19 accepted, 4 held, 7 rejected). v1->v1.1. Scene eval criteria feedback report: report/20260209-scene-eval-crit-pending-decisions.md
-10. Evaluate existing Scene docs (01-01-01 through 01-02-04) using new criteria
-11. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic issue)
-12. Evaluate remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
-13. Create Chapter docs for Acts 2-4
-14. Cross-evaluation after all Act 1 chapters reach B+ (both now A)
-15. Act 1 Chapter balance check (균형 점검) - both chapters now B+ eligible
-16. Formalize "마을 빚 50억" in setting-overview.md
-17. Add CLAUDE.md "서브플롯" term definition
-18. Formalize "통합학급" setting in character-overview.md (지훈 14세/초등팀 tension)
-19. Formalize 지훈 "자연물에 대한 풍부한 표현" in character-overview.md
+10. Apply ASCII removal to Scene eval criteria (보류-1 즉시 적용)
+11. Evaluate existing Scene docs (01-01-01 through 01-02-04) using new criteria
+12. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic issue)
+13. Evaluate remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
+14. Create Chapter docs for Acts 2-4
+15. Cross-evaluation after all Act 1 chapters reach B+ (both now A)
+16. Act 1 Chapter balance check (균형 점검) - both chapters now B+ eligible
+17. Formalize "마을 빚 50억" in setting-overview.md
+18. Add CLAUDE.md "서브플롯" term definition
+19. Formalize "통합학급" setting in character-overview.md (지훈 14세/초등팀 tension)
+20. Formalize 지훈 "자연물에 대한 풍부한 표현" in character-overview.md
+21. Apply ASCII removal to Chapter confirmed docs (01-01, 01-02) at next update
+22. Apply ASCII removal to Act eval criteria (횡단-1) at next update
+23. Eval criteria format efficiency review (표 제거 검토) at Scene v1.2
 
 ## 01-02-chapter.md 4-Evaluator Review (2026-02-08)
 - **Scores**: 태수 49, 호진 50, 연수 53, 혜원 56. Avg=52, Range=7pts (wider than 01-01's 3pt range)
@@ -124,13 +128,26 @@
 - **Self-review grade**: A. 4 feedbacks filed: feedback/20260209-1700-scene-eval-crit-feedback-{taesoo,hyewon,yeonsu,hojin}.md
 - **4-evaluator consensus**: All 4 graded A- to A. Key common issues: (1) A-3/B-2/D-1 boundary, (2) D-6 pacing anchor, (3) B-5 structure
 - **v1.1 applied 19 items**: A-3/B-2/D-1 삼분 명확화, D-6 앵커, B-5 세부구조, B-1 역할분리+서브플롯, D-3 차등적용+예시, B-4 정당한and then, D-5 긴장감/공포 경계, 프롤로그 치환 규칙, 균형-2/4 구분 등
-- **5 items held**: (1) 감정선 ASCII 곡선 필수화, (2) B-3 독자 지식 상태, (3) 균형-7 서브플롯, (4) E-3 세부 검증 예시, (5) D-4 배점 상향
+- **5 items held -> ALL RESOLVED 2026-02-09**: User feedback applied. (1) 감정선=선택지2 확정+ASCII 전면 제거 방침, (2) B-3 독자지식=선택지2 방향확정(Scene 2건 보강후), (3) 균형-7=선택지2 방향확정(균형점검후), (4) E-3=선택지3 확정+표제거검토 신규, (5) D-4=현행유지(원고작성후 최종판단)
 - **7 items rejected**: 비트 서사적 필수성(B-4 과부하), Key Image 독립화(D항목 포화), C-2 5점 앵커(형식 불균형), 예시 분리(즉시 대조 가치), 밀도 판정 공식화, 전환 트리거 용어 정의, 필수 섹션 축소
 - **Eval example rescored**: A-3 4->5(구조적 판단으로 수정), B-2 3->2(감정 단조 집중), D-6 0->1(앵커 적용). Total 67->68pts, still C grade
 - **Key lesson - "집필자 자유" 원칙**: 호진의 핵심 통찰. Scene 문서가 소설 초안이 되면 안 됨. D-3 차등 적용(일반 비트=키워드), D-6 문체 지시 집필자 재량, C-2 간접 지시 활용 -- 모두 "설계도 vs 시공"의 경계를 지키는 원칙
 - **"연꽃 문양" is systemic**: STILL OPEN. Fix needed across ALL Scene docs
 - **3-tier eval criteria now complete**: Act(v3)->Chapter(v2)->Scene(v1.1). All use same structure, 40% floor rule
-- **Pending decisions report**: report/20260209-scene-eval-crit-pending-decisions.md (5 items)
+- **Pending decisions report**: report/20260209-scene-eval-crit-pending-decisions.md (5 items -> all resolved with user feedback)
+
+## ASCII Removal Policy (2026-02-09, user-initiated)
+- **Direction**: Remove ALL ASCII art/graphs across project. Replace with keyword enumeration.
+- **Rationale**: User judges ASCII readability vs. effort as insufficient. Keyword lists convey same info more compactly.
+- **Scope**: (1) Scene eval criteria: 감정선 필수섹션 62행 + 균형-2 다이어그램 457-464행, (2) Chapter confirmed docs: 01-01 273행+, 01-02 137행+ "긴장 곡선" sections, (3) Act eval criteria: 횡단-1 ASCII graph
+- **Implementation**: Scene eval = immediate (next Scene reinforcement). Chapter/Act = at next doc update.
+- **Note**: B-2's "자연스러운 곡선을 그리는가" (134행) is metaphorical, not ASCII -- keep as is.
+
+## Eval Criteria Format Efficiency Review (2026-02-09, user-initiated)
+- **Proposal**: Remove tables that duplicate body text in eval criteria docs. Use lists only.
+- **Targets**: Score summary tables, required section checklists, balance check templates
+- **Review criteria**: (1) table-body info overlap, (2) info loss risk, (3) context window savings
+- **Timing**: Scene eval v1.2 update, applied across all 3 criteria docs (Act/Chapter/Scene)
 
 ## Key File Paths
 - Act eval criteria: act/act-evaluation-criteria.md
