@@ -19,7 +19,7 @@
 - ~~Foreshadowing classification drift~~: RESOLVED 2026-02-08. 겨울이/지영태호 복선 모두 Act/Chapter 양쪽 "보류"로 통일. 최종원고 단계에서 구체화하기로 합의.
 
 ## Completed Work Status (Updated 2026-02-10)
-- **Act docs**: All created (00-prologue through 05-epilogue). 01-act-confirmed.md = A grade (83pts). 02-act.md = reinforced (80->192 lines), avg C/66pts (4-eval), awaiting re-eval
+- **Act docs**: All created (00-prologue through 05-epilogue). 01-act-confirmed.md = A grade (83pts). 02-act.md = A grade (88pts, 태수 re-eval 2026-02-10). CHAPTER CREATION APPROVED. Acts 3-5 not evaluated
 - **Chapter docs**: 01-01 = A grade (avg 87pts across 4 evaluators, feedback applied, SCENE APPROVED). 01-02 = **A grade (태수 2차 86pts)**, reinforced 2026-02-08 (116->361 lines), re-evaluated 2026-02-09. SCENE APPROVED. Acts 2-4 chapters not created
 - **Scene docs**: Act 1 complete (01-01-01 through 01-02-04). Prologue 2 scenes. Acts 2-4 none
 - **Novel/Final**: f-0-prologue.md, f-1-friends.md finalized. Working drafts in novel/
@@ -53,6 +53,8 @@
 - "Seed-level" subplot goals acceptable for setup chapters; B-3 scores 4/5 with proper verb+result format. 5/5 possible with all 5 characters covered.
 - All items at 85%+ = well-balanced doc; any item below 40% = mandatory remediation
 - B-4: 이연수 gave 5/5 (others 4/5). Editors may weight narrative completeness over reader emotion specification.
+- **Reinforcement pattern now confirmed across ALL doc types**: Act C->A(+27), Chapter D->A(+34~45), Scene D->A(+28). Average gain = +33.5pts.
+- 02-act re-eval surpassed 01-act-confirmed by 5pts (88 vs 83). Later docs benefit from accumulated criteria knowledge and writing experience.
 
 ## Next Steps (Priority Order)
 1. ~~Re-evaluate 01-01-chapter.md~~ DONE: A/87 avg
@@ -71,13 +73,14 @@
 12b. ~~Evaluate 01-02-04-scene.md~~ DONE 2026-02-09: 태수 1차 D/53.5pts. 8 mandatory + 7 recommended. Team eval B/75.5 -- 22pt discrepancy (largest in project).
 12c. Evaluate remaining Scene doc (01-01-01) using new criteria. Needs reinforcement first.
 13. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic issue). 01-02-04 is clean (no 연꽃문양).
-13a. ~~Evaluate 02-act.md~~ DONE 2026-02-10: 4-eval avg C/66pts. Reinforced (80->192 lines). Awaiting re-eval.
-13b. Re-evaluate reinforced 02-act.md (expected B/70-75 or A/82-88)
+13a. ~~Evaluate 02-act.md~~ DONE 2026-02-10: 4-eval avg C/66pts. Reinforced (80->192 lines).
+13b. ~~Re-evaluate reinforced 02-act.md~~ DONE 2026-02-10: 태수 A/88pts. Chapter creation approved.
 13c. Evaluate remaining Act docs (00-prologue, 03-act, 04-act, 05-epilogue)
-14. Create Chapter docs for Acts 2-4
+13d. Create Chapter docs for Act 2 (02-03-chapter.md, 02-04-chapter.md) -- APPROVED
+14. Create Chapter docs for Acts 3-4
 15. Cross-evaluation after all Act 1 chapters reach B+ (both now A)
 16. Act 1 Chapter balance check (균형 점검) - both chapters now B+ eligible
-17. Formalize "마을 빚 50억" in setting-overview.md
+17. Formalize "마을 빚 50억" + "인광 광물" in setting-overview.md
 18. Add CLAUDE.md "서브플롯" term definition
 19. Formalize "통합학급" setting in character-overview.md (지훈 14세/초등팀 tension)
 20. Formalize 지훈 "자연물에 대한 풍부한 표현" in character-overview.md
@@ -167,7 +170,9 @@
 - **지영/태호 indirect presence (held)**: 연수 제안. 2막은 초등 삼인조+악당 중심, 막 끝 합류로 처리. 중간 간접 등장은 보류.
 - **수진 "으악!" 반응 (partially held)**: 호진 제안. 포획 장면은 "떨리는 손"으로 채택, 두루 만남 "으악!"은 Scene에서 결정.
 - **두루 존재 규칙**: "사라지는"(원문) -> "활동 불가"(setting-overview 정합). 연수 지적으로 수정.
-- **Estimated post-reinforcement**: B/70-75 (mandatory only) or A/82-88 (all items). Awaiting re-eval.
+- **Re-evaluation (태수 2026-02-10 18:00)**: A/88pts. A=22(88%), B=23(92%), C=18(90%), D=13(87%), E=12(80%). +27pts from 61. Chapter creation APPROVED.
+- **Remaining for S/90**: (1) "인광 광물" -> setting-overview.md (+1), (2) "구름골" motif in Act 2 (+1)
+- **New setting issue**: "인광 광물" not in setting-overview.md. Add to item 17 scope.
 - **README inconsistency**: Act 2/3 descriptions outdated. Deferred to after all Acts reach B+.
 - **Eval criteria example gap**: criteria example 84/A vs actual avg 66/C. 18pt gap. Version evolution + relative standard issue.
 
@@ -183,3 +188,4 @@
 - Scene eval criteria feedback: feedback/20260209-1700-scene-eval-crit-feedback-{taesoo,hyewon,yeonsu,hojin}.md
 - Scene eval criteria pending decisions: report/20260209-scene-eval-crit-pending-decisions.md
 - Act 2 eval (4-evaluator): feedback/20260210-0600-02-act-eval-{kim,yeonsu,hyewon,park}.md
+- Act 2 re-eval (태수): feedback/20260210-1800-02-act-eval-kim.md (A/88pts)

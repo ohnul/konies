@@ -126,14 +126,21 @@
   - Expected revision path: same core formula + M1 beat redesign + "희미한 빛" hook placement + 지영/태호 미행 미세 암시. D(58) -> A(82~87).
 
 ## Act 2 Evaluation (2026-02-10)
-- **02-act.md evaluation**: C(62). D-section scored 7/15 (47%), worst among all items. Key issues: pacing section completely absent (D-5=0), emotion arc too coarse (4 stages for 30% act), humor only 2 patterns, no reader experience design
+- **02-act.md 1st evaluation**: C(62). D-section scored 7/15 (47%), worst among all items. Key issues: pacing section completely absent (D-5=0), emotion arc too coarse (4 stages for 30% act), humor only 2 patterns, no reader experience design
 - **Cross-team scoring**: Kim=C(61), Hyewon=C(68), Yeonsu=B(73), Park=C(62). Average ~66, consensus C grade
-- **D-5 pacing is the single most impactful deficiency for writing**: Without pacing design, ALL scenes end up same speed. Act 1 had clear "slow setup -> fast pursuit" + specific relaxation points
-- **Critical narrative gap**: "Why do kids go deeper into cave instead of escaping?" -- Act must provide behavioral motivation (e.g., "hear villain returning at entrance" or "Gyeoul leads inward")
-- **1막 ending hook "희미한 빛" NOT received by 2막**: This is a cross-act continuity failure. I wrote this hook in novel-01-02-04; if Act 2 doesn't acknowledge it, the 2막 first scene will miss the connection
-- **Mahijae-Gyeoul comedy**: Untapped gold. character-overview says "stops for cute animals" + Gyeoul is the decoy = perfect tension-release humor in chase scene. Strongly recommended for Act-level humor design
-- **Sujin role weakness in Act 2**: Only "calm judgment" assigned. Missing public/private mode switch, no growth arc moment. Proposed: captured = public mode facade cracking (growth), Duru appearance = involuntary scream (comedy)
-- **Pattern confirmed**: Pre-evaluation-criteria docs = D-C grade. Post-revision = A grade. Same pattern as 01-act, 01-01-chapter, 01-02-chapter. Expected: 02-act D(62) -> A(85-88) after revision
+- **02-act.md 2nd evaluation (post-revision)**: C(62) -> A(87), +25pts. All 15 of 16 feedback items reflected (only README update deferred).
+  - C: 11->17 (+6). Key: C-6 상호작용 0->3 (6 combos), C-4 성장아크 0->2, C-5 악당 입체성 2->3
+  - D: 7->13 (+6). Key: D-5 페이싱 0->3 (10-stage tension-relaxation triggers), D-1~D-4 all reached full marks
+  - E: 9->13 (+4). Key: E-1 "희미한 빛" hook received, E-2 갈등 씨앗 4자 구도, E-6 복선 3단계 체계
+- **Key improvements for writing**: 9-stage emotion arc (was 4), 10-stage pacing triggers (was 0), 5 humor patterns (was 2), 6 character combos (was 0), age-appropriateness per-scene guide (was 1 line)
+- **Remaining for S(90)**: C-4 growth arc timing (map to emotion arc stages), A-2 Minjun's license plate recognition path, E-4 genre ratio source citation
+- **Pattern confirmed (again)**: Pre-evaluation docs = D-C grade -> Post-revision = A grade. 02-act: C(62)->A(87). Same +25~37pt pattern as all previous docs.
+- **02-act now equals or exceeds 01-act-confirmed(83)**: 9 of 10 info gaps fully closed. 2막 pacing (10-stage triggers) is MORE detailed than 1막 pacing (prose description only). This is appropriate since 2막 = 30% vs 1막 = 20%.
+- **Critical lessons from revision**:
+  - "왜 동굴 더 깊이?" resolved with dual motivation: villain footsteps blocking exit + phosphorescent light from deeper cave
+  - Mahijae-Gyeoul comedy officially designed as "multi-function beat" (tension relief + villain depth + tactical decoy + Gyeoul's agency) -- this was my strongest recommendation
+  - Sujin's "trembling hands" exposure during capture = growth arc "first crack" -- connects to "real leadership is honesty not perfection"
+  - "위기 극복 시너지" frame for Act 2 trio dynamics (Minjun triggers with light -> Jihoon empathizes with Duru -> Sujin strategizes "make this dokkaebi our ally") -- parallel to Act 1's "수수께끼 해결 시너지"
 
 ## Document References
 - `act/act-evaluation-criteria.md`: Evaluation framework by Kim Taesu (team lead), updated with team feedback
