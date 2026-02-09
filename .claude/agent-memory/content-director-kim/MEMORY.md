@@ -62,8 +62,8 @@
 8. ~~Self-review Scene eval criteria~~ DONE 2026-02-09: A grade, feedback/20260209-1700-scene-eval-crit-feedback-taesoo.md
 9. ~~Apply Scene eval criteria feedback~~ DONE 2026-02-09: 4-evaluator feedback (19 accepted, 4 held, 7 rejected). v1->v1.1. Scene eval criteria feedback report: report/20260209-scene-eval-crit-pending-decisions.md
 10. Apply ASCII removal to Scene eval criteria (보류-1 즉시 적용)
-11. ~~Evaluate 01-02-01-scene.md~~ DONE 2026-02-09: 태수 D/53pts. 8 mandatory fixes, 5 recommendations.
-12. Evaluate remaining Scene docs (01-01-01, 01-02-02~04) using new criteria
+11. ~~Evaluate 01-02-01-scene.md~~ DONE 2026-02-09: 태수 1차 D/53pts -> 2차 A/81pts. NOVEL APPROVED.
+12. Evaluate remaining Scene docs (01-01-01, 01-02-02~04) using new criteria. 01-02-02~04 need reinforcement first.
 13. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic issue)
 13. Evaluate remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
 14. Create Chapter docs for Acts 2-4
@@ -150,18 +150,22 @@
 - **Review criteria**: (1) table-body info overlap, (2) info loss risk, (3) context window savings
 - **Timing**: Scene eval v1.2 update, applied across all 3 criteria docs (Act/Chapter/Scene)
 
-## 01-02-01-scene.md Evaluation (2026-02-09, 태수 only)
-- **Score**: 53pts / D grade. Lowest scene eval so far.
-- **Score breakdown**: A=14/25, B=14/25, C=11/20, D=7/15, E=7/15
+## 01-02-01-scene.md Evaluation (2026-02-09)
+- **1st eval (태수)**: D/53pts. A=14, B=14, C=11, D=7, E=7. 8 mandatory + 5 recommended fixes.
 - **Root cause**: Written before BOTH Scene eval criteria AND Chapter confirmed doc. Double misalignment.
-- **Critical issue**: E-3=0/3. Time mismatch (Scene 3:30pm vs Chapter 4:15pm). Transition trigger character swapped (지훈 vs 수진).
-- **Weakest area**: D항목 (47%) and E항목 (47%). D-6 pacing=0/2, D-1 transition=1/3. E-3 정합=0/3, E-5 복선=1/3.
-- **Strongest area**: C-2 dialogue (4/6). Rich dialogue examples (30+), clear character voice differentiation.
-- **Compared to 01-02-02 (C/68)**: 15pts lower due to (1) larger time mismatch, (2) no reference section at all, (3) worse transition design and pacing.
-- **8 mandatory fixes**: time alignment, trigger character fix, reference section, transition design, emotion tracking, pacing guide, foreshadowing system, 지훈 trait label
-- **Estimated post-reinforcement**: B/75pts (conservative), A possible with recommended items
-- **Pattern confirmed again**: Pre-criteria Scene docs score D-C. This is now 3rd data point (01-02-01=D/53, 01-02-02=C/68, extrapolating 01-01-01 likely similar range)
-- **New insight**: Scene docs written before Chapter reinforcement have DOUBLE deficit -- they lack both Scene-level features AND updated Chapter data. This makes them consistently lower scoring than Scene docs written after Chapter reinforcement but before Scene criteria (like 01-02-02 which at least has correct Chapter data for some items).
+- **Critical issues**: E-3=0/3 (time mismatch 3:30pm vs 4:15pm, trigger character swap), D-6=0/2 (no pacing), D-1=1/3.
+- **Strongest**: C-2 dialogue (4/6). Rich dialogue examples (30+), clear character voice.
+- **2nd eval (태수, 개정판)**: **A/81pts**. A=21, B=20, C=15, D=12, E=13. +28pts from 1차.
+- **All 8 mandatory + 5 recommended + 6 cross-evaluator items = 19 total applied**
+- **Key improvements**: E-3 0->3 (time/trigger fixed), D-1 1->3 (transition triggers+sensory signals), D-6 0->2 (pacing table), B-2 3->4 (emotion tags), B-5 2->4 (hooks), C-5 1->2 (movement table)
+- **All items at 75%+**: Most balanced Scene doc. Lowest: C-4 (2/4, interaction dynamism)
+- **1차 예상 B/75 vs 실제 A/81**: Estimate was conservative. Recommended items + cross-evaluator items pushed beyond expectation.
+- **Pattern: "대사 시나리오 -> 집필 설계도" transition**: Core quality shift. Dialogue existed from start; structural scaffolding (emotion tags, function labels, transition triggers, pacing guide, sensory tags) added in reinforcement.
+- **Best transition design**: M2->M3 "수진 시계 흘끗 + 바람 방향 변화 + 저녁 준비 냄새 + 구름산 그림자 한 뼘 더" = dual-sensory signal (visual+olfactory). Template for other scene transitions.
+- **Remaining for S**: C-4 interaction dynamism (2/4), 지훈 nature-metaphor guide, 시작점 지영 목소리 반응, ASCII 곡선 제거
+- **Scene eval feedback files**: 1st: feedback/20260209-2100-01-02-01-scene-eval-{taesoo,hyewon,yeonsu,hojin}.md, 2nd: feedback/20260209-2300-01-02-01-scene-eval-taesoo.md
+- **Scene D->A pattern now confirmed**: Same as Chapter pattern. 01-02-01: D/53->A/81 (+28). Chapter 01-01: D/42->A/87 (+45). Chapter 01-02: D/49->A/86 (+37). Scene reinforcement is slightly less dramatic but still transformative.
+- **NOVEL APPROVED**: A/81 = novel/ 집필 가능
 
 ## Key File Paths
 - Act eval criteria: act/act-evaluation-criteria.md
