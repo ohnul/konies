@@ -10,6 +10,8 @@
 - **01-02-01-scene.md: D(57) -> A(83), +26. 13/14 items reflected. (2026-02-09)**
 - **novel-01-02-01.md: B+ (first novel prose review). 5 mandatory + 9 recommended = 14 suggestions. (2026-02-09)**
 - **novel-01-02-01.md EDITED: 5 mandatory + 10 recommended applied directly. (2026-02-09)**
+- **novel-01-02-02.md: B+ (second novel prose review). 5 mandatory + 9 recommended = 14 suggestions. (2026-02-09)**
+- **novel-01-02-02.md EDITED: 5 mandatory + 10 recommended applied directly. (2026-02-09)**
 
 ## Improvement Patterns
 - Chapters: 53->88 (+35), consistent across both
@@ -54,7 +56,11 @@
 - **"스스로" typo**: 04-act.md, 01-02-chapter.md
 - **"석등 길" vs "연쇄 석등"**: setting-overview vs chapter gap
 - **"마을 빚 50억"**: Unresolved in setting-overview.md
-- **끝 상황 "번쩍임"**: 01-02-01에서 설치, 01-02-02에서 연결 미확인
+- **끝 상황 "번쩍임"**: 01-02-01에서 설치, 01-02-02 편집에서 회수 완료 (9행 "반짝였던 바로 그 나무").
+- **"연꽃 문양" vs "꽃받침 형태"**: Novel에서 "꽃받침"으로 통일 완료. Scene doc은 아직 "연꽃" -- scene doc 수정 필요 알림.
+- **감각 묘사 덤프 패턴**: novel-01-02-01 편집에서 해소, novel-01-02-02 편집에서 해소. 향후 novel 파일에서 재발 감시 필요.
+- **저녁 준비 연기/냄새**: novel-01-02-02 편집 후 1회만 유지 (325행). RESOLVED.
+- **"거칠고 차가운 돌" 촉각**: novel-01-02-02 편집에서 차별화 완료. RESOLVED.
 
 ## Evaluation Criteria Patterns
 - A-3/B-2/D-1: Beat/Moment triple overlap risk at Scene level (boundaries blur)
@@ -91,9 +97,12 @@
 
 ### Novel Scoring Calibration
 - novel-01-02-01: B+ (first novel file reviewed)
-- 5 mandatory fixes, 9 recommended fixes = 14 total suggestions
-- Strongest section: M2 (촬영 소동) -- comic rhythm well executed
-- Weakest section: M1 (추리 구간) -- insufficient breathing space between interpretations
+- novel-01-02-02: B+ (second novel file reviewed)
+- Both files: 5 mandatory + 9 recommended = 14 suggestions each. Remarkably consistent.
+- 01-02-01 strongest: M2 (촬영 소동) comic rhythm
+- 01-02-01 weakest: M1 추리 구간 breathing
+- 01-02-02 strongest: M2 (벤치 휴식~불꽃 아이디어) tempo transition
+- 01-02-02 weakest: M3 double climax (273 & 303), M1 identical search pattern x4
 
 ### Scene Doc Fidelity Check
 - Beat coverage: 100% (all beats from scene doc present)
@@ -121,6 +130,55 @@
 - Condensing two 수진 대사 into one paragraph risks wall-of-text; broke with action between
 - Adding M1 breathing descriptions must stay SHORT (1-2 sentences max) to not slow pacing further
 - Fragment sentences ("~모르겠지만.") work for emotional beats but should be used sparingly
+
+## Novel Editing Patterns (Second Direct Edit: novel-01-02-02)
+
+### Editing Decisions Log
+- 5행 시간 순서: "느티나무까지 걸어오는 동안" -> "여기까지 걸어오는 동안" (7행 발견과 모순 해소)
+- 9행 번쩍임 복선 회수: "아까 학교 정문 앞에서 무언가 반짝였던 바로 그 나무였다" 추가
+- 39-41행 수진 대사 체계화: "느티나무, 탈락" + 손가락 접기 패턴 시작 (4곳 누적)
+- 45행 tell 삭제: "정확히 맞히셨으니까" 제거 -- show("등이 뻣뻣해졌다")만으로 충분
+- 93행 감각 덤프 축소: 4문장 -> 2문장, 저녁 준비 냄새 삭제
+- 99행 수진 대사: "돌려서 여쭤보면" -- 비밀 유지 성향과의 일관성 강화
+- 111행 과잉 설명 제거: 3문장 -> 1문장 ("수진도 고개를 끄덕였다.")
+- 127행 서술자 정리 삭제: 수진 대사로 이미 전달된 정보의 서술자 반복 제거
+- 133행 촉각 차별화: "거칠고 차가운" -> "빗물에 닳고 닳아 둥글둥글해진" (사자상 고유)
+- 141행 수진 대사: "사당까지 탈락" + 주먹 된 손 묘사 (좌절감 show)
+- 157행 감각 전환: 저녁 연기/냄새 3종 -> "바람이 서늘해져서 소름" (촉각으로 전환)
+- 239행 주어-술어: "다리가 힘이 났는지" -> "몸에서 힘이 났는지"
+- 253-263행 석등 info dump: 5문장 서술자 설명 -> 수진 "돌덩어리 아니야?" + 지훈의 구조 설명 대사로 분산
+- 267-271행 이중 정점 해소: 민준 환호를 의문형("이게 진짜 '꽃이 피는 돌'인 거야?")으로 낮추고, 수진 "좀 더 살펴보자"로 관찰 구간 시작
+- 275행 촉각 차별화: "거칠고 차가운 돌의 질감" -> "이끼를 걷어내자... 미세한 홈이 손가락 끝에 걸렸다"
+- 295-303행 단일 정점: 수진 "이것도... 꽃받침이야?" + 지훈 확인 -> 민준의 유일한 전력 환호로 감정 정점 집약
+- 225행 겨울이 복선 연결: "정자 기둥 앞에서 그랬던 것처럼" 추가
+
+### Key Technique: 수진의 손가락 접기 패턴
+- "느티나무, 탈락" (손가락 1) -> "우물도 탈락" (손가락 2) -> "정자도 탈락" (손가락 3) -> "사당까지 탈락" (손가락 4, 주먹 완성)
+- 수진의 체계적 정리 성격을 대사+행동으로 show. 서술자 대신 캐릭터가 직접 정리.
+- "주먹이 되어버린 손"이 좌절감의 시각적 상징으로 작동. M2 전환부에서 효과적.
+- 이 패턴은 이후 파일에서도 수진의 시그니처 행동으로 활용 가능.
+
+### Resolved Recurring Issues in This Edit
+- 저녁 준비 연기/냄새: 4회 -> 1회 (325행만 유지). 3행, 93행, 161행 모두 삭제/전환.
+- "거칠고 차가운 돌" 촉각 반복: 사자상(둥글둥글), 석등(미세한 홈)으로 차별화 완료.
+- 수진 narrator-explained: 45행, 111행, 127행의 서술자 설명 제거/축소.
+- 이중 감정 정점: 273행 환호를 의문형으로 낮추고 303행에서 유일한 정점 설정.
+
+## Cross-Novel Recurring Patterns (novel-01-02-01 + novel-01-02-02)
+
+### Persistent Authorial Habits
+1. **Sensory dump at transitions**: Environment descriptions cluster at scene/location transitions (3-5 sentences of pure description). Fix: distribute into dialogue gaps.
+2. **수진 narrator-explained**: Author uses narrator to explain 수진's thoughts instead of showing via dialogue/action. Both files have this. Priority fix.
+3. **Same emotion multiple times**: novel-01-02-01 had "안도" 3x, novel-01-02-02 has "민준 환호" 2x at similar intensity. Rule: max 2x for same emotion, must escalate.
+4. **Tactile repetition**: "거칠고 차가운" used for multiple different stone objects. Differentiate textures per object.
+5. **Tell after show**: Pattern of good show sentence followed by unnecessary tell sentence explaining same thing (45행 "등이 뻣뻣 + 정확히 맞히셨으니까", 111행 지훈 대사 후 수진 내면 반복)
+
+### Consistent Strengths
+1. 민준 dialogue: Instantly identifiable across both files. Model character voice.
+2. 겨울이 behavioral patterns: Well-deployed emotional barometer throughout.
+3. Scene doc beat coverage: 100% in both files. No beats dropped.
+4. Opening/closing hooks: Both files have effective entry/exit points.
+5. Comic timing: 우물 겨울이 등장(02-02), 촬영 소동(02-01) -- strongest sections in both.
 
 ## Links
 - See `review-patterns.md` for detailed recurring issue tracking (TODO: create)
