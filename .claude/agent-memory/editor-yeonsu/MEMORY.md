@@ -6,7 +6,8 @@
 - **Scene evaluation criteria reviewed (2026-02-09): rated A-, 14 suggestions made**
 - 01-act.md: D(57) -> A(83), +26
 - 01-01-chapter.md: D(53) -> A(88), +35. All 13 items reflected.
-- **01-02-chapter.md: D(53) -> A(88), +35. All 13 items reflected. (2026-02-09)**
+- 01-02-chapter.md: D(53) -> A(88), +35. All 13 items reflected. (2026-02-09)
+- **01-02-01-scene.md: D(57), 1차 평가. 필수 보완 7건, 권장 7건. (2026-02-09)**
 
 ## Improvement Pattern: D->A (+35) is Consistent
 - 01-01: 53->88, 01-02: 53->88. Same start, same end.
@@ -44,7 +45,32 @@
 - 01-act: 83/100 (A)
 - 01-01-chapter: 88/100 (A)
 - 01-02-chapter: 88/100 (A)
+- **01-02-01-scene: 57/100 (D)** -- first Scene doc evaluated
 - Quality: 01-01 = 01-02 (88) > 01-act (83). Chapters more detailed than Act, as expected.
+- Scene 1차 also starts at D, matching Chapter 1차 pattern (53, 53, 57). Consistent ~55 start point.
+
+## Scene Document Quality Patterns (NEW)
+
+### 01-02-01-scene Key Issues
+- **Chapter-to-Scene specificity DROP**: Chapter(88) -> Scene(57). Paradoxical regression.
+- Sensory descriptions exist but SEPARATED from beats (not integrated into narrative structure)
+- Transition triggers IMPLICIT (Chapter had 6 explicit triggers, Scene has 0 explicit)
+- Time mismatch: Scene says "3:30pm", Chapter says "4:15pm" -- 45min gap, critical
+- 참조 문서 section completely missing
+- 복선 관리: no 설치/유지/회수 classification, no Chapter cross-reference
+- Beat-level emotion tracking ABSENT (only Moment-level tone labels)
+- D-4 유머 was ONLY full-mark item (2/2) -- humor well-designed with dual function
+
+### Pattern: Chapter Richness Not Transferring to Scene
+- Chapter doc has: 감각 키워드 표, 전환 트리거 6개, 복선 관리 표, 인지 부하 관리, 긴장 곡선
+- Scene doc lacks: all of the above. Only retains dialogue examples and basic beat structure.
+- Root cause hypothesis: Scene written independently without systematically referencing Chapter
+- Key recommendation: Scene writing process should START from Chapter's 씬별 상세 가이드
+
+### D항목 Pattern Continues
+- D항목 weakest at Scene level too (8/15 = 53%)
+- D-4 유머 is an exception (2/2), consistent with Chapter 개정 후 pattern
+- D-1 전환 설계 and D-3 감각 묘사 are weakest sub-items (1/3 each)
 
 ## Feedback Style
 - Re-evaluation: Before/After table first, then detailed scoring

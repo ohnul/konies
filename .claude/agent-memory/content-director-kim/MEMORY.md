@@ -62,8 +62,9 @@
 8. ~~Self-review Scene eval criteria~~ DONE 2026-02-09: A grade, feedback/20260209-1700-scene-eval-crit-feedback-taesoo.md
 9. ~~Apply Scene eval criteria feedback~~ DONE 2026-02-09: 4-evaluator feedback (19 accepted, 4 held, 7 rejected). v1->v1.1. Scene eval criteria feedback report: report/20260209-scene-eval-crit-pending-decisions.md
 10. Apply ASCII removal to Scene eval criteria (보류-1 즉시 적용)
-11. Evaluate existing Scene docs (01-01-01 through 01-02-04) using new criteria
-12. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic issue)
+11. ~~Evaluate 01-02-01-scene.md~~ DONE 2026-02-09: 태수 D/53pts. 8 mandatory fixes, 5 recommendations.
+12. Evaluate remaining Scene docs (01-01-01, 01-02-02~04) using new criteria
+13. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic issue)
 13. Evaluate remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
 14. Create Chapter docs for Acts 2-4
 15. Cross-evaluation after all Act 1 chapters reach B+ (both now A)
@@ -148,6 +149,19 @@
 - **Targets**: Score summary tables, required section checklists, balance check templates
 - **Review criteria**: (1) table-body info overlap, (2) info loss risk, (3) context window savings
 - **Timing**: Scene eval v1.2 update, applied across all 3 criteria docs (Act/Chapter/Scene)
+
+## 01-02-01-scene.md Evaluation (2026-02-09, 태수 only)
+- **Score**: 53pts / D grade. Lowest scene eval so far.
+- **Score breakdown**: A=14/25, B=14/25, C=11/20, D=7/15, E=7/15
+- **Root cause**: Written before BOTH Scene eval criteria AND Chapter confirmed doc. Double misalignment.
+- **Critical issue**: E-3=0/3. Time mismatch (Scene 3:30pm vs Chapter 4:15pm). Transition trigger character swapped (지훈 vs 수진).
+- **Weakest area**: D항목 (47%) and E항목 (47%). D-6 pacing=0/2, D-1 transition=1/3. E-3 정합=0/3, E-5 복선=1/3.
+- **Strongest area**: C-2 dialogue (4/6). Rich dialogue examples (30+), clear character voice differentiation.
+- **Compared to 01-02-02 (C/68)**: 15pts lower due to (1) larger time mismatch, (2) no reference section at all, (3) worse transition design and pacing.
+- **8 mandatory fixes**: time alignment, trigger character fix, reference section, transition design, emotion tracking, pacing guide, foreshadowing system, 지훈 trait label
+- **Estimated post-reinforcement**: B/75pts (conservative), A possible with recommended items
+- **Pattern confirmed again**: Pre-criteria Scene docs score D-C. This is now 3rd data point (01-02-01=D/53, 01-02-02=C/68, extrapolating 01-01-01 likely similar range)
+- **New insight**: Scene docs written before Chapter reinforcement have DOUBLE deficit -- they lack both Scene-level features AND updated Chapter data. This makes them consistently lower scoring than Scene docs written after Chapter reinforcement but before Scene criteria (like 01-02-02 which at least has correct Chapter data for some items).
 
 ## Key File Paths
 - Act eval criteria: act/act-evaluation-criteria.md

@@ -65,6 +65,11 @@
 - **A-2 start/end situations**: "첫 문단을 쓸 수 있는 수준" is intuitive but interpretation varies; propose clarifying 3pt anchor
 - **New issues**: 11 mandatory sections = high document burden (propose streamlining 2 sections), B-2 emotion tracking format needs guide, A-2/E-2 role overlap needs differentiation, motif-sensory cross-reference (D-3/E-5) still missing (was promised from Chapter feedback), prologue application needs B-1/E-3 substitution guide
 
+## Scene Document Evaluations
+- **01-02-01-scene.md 1st eval (2026-02-09)**: D(53). Critical issues: (1) Time mismatch -- Scene says "3:30pm" but Chapter says "4:15pm~4:30pm", (2) Beat structure is "dialogue script" not "writing blueprint" -- no emotion tracking, no sensory integration in beats, no function labels, (3) Moment 2 (Minjun filming) lacks independent justification as separate moment, (4) No transition triggers between moments, (5) Sensory keywords siloed in separate section rather than integrated into beats, (6) No pacing guide, (7) No reference document section, (8) Foreshadow management lacks install/maintain/retrieve classification
+- **Key pattern (Scene level)**: Same lesson as Chapter level -- "don't just transcribe upper doc, create lower-doc-unique value". Scene doc must add: beat-level emotion tracking, moment transition triggers with sensory changes, pacing guide, sensory integration into beat structure. Dialogue richness alone (which this doc has) is insufficient.
+- **Specific lesson**: A Scene doc with rich dialogue but no emotion/sensory/pacing integration scores D. The "대사 대본 vs 집필 설계도" distinction is critical. Scene docs need beats that combine dialogue + emotion state + sensory cue + narrative function.
+
 ## Document References
 - `act/act-evaluation-criteria.md`: Evaluation framework by Kim Taesu (team lead), updated with team feedback
 - `character-overview.md`: All 5 protagonists + 2 villains + Duru + Gyeoul
