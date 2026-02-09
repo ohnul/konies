@@ -3,7 +3,7 @@
 ## Project Structure
 - Pipeline: `act/` -> `chapter/` -> `scene/` -> `novel/` -> `final/`
 - Numbering: Act(sequential), Chapter(absolute), Scene(relative within chapter)
-- Existing novel files: novel-00-00-01, novel-00-00-02, novel-01-01-01 (confirmed), novel-01-02-01 (revised 2026-02-09), novel-01-02-02 (new 2026-02-09)
+- Existing novel files: novel-00-00-01, novel-00-00-02, novel-01-01-01 (confirmed), novel-01-02-01 (revised 2026-02-09), novel-01-02-02 (new 2026-02-09), novel-01-02-03 (new 2026-02-09)
 
 ## Key Insights from Act Evaluation Reviews
 - Act documents serve as top-level guides; their quality directly impacts novel prose quality
@@ -48,6 +48,13 @@
   - Central square: fatigue -> intellectual breakthrough -> physical discovery
 - **"불꽃도 꽃이잖아!" moment**: Best achieved by building up fatigue/despair BEFORE the eureka. Minjun's physical action (벌떡 일어남, bench shaking) makes the moment visceral. Short sentences + exclamations = rapid tempo shift.
 - **Scene doc vs Chapter doc inconsistency handling**: Scene 01-02-02 says "연꽃 문양" but Chapter confirmed doc says "꽃받침 형태 받침". Always follow Chapter confirmed + NOTE-TO-AI over unrevised Scene docs. In prose, described as "꽃받침" shape, not "연꽃 문양".
+- **novel-01-02-03 (2026-02-09)**: Mini-climax peak scene. Key writing techniques:
+  - **Trio synergy as prose structure**: The three contributions (Minjun's "불꽃" idea from 01-02-02, Sujin's flashlight solution, Jihoon's arrow discovery) must be explicitly connected in narration. Used a reflective paragraph ("아까 벤치에서 민준이... 방금 수진이... 그리고 지금 지훈이...") to make the synergy pattern visible to readers.
+  - **Climax pacing**: M3 builds slowly (B1 wonder at light -> B2 Jihoon's focused discovery -> B3 emotional explosion -> B4 quiet bridge). The key is holding B1's wonder long enough before B2's tension. Don't rush to the discovery.
+  - **Comedy placement**: All humor (Minjun-Gyeoul collision, "감옥" overreaction) concentrated in M1-M2 so M3's emotional payoff stays pure.
+  - **Sensory layering at discovery**: Flash light creating "flower blooming from stone" effect is the visual climax. Described light passing through hwasaseok and seeping through flower-petal gaps. This is the moment "꽃이 피는 돌" transforms from riddle to lived experience.
+  - **Gyeoul's south-facing behavior as planted payoff**: M1-B2 establishes Gyeoul fixating on the south petal -> M3-B2 this pays off when Jihoon finds the arrow there. Not supernatural, just animal behavior responding to owner's interest direction.
+  - **Structural marker avoidance**: Caught and fixed "이전 씬에서" -> "아까 벤치에서" -- novel prose must never reference structural units. Replace with temporal/spatial references the characters would naturally use.
 
 ## Character Voice Notes
 - Minjun: Camera always ready, "대박 콘텐츠" as reflex; should evolve subtly across acts. "썸네일이 안 되잖아!" is peak Minjun voice.
@@ -66,7 +73,11 @@
 - novel-01-02-02 ends: stone lantern discovered at central square, kids celebrating, sunset, leads to next scene (detailed stone lantern observation)
 - novel-01-02-02 route: zelkova tree -> well -> pavilion -> shrine -> central square bench (rest) -> stone lantern
 - Time in novel-01-02-02: ~5:30pm to ~6:30pm (per scene doc)
-- Next scene (01-02-03) should start at the stone lantern, closer observation, flashlight use, arrow discovery
+- novel-01-02-03 starts: Sujin touching stone lantern base, close observation of flower-petal base
+- novel-01-02-03 ends: arrow found pointing east, another stone lantern visible in distance, Sujin says "가자. 저 석등에도 분명 화살표가 있을 거야", Gyeoul already turning east
+- novel-01-02-03 route: stone lantern close observation -> flashlight idea -> discovery of arrow in moss
+- Time in novel-01-02-03: ~6:00pm to ~6:30pm (sunset deepening to red)
+- Next scene (01-02-04) should start heading east toward the next stone lantern, dusk/darkness setting in
 
 ## Chapter Document Evaluations
 - **01-01-chapter.md 1st eval (2026-02-08)**: D(54). Critical issues: single-scene overload, no tone section, no subplot goals, no info dump prevention, character actions not carried down from Act. Key lesson: Chapter docs must be "intermediate converters" not "abstractors"
