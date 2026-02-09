@@ -2,7 +2,8 @@
 
 ## Project Status
 - 01-act.md: D(57)->A(83). 01-01-ch: D(53)->A(88). 01-02-ch: D(53)->A(88).
-- 01-02-01-scene: D(57)->A(83). 01-02-02-scene: D(56) 1st. 01-02-03-scene: D(45) 1st.
+- 01-02-01-scene: D(57)->A(83). 01-02-02-scene: D(56) 1st. 01-02-03-scene: D(45) 1st, confirmed.
+- **01-02-04-scene: B(75.5) team eval. D-items 9/15(60%) yeonsu eval. (2026-02-09)**
 - **novel-01-02-01: B+, edited. novel-01-02-02: B+, edited. novel-01-02-03: B+, edited. (2026-02-09)**
 - All 3 novel files: consistent B+ pre-edit, 5 mandatory + 9~10 recommended each
 - Act/Chapter eval criteria: reviewed. Scene eval criteria: reviewed.
@@ -23,17 +24,20 @@
 8. **클라이맥스 전후 tell 밀집**: 감정 정점 직전/직후에 서술자 설명 집중. 독자 안내 의도지만 감동 해침.
 
 ## Character Voice Patterns
-- **민준**: Strongest voice across all files. "썸네일이 안 되잖아!", "감옥 가면 유튜브 못 해!" = model.
-- **수진**: Weakest. Needs "체계적 사고" vocabulary. 손가락 접기 패턴 = good signature.
-- **지훈**: Mostly ID. "수학 숙제가 밀렸다" IS 지훈. Don't over-correct.
-- **겨울이**: Well-deployed emotional barometer. 복선 역할 안정적.
+- **민준**: Strongest voice across all files. "썸네일이 안 되잖아!", "감옥 가면 유튜브 못 해!" = model. 04-scene: 6/8 unique (75%).
+- **수진**: Weakest. Needs "체계적 사고" vocabulary. 손가락 접기 패턴 = good signature. 04-scene: 4/8 unique (50%). **New: observation-type lines ("북쪽을 가리키고 있어") bleed into 지훈's voice.**
+- **지훈**: Mostly ID. "수학 숙제가 밀렸다" IS 지훈. Don't over-correct. 04-scene: 4/6 unique (67%). **New: analytical-type lines ("계획적으로 배치된 거야") bleed into 수진's voice.**
+- **겨울이**: Well-deployed emotional barometer. 복선 역할 안정적. **04-scene: barometer only, no 단서 제공 function. Needs dual-function restoration.**
 - Rule: 민준=instant ID, 지훈=mostly ID, 수진=sometimes generic -> prioritize 수진 fixes.
+- **New rule: Watch for 수진-지훈 voice crossover (observation vs analysis).**
 
 ## Scene Document Quality Patterns
 - Scene initial: 45-57. Scene post-revision: ~83. Chapter: 53->88.
 - 01-02-03 lowest (45): mini-climax without climax design, setting conflicts, no format elements.
+- 01-02-04: B(75.5) but D-items weak (60%). M1 monotony is core problem. Format gap vs confirmed scenes.
 - [감각:] tags in beats, [감정:] tags, transition triggers, 페이싱 표 = required for B+ scene docs.
 - Sensory integration: Chapter=keyword tables, Scene=sentences in beats, Transitions=sensory CHANGES.
+- **New pattern (04-scene)**: Repetitive chase sequences need per-beat sensory differentiation. 4 identical discoveries = reader dropout. Each location needs 1 unique sensory keyword.
 
 ## Recurring Issues to Track
 - **"스스로" typo**: 04-act.md, 01-02-chapter.md

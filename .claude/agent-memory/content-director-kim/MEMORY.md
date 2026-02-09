@@ -65,9 +65,10 @@
 11. ~~Evaluate 01-02-01-scene.md~~ DONE 2026-02-09: 태수 1차 D/53pts -> 2차 A/81pts. NOVEL APPROVED.
 12. ~~Evaluate 01-02-02-scene.md~~ DONE 2026-02-10: 태수 1차 D/53pts. 8 mandatory + 7 recommended. Awaiting reinforcement + re-eval.
 12a. ~~Evaluate 01-02-03-scene.md~~ DONE 2026-02-10: 태수 1차 D/44pts. 8 mandatory + 7 recommended. Lowest score in project.
-12b. Evaluate remaining Scene docs (01-01-01, 01-02-04) using new criteria. All need reinforcement first.
-13. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic issue)
-13. Evaluate remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
+12b. ~~Evaluate 01-02-04-scene.md~~ DONE 2026-02-09: 태수 1차 D/53.5pts. 8 mandatory + 7 recommended. Team eval B/75.5 -- 22pt discrepancy (largest in project).
+12c. Evaluate remaining Scene doc (01-01-01) using new criteria. Needs reinforcement first.
+13. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic issue). 01-02-04 is clean (no 연꽃문양).
+13a. Evaluate remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
 14. Create Chapter docs for Acts 2-4
 15. Cross-evaluation after all Act 1 chapters reach B+ (both now A)
 16. Act 1 Chapter balance check (균형 점검) - both chapters now B+ eligible
@@ -152,48 +153,25 @@
 - **Review criteria**: (1) table-body info overlap, (2) info loss risk, (3) context window savings
 - **Timing**: Scene eval v1.2 update, applied across all 3 criteria docs (Act/Chapter/Scene)
 
-## 01-02-02-scene.md Evaluation (2026-02-10)
-- **1st eval (태수)**: D/53pts. A=14, B=13, C=12, D=7, E=7. 8 mandatory + 7 recommended fixes.
-- **Root cause**: Same as 01-02-01 1st eval -- written before Scene eval criteria AND Chapter confirmed doc.
-- **Score identical to 01-02-01 1st eval**: Both D/53pts. "Pre-criteria initial draft" pattern produces remarkably consistent scores.
-- **Critical issues**: B-2=1/6 (no emotion tags, M1 emotion flatness worst case), D-6=0/2 (pacing guide = "지루한 탐색" negative framing), E-3=1/3 (time mismatch 5:30 vs 4:30), E-4=1/3 ("연꽃 문양" conflict)
-- **Strongest**: C-2 dialogue (4/6). Rich dialogue with clear character voice -- same pattern as 01-02-01.
-- **Unique weakness vs 01-02-01**: M1's 4 identical "탐색/대사" beats with zero emotion progression. This is the clearest "and then" failure in the project. Not "정당한 and then" because cumulative effect not designed in tone/notes.
-- **"대사는 잘 쓰는 초안"**: Core editorial insight -- dialogue quality is high (names-off distinguishable), but structural scaffolding (emotion tags, transitions, pacing, references) is completely absent. Easier to reinforce than structurally broken docs.
-- **Expected post-reinforcement**: 70-80pts (B to A). If 01-02-01 pattern holds (D/53->A/81 = +28), expect ~81pts.
-- **01-02-03 "연꽃 문양" contamination**: 01-02-03 also uses "연꽃 문양" extensively. Systemic fix still needed.
-- **Scene eval file**: feedback/20260210-0100-01-02-02-scene-eval-taesoo.md
+## Scene Evaluation Summary (Details in evaluation-history.md)
+- **01-02-01**: D/53 -> A/81 (+28). NOVEL APPROVED. Pattern: "대사 시나리오 -> 집필 설계도"
+- **01-02-02**: D/53. Awaiting reinforcement. M1 emotion flatness worst case. "대사는 잘 쓰는 초안"
+- **01-02-03**: D/44. Lowest in project. Mini-climax unimplemented + info regression. Confirmed version exists (332 lines).
+- **01-02-04**: D/53.5 (태수) vs B/75.5 (팀). 22pt inter-rater gap. Critical: 종료훅+미행복선 미구현, 감정태그 전무, M1 "and then" 반복. Awaiting reinforcement.
+- **D->A pattern**: All pre-criteria drafts score D. All reinforced docs score A. Consistent.
+- **C-2 dialogue = strongest item** across ALL pre-criteria scenes (4/6 consistently). Dialogue quality survives structural absence.
+- **B-2 emotion tags = weakest item** across ALL pre-criteria scenes (0-1/6). Core scaffolding gap.
 
-## 01-02-03-scene.md Evaluation (2026-02-10)
-- **1st eval (태수)**: D/44pts. A=12, B=10, C=11, D=5, E=6. 8 mandatory + 7 recommended fixes.
-- **Lowest score in project**: 9pts below 01-02-01 and 01-02-02 (both D/53pts). Pattern broken.
-- **Root cause**: Same pre-criteria draft pattern + **ADDITIONAL critical flaw**: mini-climax peak scene role unimplemented.
-- **Why lower than siblings**: (1) Mini-climax peak not designed (B-1=2, B-5=2), (2) M1 info regression from 01-02-02 confirmed (석등 발견+꽃받침 already done in prev scene, repeated here), (3) "연꽃 문양" x4 (systemic), (4) 화살표 발견자 = 민준 (Chapter says 지훈), (5) 삼인조 시너지 absent.
-- **D항목 worst in project**: 5/15 (33%). D-6=0/2 (no pacing), D-3=1/3, D-1=1/3, D-2=1/3. All sub-items weak.
-- **B항목 at 40% floor**: B=10/25 exactly 40%. B-1=2/5 (role mismatch), B-2=1/6 (no emotion tags), B-5=2/4 (mini-climax=0).
-- **Unique issue: information regression**: M1 repeats discoveries already made in 01-02-02 confirmed (석등 발견, 꽃받침 인식, "이거야!" 환호). This is not just "and then" but "going backwards".
-- **M2 is the saving grace**: "문화재 보호 -> 감옥 가능성 -> 플래시 대안" = strong "therefore" causal chain. This is an original contribution not in Chapter doc.
-- **Strongest**: C-2 dialogue (4/6). Same pattern as all pre-criteria docs -- dialogue quality survives structural absence.
-- **Expected post-reinforcement**: 70-82pts (B to A). Lower confidence than 01-02-01/02 due to M1 restructuring needed + mini-climax design required (more than scaffolding addition).
-- **Key reinforcement challenges**: (1) M1 must be redesigned (not just scaffolded) to avoid info regression, (2) 삼인조 시너지 completion requires careful beat design, (3) 화살표 discoverer must change from 민준 to 지훈.
-- **Scene eval file**: feedback/20260210-0400-01-02-03-scene-eval-taesoo.md
-
-## 01-02-01-scene.md Evaluation (2026-02-09)
-- **1st eval (태수)**: D/53pts. A=14, B=14, C=11, D=7, E=7. 8 mandatory + 5 recommended fixes.
-- **Root cause**: Written before BOTH Scene eval criteria AND Chapter confirmed doc. Double misalignment.
-- **Critical issues**: E-3=0/3 (time mismatch 3:30pm vs 4:15pm, trigger character swap), D-6=0/2 (no pacing), D-1=1/3.
-- **Strongest**: C-2 dialogue (4/6). Rich dialogue examples (30+), clear character voice.
-- **2nd eval (태수, 개정판)**: **A/81pts**. A=21, B=20, C=15, D=12, E=13. +28pts from 1차.
-- **All 8 mandatory + 5 recommended + 6 cross-evaluator items = 19 total applied**
-- **Key improvements**: E-3 0->3 (time/trigger fixed), D-1 1->3 (transition triggers+sensory signals), D-6 0->2 (pacing table), B-2 3->4 (emotion tags), B-5 2->4 (hooks), C-5 1->2 (movement table)
-- **All items at 75%+**: Most balanced Scene doc. Lowest: C-4 (2/4, interaction dynamism)
-- **1차 예상 B/75 vs 실제 A/81**: Estimate was conservative. Recommended items + cross-evaluator items pushed beyond expectation.
-- **Pattern: "대사 시나리오 -> 집필 설계도" transition**: Core quality shift. Dialogue existed from start; structural scaffolding (emotion tags, function labels, transition triggers, pacing guide, sensory tags) added in reinforcement.
-- **Best transition design**: M2->M3 "수진 시계 흘끗 + 바람 방향 변화 + 저녁 준비 냄새 + 구름산 그림자 한 뼘 더" = dual-sensory signal (visual+olfactory). Template for other scene transitions.
-- **Remaining for S**: C-4 interaction dynamism (2/4), 지훈 nature-metaphor guide, 시작점 지영 목소리 반응, ASCII 곡선 제거
-- **Scene eval feedback files**: 1st: feedback/20260209-2100-01-02-01-scene-eval-{taesoo,hyewon,yeonsu,hojin}.md, 2nd: feedback/20260209-2300-01-02-01-scene-eval-taesoo.md
-- **Scene D->A pattern now confirmed**: Same as Chapter pattern. 01-02-01: D/53->A/81 (+28). Chapter 01-01: D/42->A/87 (+45). Chapter 01-02: D/49->A/86 (+37). Scene reinforcement is slightly less dramatic but still transformative.
-- **NOVEL APPROVED**: A/81 = novel/ 집필 가능
+## 01-02-04-scene.md Evaluation Insights (2026-02-09)
+- **Score**: 53.5/D (태수). Team eval: 75.5/B. **22pt gap = largest inter-rater discrepancy in project**.
+- **Gap root cause**: (1) B-1 5->2 (종료훅 "희미한 빛" + 미행복선 미구현 -- Chapter 핵심 장치 2건 동시 미이행), (2) B-2 4->1 (감정태그 전무), (3) A-2 5->3 (시작-끝 하늘 모순 + 종료훅 미포함)
+- **Unique pattern**: 이 씬만 Chapter의 핵심 서사 장치를 2건 동시에 누락. 다른 3개 씬은 각각 1건씩 누락.
+- **"연꽃 문양" clean**: 01-02-04는 석등 구조를 직접 묘사하지 않아 연꽃 문양 오염 없음.
+- **시작-끝 하늘 모순**: 시작 "진한 남색"(해 진 후) vs 끝 "붉은 노을"(해 지는 중). 5월 일몰 7:10pm 기준, 6:45~7:00 구간은 "석양 마지막 단계 -> 어둠"이어야 함.
+- **"경외감" vs "공포 접근" 톤 문제**: Chapter는 경외감 배정, Scene은 "귀신", "눈구멍", "으스스"로 공포 접근. 1막 마지막은 "무서움"이 아니라 "경이로움"이어야.
+- **M1 "and then"**: 2~4번째 석등 발견이 감정 분화 없이 반복. "정당한 and then" 조건(누적효과 설계의도 명시) 미충족.
+- **Confirmed 비교 기준 효과**: 01-02-03-confirmed(332행)와의 품질 격차가 평가 엄격화의 핵심 원인. 같은 Chapter 내 씬의 품질 편차가 크면, 낮은 씬이 더 낮게 보인다.
+- **보강 후 예상**: 필수 8건 -> B/75, 필수+권장 15건 -> A/86. 패턴 일치.
 
 ## Key File Paths
 - Act eval criteria: act/act-evaluation-criteria.md
