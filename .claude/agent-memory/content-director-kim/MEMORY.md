@@ -63,7 +63,8 @@
 9. ~~Apply Scene eval criteria feedback~~ DONE 2026-02-09: 4-evaluator feedback (19 accepted, 4 held, 7 rejected). v1->v1.1. Scene eval criteria feedback report: report/20260209-scene-eval-crit-pending-decisions.md
 10. Apply ASCII removal to Scene eval criteria (보류-1 즉시 적용)
 11. ~~Evaluate 01-02-01-scene.md~~ DONE 2026-02-09: 태수 1차 D/53pts -> 2차 A/81pts. NOVEL APPROVED.
-12. Evaluate remaining Scene docs (01-01-01, 01-02-02~04) using new criteria. 01-02-02~04 need reinforcement first.
+12. ~~Evaluate 01-02-02-scene.md~~ DONE 2026-02-10: 태수 1차 D/53pts. 8 mandatory + 7 recommended. Awaiting reinforcement + re-eval.
+12a. Evaluate remaining Scene docs (01-01-01, 01-02-03~04) using new criteria. All need reinforcement first.
 13. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic issue)
 13. Evaluate remaining Act docs (00-prologue, 02-act, 03-act, 04-act, 05-epilogue)
 14. Create Chapter docs for Acts 2-4
@@ -149,6 +150,18 @@
 - **Targets**: Score summary tables, required section checklists, balance check templates
 - **Review criteria**: (1) table-body info overlap, (2) info loss risk, (3) context window savings
 - **Timing**: Scene eval v1.2 update, applied across all 3 criteria docs (Act/Chapter/Scene)
+
+## 01-02-02-scene.md Evaluation (2026-02-10)
+- **1st eval (태수)**: D/53pts. A=14, B=13, C=12, D=7, E=7. 8 mandatory + 7 recommended fixes.
+- **Root cause**: Same as 01-02-01 1st eval -- written before Scene eval criteria AND Chapter confirmed doc.
+- **Score identical to 01-02-01 1st eval**: Both D/53pts. "Pre-criteria initial draft" pattern produces remarkably consistent scores.
+- **Critical issues**: B-2=1/6 (no emotion tags, M1 emotion flatness worst case), D-6=0/2 (pacing guide = "지루한 탐색" negative framing), E-3=1/3 (time mismatch 5:30 vs 4:30), E-4=1/3 ("연꽃 문양" conflict)
+- **Strongest**: C-2 dialogue (4/6). Rich dialogue with clear character voice -- same pattern as 01-02-01.
+- **Unique weakness vs 01-02-01**: M1's 4 identical "탐색/대사" beats with zero emotion progression. This is the clearest "and then" failure in the project. Not "정당한 and then" because cumulative effect not designed in tone/notes.
+- **"대사는 잘 쓰는 초안"**: Core editorial insight -- dialogue quality is high (names-off distinguishable), but structural scaffolding (emotion tags, transitions, pacing, references) is completely absent. Easier to reinforce than structurally broken docs.
+- **Expected post-reinforcement**: 70-80pts (B to A). If 01-02-01 pattern holds (D/53->A/81 = +28), expect ~81pts.
+- **01-02-03 "연꽃 문양" contamination**: 01-02-03 also uses "연꽃 문양" extensively. Systemic fix still needed.
+- **Scene eval file**: feedback/20260210-0100-01-02-02-scene-eval-taesoo.md
 
 ## 01-02-01-scene.md Evaluation (2026-02-09)
 - **1st eval (태수)**: D/53pts. A=14, B=14, C=11, D=7, E=7. 8 mandatory + 5 recommended fixes.

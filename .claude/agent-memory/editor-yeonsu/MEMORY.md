@@ -12,6 +12,7 @@
 - **novel-01-02-01.md EDITED: 5 mandatory + 10 recommended applied directly. (2026-02-09)**
 - **novel-01-02-02.md: B+ (second novel prose review). 5 mandatory + 9 recommended = 14 suggestions. (2026-02-09)**
 - **novel-01-02-02.md EDITED: 5 mandatory + 10 recommended applied directly. (2026-02-09)**
+- **01-02-02-scene.md: D(56), 1st eval. 6 mandatory + 8 recommended = 14 suggestions. (2026-02-10)**
 
 ## Improvement Patterns
 - Chapters: 53->88 (+35), consistent across both
@@ -48,16 +49,24 @@
 - C-5: 물리적 디테일 (삼각대 위치 등)
 
 ## Scoring Calibration
-- 01-act: 83, 01-01-ch: 88, 01-02-ch: 88, 01-02-01-sc: 57->83
+- 01-act: 83, 01-01-ch: 88, 01-02-ch: 88, 01-02-01-sc: 57->83, 01-02-02-sc: 56 (1st)
+- Scene initial scores: 01-02-01=57, 01-02-02=56. Very consistent D-grade starting point.
 - Scene starts ~55-57, ends ~83. Chapter starts ~53, ends ~88.
 - Scene docs have lower ceiling due to "집필 가능 수준" concreteness requirements.
+
+### 01-02-02-scene vs 01-02-01-scene Quality Gap
+- 27-point gap (56 vs 83) = 01-02-02 is pre-revision, 01-02-01 is post-revision
+- Key structural differences: no [감각:] tags in beats, no [감정] tags, no transition trigger blocks, no 참조 문서, no 페이싱 표
+- Same author habits: M1 pattern repetition, 수진 generic dialogue, 감각 as separate section
+- Predicted post-revision score: 78-87 (B~A) based on 01-02-01's improvement pattern
 
 ## Recurring Issues to Track
 - **"스스로" typo**: 04-act.md, 01-02-chapter.md
 - **"석등 길" vs "연쇄 석등"**: setting-overview vs chapter gap
 - **"마을 빚 50억"**: Unresolved in setting-overview.md
-- **끝 상황 "번쩍임"**: 01-02-01에서 설치, 01-02-02 편집에서 회수 완료 (9행 "반짝였던 바로 그 나무").
-- **"연꽃 문양" vs "꽃받침 형태"**: Novel에서 "꽃받침"으로 통일 완료. Scene doc은 아직 "연꽃" -- scene doc 수정 필요 알림.
+- **끝 상황 "번쩍임"**: 01-02-01에서 설치, novel-01-02-02 편집에서 회수 완료. **BUT 01-02-02-scene에서는 미회수** -- scene doc 수정 필요.
+- **"연꽃 문양" vs "꽃받침 형태"**: Novel에서 "꽃받침"으로 통일 완료. **01-02-02-scene + 01-02-03-scene 모두 아직 "연꽃"** -- 양쪽 scene doc 수정 필요.
+- **석등 위치 "공터 한쪽" vs "공터 중앙"**: setting-overview="중앙에 석등", 01-02-02-scene="공터 한쪽" -- 모순. scene doc 수정 필요.
 - **감각 묘사 덤프 패턴**: novel-01-02-01 편집에서 해소, novel-01-02-02 편집에서 해소. 향후 novel 파일에서 재발 감시 필요.
 - **저녁 준비 연기/냄새**: novel-01-02-02 편집 후 1회만 유지 (325행). RESOLVED.
 - **"거칠고 차가운 돌" 촉각**: novel-01-02-02 편집에서 차별화 완료. RESOLVED.
