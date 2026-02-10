@@ -81,6 +81,13 @@ Documents like `template-seq.md` define templates for corresponding structural u
 - `template-chapter.md`: Should include Episode functions (mini-climax, start/end hooks) and Sequence functions (subplot objectives) since these units are omitted in this work.
 - Additional templates created as needed for specific structural units
 
+### Feedback File Timestamp Rules
+
+- **Timestamp generation**: The main agent generates the KST timestamp using `date '+%Y%m%d-%H%M'` before launching sub-agents.
+- **Filename specification**: The main agent specifies the complete filename (including timestamp) and passes it to each sub-agent.
+- **Sub-agent compliance**: Sub-agents must use the provided filename exactly as given, without generating their own timestamps.
+- **File naming**: `feedback/{timestamp}-{description}-{agent}.md` format. The description part is flexible depending on the type of feedback (e.g., `20260210-0930-01-02-03-scene-eval-hyewon.md`, `20260210-0930-novel-01-02-01-review-yeonsu.md`, `20260210-0930-scene-eval-crit-feedback-hojin.md`)
+
 ### File Encoding Rules (CRITICAL)
 
 - ALWAYS ensure files are saved with UTF-8 encoding
