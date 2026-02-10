@@ -17,7 +17,7 @@
 - setting-overview.md: "마을 빚 50억" not formalized yet (used in act/chapter/scene/novel/final)
 
 ## Completed Work Status (Updated 2026-02-10)
-- **Act docs**: All created. 01-confirmed=A/83. 02-confirmed=A/88. 03-confirmed reinforced(217줄), re-eval PENDING. 04-act-confirmed(206줄), re-eval PENDING. **05-epilogue REINFORCED(198줄), re-eval PENDING**. 00-prologue not evaluated.
+- **Act docs**: All created. 01-confirmed=A/83. 02-confirmed=A/88(198줄, 5건 피드백 반영 수정 완료). 03-confirmed reinforced(217줄), re-eval PENDING. 04-act-confirmed(206줄), re-eval PENDING. **05-epilogue REINFORCED(198줄), re-eval PENDING**. 00-prologue not evaluated.
 - **Chapter docs**: 01-01=A/87avg (SCENE APPROVED). 01-02=A/86(태수 2nd, SCENE APPROVED). Acts 2-4 chapters not created.
 - **Scene docs**: Act 1 complete (01-01-01 through 01-02-04). Prologue 2 scenes. Acts 2-4 none.
 - **Novel/Final**: f-0-prologue.md, f-1-friends.md finalized. Working drafts in novel/
@@ -61,6 +61,14 @@
 - Remove ALL ASCII art/graphs. Replace with keyword enumeration. User-initiated.
 - Scope: Scene eval criteria, Chapter confirmed docs, Act eval criteria
 - Status: Pending application at next doc update for each
+
+## 02-act Feedback Revision Key Decisions (2026-02-10 20:30)
+- **구름골 모티프 연결**: "동굴이 위치한 산중턱 = 구름골의 지형적 심장부"로 2막 내 연결 확립. 91행(의미 섹션) + 163행(모티프 섹션) 양쪽에 추가.
+- **지영/태호 합류 방식 동기화**: 178행 "vs" 비교 구조 제거 -> "동생들의 행방을 찾아 나선"으로 03-act-confirmed 53행과 통일
+- **수진 성장 아크 명확화**: 75행 "이중성이 드러남" -> "균열을 드러내는 경험"으로 재서술, 포획 순간 구체적 상황 추가
+- **괄호 과잉 조정**: 86행 "(비인간 존재)" 제거, 178행 "vs" 비교 구조 제거. 나머지 5건은 보류(영향도 낮음)
+- **시제 혼재 판단**: 51행은 실제 혼재가 아니라 관형절(과거) + 주절(현재)의 적절한 구분으로 판단. 수정 안 함.
+- **Chapter/Scene 이관 항목**: 번호판 인식, 악당 감금-복귀 시간, 거울 챙기기, 악당 2막 종료 상태, 동굴 물리적 구조, 인광 광물 디테일, 두루 외형/말투, 추격전 빛원 메커니즘 -- 모두 하위 문서에서 해결
 
 ## 05-epilogue Reinforcement Key Decisions (2026-02-10)
 - **Initial scores**: Kim=D/48, Hyewon=D/40, Yeonsu=D/42, Park=D/47. Average=44. Same pre-criteria pattern.
@@ -114,6 +122,8 @@
 - Act 4 evals: feedback/20260210-1050-04-act-eval-{kim,hyewon,yeonsu,park}.md
 - Act 3 evals: feedback/20260210-1000-03-act-eval-{kim,hyewon,yeonsu,park}.md
 - Act 2 re-eval: feedback/20260210-1800-02-act-eval-kim.md (A/88)
+- Act 2 re-eval (20:30): feedback/20260210-2030-02-act-eval-{kim,hyewon,yeonsu,park}.md (all with ## 검토 및 의견 반영 기록)
+- Act 2 writing review: feedback/20260210-2045-02-act-confirmed-writing-review-hojin.md (with ## 검토 및 의견 반영 기록)
 - Scene eval criteria feedback: feedback/20260209-1700-scene-eval-crit-feedback-{taesoo,hyewon,yeonsu,hojin}.md
 - Epilogue evals: feedback/20260210-1128-05-epilogue-eval-{kim,hyewon,yeonsu,park}.md (all with ## 반영 결과)
 - Reports: report/20260208-2100-01-01-chapter-feedback-report.md, report/20260209-scene-eval-crit-pending-decisions.md
