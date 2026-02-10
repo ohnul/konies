@@ -162,6 +162,14 @@
   - **4막 unique priority order**: (1) Box riddle mechanism > (2) Duru sacrifice design > (3) Growth arc completion. These 3 are 4막's identity; without them, climax fails.
   - Expected revision: D(50) -> A(85-90) following same formula + 4막-specific mechanisms.
 
+## Epilogue Evaluation (2026-02-10)
+- **05-epilogue.md 1st evaluation**: D(47). No 40% violations but A/C/D all at 40-44% boundary.
+  - Core issue: "Scene 없이 직접 집필 가능" means Act doc must absorb Scene-level specificity, but current doc has LESS info than typical Act docs
+  - Missing: spatial/temporal framework, start/end situations, Duru afterglow scenes, character interaction combos (0), humor (0), pacing (0), foreshadow recovery table (0)
+  - Strengths: Minjun subscriber irony design, "꺼져가던 석등에 다시 불이 켜진" motif return, thematic conclusion direction
+  - **Epilogue-unique priority**: (1) Time structure decision (single vs time-skip), (2) Duru afterglow concretization (04-act "핵심 감정축" mandate), (3) Start/end situation (first+last paragraph writability), (4) Character growth as scenes not bullets
+  - **Key paradox**: Epilogue = shortest Act but needs MOST scene-level detail because no Scene docs exist. "직접 집필 가능" is a higher bar, not a lower one.
+
 ## Document References
 - `act/act-evaluation-criteria.md`: Evaluation framework by Kim Taesu (team lead), updated with team feedback
 - `character-overview.md`: All 5 protagonists + 2 villains + Duru + Gyeoul

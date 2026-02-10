@@ -17,7 +17,7 @@
 - setting-overview.md: "마을 빚 50억" not formalized yet (used in act/chapter/scene/novel/final)
 
 ## Completed Work Status (Updated 2026-02-10)
-- **Act docs**: All created. 01-confirmed=A/83. 02-confirmed=A/88. 03-confirmed reinforced(217줄), re-eval PENDING. 04-act.md reinforced(206줄, 87->206), re-eval PENDING. 05-epilogue/00-prologue not evaluated.
+- **Act docs**: All created. 01-confirmed=A/83. 02-confirmed=A/88. 03-confirmed reinforced(217줄), re-eval PENDING. 04-act-confirmed(206줄), re-eval PENDING. 05-epilogue=D/48(태수), reinforcement needed. 00-prologue not evaluated.
 - **Chapter docs**: 01-01=A/87avg (SCENE APPROVED). 01-02=A/86(태수 2nd, SCENE APPROVED). Acts 2-4 chapters not created.
 - **Scene docs**: Act 1 complete (01-01-01 through 01-02-04). Prologue 2 scenes. Acts 2-4 none.
 - **Novel/Final**: f-0-prologue.md, f-1-friends.md finalized. Working drafts in novel/
@@ -62,10 +62,19 @@
 - Scope: Scene eval criteria, Chapter confirmed docs, Act eval criteria
 - Status: Pending application at next doc update for each
 
+## 05-epilogue Evaluation Key Findings (2026-02-10)
+- D/48. Same pre-criteria pattern as 03-act(48), 04-act(46).
+- Key gaps: no time/space frame, no emotion link to Act 4, no scene design, no foreshadowing closure
+- "태호-지영 미묘한 진전" = new setting not in upper docs. Recommend removal -> "깊어진 동료적 존중"
+- Epilogue has no Scene docs -> Act doc IS the final writing guide. Needs 100-120 lines min.
+- 석등 모티프 "구름골 재탄생" connection is well done (횡단-3 match)
+- 마희재 결말 needs differentiation from 마기재 (4막 "형, 그만!" growth beat unresolved)
+- Epilogue eval: feedback/20260210-1128-05-epilogue-eval-kim.md
+
 ## Next Steps (Priority Order)
 1. Re-evaluate reinforced 03-act.md -- PENDING
-2. Re-evaluate reinforced 04-act.md -- PENDING (87->206줄)
-3. Evaluate remaining Act docs (00-prologue, 05-epilogue)
+2. Re-evaluate reinforced 04-act-confirmed.md -- PENDING
+3. Evaluate remaining Act doc (00-prologue)
 4. Apply ASCII removal to Scene eval criteria (보류-1)
 5. Create Chapter docs for Act 2 (02-03-chapter.md, 02-04-chapter.md) -- APPROVED
 6. Create Chapter docs for Acts 3-4
@@ -92,10 +101,12 @@
 - Chapter eval criteria: chapter/chapter-evaluation-criteria.md
 - Scene eval criteria: scene/scene-evaluation-criteria.md
 - Act confirmed: act/01-act-confirmed.md, act/02-act-confirmed.md, act/03-act-confirmed.md
-- Act 4 (reinforced): act/04-act.md (206줄)
+- Act 4 confirmed: act/04-act-confirmed.md (206줄)
+- Epilogue: act/05-epilogue.md (70줄, D/48)
 - Chapter 01-01/01-02: chapter/01-01-chapter.md, chapter/01-02-chapter.md
 - Act 4 evals: feedback/20260210-1050-04-act-eval-{kim,hyewon,yeonsu,park}.md
 - Act 3 evals: feedback/20260210-1000-03-act-eval-{kim,hyewon,yeonsu,park}.md
 - Act 2 re-eval: feedback/20260210-1800-02-act-eval-kim.md (A/88)
 - Scene eval criteria feedback: feedback/20260209-1700-scene-eval-crit-feedback-{taesoo,hyewon,yeonsu,hojin}.md
+- Epilogue eval: feedback/20260210-1128-05-epilogue-eval-kim.md
 - Reports: report/20260208-2100-01-01-chapter-feedback-report.md, report/20260209-scene-eval-crit-pending-decisions.md
