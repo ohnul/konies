@@ -80,12 +80,22 @@
 - **에필로그 vs 일반 막 점수 격차**: 42점(에필로그) vs 52점(03/04 초안). 10점 차이 원인 = 전환점 인과 부재(A-2), 감정 아크 3단계(A-3), B항목 부분 충족 0개.
 - **Act 초안 점수 추이**: 02-act(73/B) > 03-act(52/D) = 04-act(52/D) > 05-epilogue(42/D). 초안이 뒤로 갈수록 약해지는 경향. 04-act-confirmed(보강 후)는 206행/S급 추정.
 
+## Act Document Style Review Patterns (02-act-confirmed, 2026-02-10)
+- **Parenthesis overuse**: 목표 목록에서 한영 병기+괄호 과잉. 핵심 전달 방해. 첫 등장 이후 삭제 원칙.
+- **Section-to-section duplication**: 주요 전환점 vs 주요 사건 흐름에서 동일 사건 이중 서술. 전환점=축약, 사건 흐름=상세로 역할 분리.
+- **Cross-doc sync gap**: 02-act 복선 "지영/태호 합류 방식 미확정"이 03-act-confirmed에서 이미 확정됨. 상위 문서의 하위 확정사항 미반영 패턴.
+- **% vs %p**: 톤 비율 설명에서 "5% 상향" = "5%p 상향"이 정확. 프로젝트 전체 규칙화 권장.
+- **공간 동선 표기**: 화살표 한 줄 나열 10개 지점 = 시각 추적 어려움. 번호 매기기 또는 줄바꿈 필요. 02/03/04-act 동일 문제.
+- **앵커 장면 집필 에너지**: 02-act="가장 집중", 04-act="70%". 수치 지시가 하위 작업자에게 더 유용.
+- **NOTE-TO-AI 톤 비일관**: 47행=서술체, 54행=구어체. NOTE 내부 톤 통일 필요.
+
 ## Feedback Style
 - Re-evaluation: Before/After comparison table first
 - "Chapter 대비 구체성 역전" table is effective diagnostic
 - Always include "편집작가 특별 소견"
 - Provide specific alternative dialogue examples
 - Acknowledge feedback absorption explicitly with counts
+- **Act 문체 리뷰**: 필수/권장 분리, 교차 문서 일관성 별도 섹션, 수치(행번호) 기반 지적
 
 ## Novel Review Calibration
 - All 3 files: B+ pre-edit. Consistent quality from novelist.
