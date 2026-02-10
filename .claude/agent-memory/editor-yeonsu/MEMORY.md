@@ -12,6 +12,7 @@
 - **05-epilogue.md: D(42) yeonsu eval. A=9(!), B=12, C=8, D=5(!), E=8. A/D 40% 미달. 8 필수 + 12 권장 = 20 items. (2026-02-10)**
 - All 4 novel files: consistent B+ pre-edit, 5-8 mandatory + 9~12 recommended each
 - Act/Chapter eval criteria: reviewed. Scene eval criteria: reviewed.
+- **02-03-chapter: D=11.5/15(77%), C-3=4.5/5(90%), E-4=2.5/3(83%). 평가범위 합계 18.5/23(80%=A). (2026-02-10)**
 
 ## Novel Editing Summary (4 files complete)
 - See `novel-editing-log.md` for detailed per-file editing decisions
@@ -55,6 +56,7 @@
 - **번쩍임 복선**: 01-02-01 설치, novel-01-02-02 회수완료. 01-02-02-scene 미회수.
 - **"연꽃" vs "꽃받침"**: Novel에서 통일완료. 01-02-03-scene은 아직 "연꽃".
 - **석등 위치**: setting-overview="중앙", 01-02-02-scene="공터 한쪽" -- 모순.
+- **"서류" vs "문서"**: 02-03-chapter에서 혼용. 통일 필요.
 - **마을회관 용어**: ~~02-act.md에서 "마을회관"으로만 지칭 3회~~ -> RESOLVED. 보강본에서 "버려진 마을회관" 통일.
 - **두루 존재 규칙**: ~~"활동 가능" vs "사라지는" 모호~~ -> RESOLVED. "빛의 범위를 벗어나면 활동 불가"로 통일.
 - **구니스 오마주**: ~~02-act.md만 언급~~ -> RESOLVED. 보강본에서 삭제 완료.
@@ -88,6 +90,14 @@
 - **공간 동선 표기**: 화살표 한 줄 나열 10개 지점 = 시각 추적 어려움. 번호 매기기 또는 줄바꿈 필요. 02/03/04-act 동일 문제.
 - **앵커 장면 집필 에너지**: 02-act="가장 집중", 04-act="70%". 수치 지시가 하위 작업자에게 더 유용.
 - **NOTE-TO-AI 톤 비일관**: 47행=서술체, 54행=구어체. NOTE 내부 톤 통일 필요.
+
+## Chapter Evaluation Patterns (02-03-chapter, 2026-02-10)
+- **D항목 품질 격차**: 01-02-ch D=9/15(60%) vs 02-03-ch D=11.5/15(77%). +17%p. 피드백 반영 효과 확인.
+- **02-03 강점**: ASCII 긴장 곡선 시각화, 연령 적합성 장면별 가이드, 유머의 다기능 설계(긴장완화+캐릭터입체화+성장복선).
+- **02-03 약점**: 씬 2 후반 이완 충분성 미검증, 미각 감각 부재, "서류/문서" 혼용, "내부/입구" 모호성.
+- **수진 체계적 어휘 누락 패턴**: 01-02에서 확립된 "탈락/패턴/체크" 어휘가 02-03 대사 방향에서 미활용. Chapter 간 시그니처 연속성 점검 필수.
+- **Chapter 수준 감각 설계 모범**: 씬별 4분할(전반/후반) x 4감각(시/청/후/촉) 표 = 하위 Scene 작성의 강력한 가이드. 이 형식을 향후 Chapter 문서의 표준으로 권장.
+- **"서류" vs "문서" 혼용**: 02-03-chapter 내부에서 96행="서류", 289행="문서". 통일 필요. 프로젝트 전체 용어 관리에 추가.
 
 ## Feedback Style
 - Re-evaluation: Before/After comparison table first

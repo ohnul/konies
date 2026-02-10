@@ -129,3 +129,11 @@ This includes:
 - Character dialogue patterns and comic elements
 - Paragraph structure and flow
 - Agent-specific instructions for novel writers and editorial writers
+
+## Multi-Agent Review Protocol
+
+When the user requests "모든 에이전트를 호출하라" (call all agents), call all four agents without exception:
+- `plot-writer-hyewon`
+- `editor-yeonsu`
+- `content-director-kim`
+- `novel-writer-park`
