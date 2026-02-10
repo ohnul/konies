@@ -17,7 +17,7 @@
 - setting-overview.md: "마을 빚 50억" not formalized yet (used in act/chapter/scene/novel/final)
 
 ## Completed Work Status (Updated 2026-02-10)
-- **Act docs**: All created. 01-confirmed=A/83. 02-confirmed=A/88. 03-confirmed reinforced(217줄), re-eval PENDING. 04-act-confirmed(206줄), re-eval PENDING. 05-epilogue=D/48(태수), reinforcement needed. 00-prologue not evaluated.
+- **Act docs**: All created. 01-confirmed=A/83. 02-confirmed=A/88. 03-confirmed reinforced(217줄), re-eval PENDING. 04-act-confirmed(206줄), re-eval PENDING. **05-epilogue REINFORCED(198줄), re-eval PENDING**. 00-prologue not evaluated.
 - **Chapter docs**: 01-01=A/87avg (SCENE APPROVED). 01-02=A/86(태수 2nd, SCENE APPROVED). Acts 2-4 chapters not created.
 - **Scene docs**: Act 1 complete (01-01-01 through 01-02-04). Prologue 2 scenes. Acts 2-4 none.
 - **Novel/Final**: f-0-prologue.md, f-1-friends.md finalized. Working drafts in novel/
@@ -28,7 +28,7 @@
 - "Tag behaviors": 수진(펜), 지훈(창가 겨울이), 민준(카메라), 지영(문 쾅), 태호(확률 계산)
 - Tone ratios: Act1=55:45, Act2=65:35, Act3=55:45, Act4=70:30 (모험:유머)
 - Act doc inter-rater range trend: 02-act=12pts, 03-act=7pts, 04-act=6pts (tightening as criteria stabilize)
-- Reinforcement size: 01-act=149줄, 02-act=192줄, 03-act=217줄, 04-act=206줄
+- Reinforcement size: 01-act=149줄, 02-act=192줄, 03-act=217줄, 04-act=206줄, 05-epilogue=198줄
 - **Reinforcement pattern confirmed ALL doc types**: Act C/D->A(+22~37), Chapter D->A(+34~45), Scene D->A(+28). Average gain=+33pts.
 - Later docs benefit from accumulated criteria knowledge: 02-act(A/88) > 01-act(A/83)
 - D항목 consistently weakest in initial evals; but reaches 80%+ after reinforcement
@@ -62,32 +62,39 @@
 - Scope: Scene eval criteria, Chapter confirmed docs, Act eval criteria
 - Status: Pending application at next doc update for each
 
-## 05-epilogue Evaluation Key Findings (2026-02-10)
-- D/48. Same pre-criteria pattern as 03-act(48), 04-act(46).
-- Key gaps: no time/space frame, no emotion link to Act 4, no scene design, no foreshadowing closure
-- "태호-지영 미묘한 진전" = new setting not in upper docs. Recommend removal -> "깊어진 동료적 존중"
-- Epilogue has no Scene docs -> Act doc IS the final writing guide. Needs 100-120 lines min.
-- 석등 모티프 "구름골 재탄생" connection is well done (횡단-3 match)
-- 마희재 결말 needs differentiation from 마기재 (4막 "형, 그만!" growth beat unresolved)
-- Epilogue eval: feedback/20260210-1128-05-epilogue-eval-kim.md
+## 05-epilogue Reinforcement Key Decisions (2026-02-10)
+- **Initial scores**: Kim=D/48, Hyewon=D/40, Yeonsu=D/42, Park=D/47. Average=44. Same pre-criteria pattern.
+- **Reinforced**: 70줄 -> 198줄. All 4 evaluators' items accepted (zero rejections/holds).
+- **Time structure**: 연수 선택지 C(시간 점프 병행) 채택. 전/후반 3:7 비율. 당일 새벽(비트1-2) + 수 주 후(비트3-5)
+- **5-beat structure**: 비트1(모험 직후 15%) / 비트2(악당 마무리 10%) / [시간 점프] / 비트3(마을 변화 25%) / 비트4(성장 확인 30%) / 비트5(여운과 시작 20%)
+- **"태호-지영 미묘한 진전"** -> "깊어진 동료적 존중"으로 확정. 상위 문서 근거 없음 + 대상 독자 톤 부적합
+- **"전면 중단" vs "전면 재검토"**: "전면 재검토 후 최종 중단 결정"으로 인과 체인 연결
+- **악당 체포 경위**: "마을 어른들에 의해 경찰 인계"로 04-act-confirmed 통일
+- **작품 마지막 이미지**: 석등 아래 지훈이 거울에 빛을 비추는 장면. 석등 모티프 순환 + 거울 여운 + 지훈-두루 수렴
+- **마희재**: 경찰차에서 아이들을 돌아보는 눈빛(후회+미안함). 형과 차별화
+- **겨울이**: 독립 캐릭터 명시, 영웅견 코미디 + 거울 앞 행동(두루 여운 증폭)
+- **프롤로그 수미상관**: 프롤로그(악당 탈출, 어둠) vs 에필로그(악당 체포, 빛) 대비 구조 명시
+- Epilogue evals: feedback/20260210-1128-05-epilogue-eval-{kim,hyewon,yeonsu,park}.md
+- **Feedback reflection**: All 4 feedback docs updated with ## 반영 결과 sections
 
 ## Next Steps (Priority Order)
 1. Re-evaluate reinforced 03-act.md -- PENDING
 2. Re-evaluate reinforced 04-act-confirmed.md -- PENDING
-3. Evaluate remaining Act doc (00-prologue)
-4. Apply ASCII removal to Scene eval criteria (보류-1)
-5. Create Chapter docs for Act 2 (02-03-chapter.md, 02-04-chapter.md) -- APPROVED
-6. Create Chapter docs for Acts 3-4
-7. Evaluate remaining Scene doc (01-01-01). Needs reinforcement first.
-8. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic)
-9. Reinforce + re-evaluate Scene 01-02-02 (D/53), 01-02-03 (D/44), 01-02-04 (D/53.5)
-10. Cross-evaluation after all Act 1 chapters reach B+
-11. Formalize "마을 빚 50억" + "인광 광물" + "상자 증식 메커니즘" in setting-overview.md
-12. Update plot-structure.md: Ch5 "추격과탈출"->"합류와결의", Ch6 "재결합과결의"->"시련과팀워크"
-13. Formalize "통합학급" + 지훈 "자연물 표현" in character-overview.md
-14. Add CLAUDE.md "서브플롯" term definition
-15. Apply ASCII removal to Chapter/Act confirmed docs at next update
-16. Eval criteria format efficiency review (표 제거) at Scene v1.2
+3. **Re-evaluate reinforced 05-epilogue.md -- PENDING (198줄, newly reinforced)**
+4. Evaluate remaining Act doc (00-prologue)
+5. Apply ASCII removal to Scene eval criteria (보류-1)
+6. Create Chapter docs for Act 2 (02-03-chapter.md, 02-04-chapter.md) -- APPROVED
+7. Create Chapter docs for Acts 3-4
+8. Evaluate remaining Scene doc (01-01-01). Needs reinforcement first.
+9. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic)
+10. Reinforce + re-evaluate Scene 01-02-02 (D/53), 01-02-03 (D/44), 01-02-04 (D/53.5)
+11. Cross-evaluation after all Act 1 chapters reach B+
+12. Formalize "마을 빚 50억" + "인광 광물" + "상자 증식 메커니즘" in setting-overview.md
+13. Update plot-structure.md: Ch5 "추격과탈출"->"합류와결의", Ch6 "재결합과결의"->"시련과팀워크"
+14. Formalize "통합학급" + 지훈 "자연물 표현" in character-overview.md
+15. Add CLAUDE.md "서브플롯" term definition
+16. Apply ASCII removal to Chapter/Act confirmed docs at next update
+17. Eval criteria format efficiency review (표 제거) at Scene v1.2
 
 ## Scene Evaluation Summary (Details in evaluation-history.md)
 - 01-02-01: D/53 -> A/81 (+28). NOVEL APPROVED.
@@ -102,11 +109,11 @@
 - Scene eval criteria: scene/scene-evaluation-criteria.md
 - Act confirmed: act/01-act-confirmed.md, act/02-act-confirmed.md, act/03-act-confirmed.md
 - Act 4 confirmed: act/04-act-confirmed.md (206줄)
-- Epilogue: act/05-epilogue.md (70줄, D/48)
+- Epilogue: act/05-epilogue.md (198줄, reinforced, re-eval PENDING)
 - Chapter 01-01/01-02: chapter/01-01-chapter.md, chapter/01-02-chapter.md
 - Act 4 evals: feedback/20260210-1050-04-act-eval-{kim,hyewon,yeonsu,park}.md
 - Act 3 evals: feedback/20260210-1000-03-act-eval-{kim,hyewon,yeonsu,park}.md
 - Act 2 re-eval: feedback/20260210-1800-02-act-eval-kim.md (A/88)
 - Scene eval criteria feedback: feedback/20260209-1700-scene-eval-crit-feedback-{taesoo,hyewon,yeonsu,hojin}.md
-- Epilogue eval: feedback/20260210-1128-05-epilogue-eval-kim.md
+- Epilogue evals: feedback/20260210-1128-05-epilogue-eval-{kim,hyewon,yeonsu,park}.md (all with ## 반영 결과)
 - Reports: report/20260208-2100-01-01-chapter-feedback-report.md, report/20260209-scene-eval-crit-pending-decisions.md
