@@ -18,7 +18,7 @@
 
 ## Completed Work Status (Updated 2026-02-10)
 - **Act docs**: All created. 01-confirmed=A/83. 02-confirmed=A/88(198줄, 5건 피드백 반영 수정 완료). 03-confirmed reinforced(217줄), re-eval PENDING. 04-act-confirmed(206줄), re-eval PENDING. **05-epilogue REINFORCED(198줄), re-eval PENDING**. 00-prologue not evaluated.
-- **Chapter docs**: 01-01=A/87avg (SCENE APPROVED). 01-02=A/86(태수 2nd, SCENE APPROVED). Acts 2-4 chapters not created.
+- **Chapter docs**: 01-01=A/87avg (SCENE APPROVED). 01-02=A/86(태수 2nd, SCENE APPROVED). **02-03-chapter.md CREATED (410줄, eval PENDING)**. **02-04-chapter.md CREATED (557줄, eval PENDING)**. Acts 3-4 chapters not created.
 - **Scene docs**: Act 1 complete (01-01-01 through 01-02-04). Prologue 2 scenes. Acts 2-4 none.
 - **Novel/Final**: f-0-prologue.md, f-1-friends.md finalized. Working drafts in novel/
 - **Evaluation criteria**: Act(v3), Chapter(v2), Scene(v1.1). All finalized.
@@ -48,6 +48,36 @@
 - **연수 제안 부분 보류**: "상자가 저절로 열리며 빛이 나는" 메커니즘은 "열지 않음=해답"과 논리 충돌 가능. Scene에서 재검토
 - **마희재 성장 비트**: "형, 그만!" 처음 반대 (호진 제안 채택)
 - **시간 설계**: 새벽 2:30~5:00, 5월 일출 5:30am. "어둠->빛" = "위기->희망"의 자연 전환
+
+## 02-03-chapter Key Decisions (2026-02-10)
+- **M-1 번호판 인식**: 유튜브 편집 중 반복 시청으로 시각적 기억. 캐릭터 설정에 자연스럽게 부합.
+- **R-8 떨리는 손 노출**: 지훈이 목격 + "수진아, 손이 떨려" 직설 -> 수진 가면 균열. 민준은 카메라를 들지 않음(성장 신호)
+- **R-6 경로**: 마을회관 뒤편 산길 약 300m, 가파른 경사, 10~15분 도보. Scene에서 감각묘사 추가 예정
+- **씬 분할**: 2개 씬(55:45). 씬1=느린 접근+발견, 씬2=발각+포획. Act문서의 시간 분할(7:00~7:20 / 7:20~7:40)에 정확히 대응
+- **톤 비율**: 70:30(긴장:유머). 2막 기본(65:35)보다 5% 긴장 상향 -- 악당 첫 대면이라는 고강도 사건
+- **미니 클라이맥스**: 수진의 떨리는 손 노출 순간. 1장 허당 노출(코믹)과 질적으로 다른 전환점
+- **빛 모티프 전환**: 1막 석등(희망) -> 3장 손전등(위험/무기) -> 4장 카메라빛->거울(구원)으로 이어지는 체인 설계
+- **ASCII art 포함**: 긴장 곡선 ASCII 그래프 1개 포함. ASCII 제거 정책 적용 시 제거 대상
+- **확정 문서와의 구조 차이**: 01-01=369줄/씬1개, 01-02=362줄/씬4개. 02-03=410줄/씬2개. 씬 수 적으나 악당 캐릭터 소개+M/R 해결 사항 포함으로 분량 증가
+
+## 02-04-chapter Key Decisions (2026-02-10)
+- **분량**: 557줄. 02-03(410줄)보다 147줄 증가. M급 해결 4건(M-2~M-5) + R급 해결 5건(R-1~R-5, R-7) 포함으로 분량 증가
+- **씬 분할**: 3개 씬(25:40:35). 씬1=구출+진입, 씬2=앵커(두루만남), 씬3=추격+탈출
+- **톤 비율**: 60:40(긴장:유머). 2막 기본(65:35)보다 5% 유머 상향 -- 겨울이 구출+두루 교감의 따뜻한 장면 포함
+- **M-2 두루 외형**: 230cm, 참숯색 피부, 둥근 노란 눈, 이마 혹(뿔 흔적), 낡은 삼베 조끼, 왼팔 불꽃 문양
+- **M-3 감금 조명**: 캠핑 랜턴 1개(악당이 남김). 완전 어둠 아님
+- **M-4 빛원 릴레이**: 초반=민준 촬영장비, 중반=+지훈 보조LED, 후반=+수진 캠핑랜턴. 3인 릴레이
+- **M-5 거울 스펙**: 지름 20cm 원형, 500g, 끈 고리(목걸이 가능), 녹청 있으나 반사면 깨끗
+- **R-1 동굴 구조**: 7구간 텍스트맵, 총 150m. 입구->감금(20m)->심층통로(50m)->제단(8m직경)->좁은통로(15m)->폭포->출구(20m)
+- **R-3 두루 말투**: "~이냐?", "~이다!" 종결어미. 소박/단순/감탄多. 현대어 이해하나 표현은 옛스러움
+- **R-4 두루 동기**: 봉인 이전 인간에 속아 갇힘. "달콤한 말로 나를 가두었으니까." 구체적 경위는 3-4막
+- **R-5 소환 5단계**: 빛흡수->거울파문+웅웅+진동->온도상승+인광밝아짐->연기형체응축->노란눈+정적
+- **R-7 감금 대화**: 수진(안심), 민준("카메라는 괜찮아?!" 코미디), 지훈(겨울이 올 직감)
+- **앵커 장면 비율**: 공포60:전환15:교감25. 비트4개(공포3-4문단/대치1-2/전환1/교감2-3)
+- **빛 모티프 4단계**: 캠핑랜턴(생존)->인광(자연)->촬영장비(발견)->거울반사(교감). 빛 강화=현실->판타지
+- **ASCII art 미포함**: 02-03에 있던 긴장곡선 그래프를 02-04에서는 제외. ASCII 제거 정책 선제 적용
+- **두루 순간이동**: 거울 비추는 방향 전환 시 순간이동 가능. 좁은 통로에서 최초 활용. 상세 규칙은 Scene으로 이관
+- **Chapter 02-03과의 분량 비교**: 02-03=410줄/씬2개, 02-04=557줄/씬3개. M/R 해결 다수+앵커 장면 상세+동굴 물리구조 포함으로 분량 증가 정당화
 
 ## Scene Evaluation Criteria Design Notes (2026-02-09)
 - Scene = smallest unit, no sub-docs. Converts directly to novel/ files.
@@ -91,7 +121,7 @@
 3. **Re-evaluate reinforced 05-epilogue.md -- PENDING (198줄, newly reinforced)**
 4. Evaluate remaining Act doc (00-prologue)
 5. Apply ASCII removal to Scene eval criteria (보류-1)
-6. Create Chapter docs for Act 2 (02-03-chapter.md, 02-04-chapter.md) -- APPROVED
+6. **02-03-chapter.md CREATED** -> Evaluate (eval PENDING). **02-04-chapter.md CREATED (557줄)** -> Evaluate (eval PENDING)
 7. Create Chapter docs for Acts 3-4
 8. Evaluate remaining Scene doc (01-01-01). Needs reinforcement first.
 9. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic)
@@ -118,7 +148,9 @@
 - Act confirmed: act/01-act-confirmed.md, act/02-act-confirmed.md, act/03-act-confirmed.md
 - Act 4 confirmed: act/04-act-confirmed.md (206줄)
 - Epilogue: act/05-epilogue.md (198줄, reinforced, re-eval PENDING)
-- Chapter 01-01/01-02: chapter/01-01-chapter.md, chapter/01-02-chapter.md
+- Chapter 01-01/01-02: chapter/01-01-chapter-confirmed.md, chapter/01-02-chapter-confirmed.md
+- Chapter 02-03: chapter/02-03-chapter.md (410줄, eval PENDING)
+- Chapter 02-04: chapter/02-04-chapter.md (557줄, eval PENDING)
 - Act 4 evals: feedback/20260210-1050-04-act-eval-{kim,hyewon,yeonsu,park}.md
 - Act 3 evals: feedback/20260210-1000-03-act-eval-{kim,hyewon,yeonsu,park}.md
 - Act 2 re-eval: feedback/20260210-1800-02-act-eval-kim.md (A/88)
