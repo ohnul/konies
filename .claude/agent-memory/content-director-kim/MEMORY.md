@@ -18,7 +18,7 @@
 
 ## Completed Work Status (Updated 2026-02-10)
 - **Act docs**: All created. 01-confirmed=A/83. 02-confirmed=A/88(198줄, 5건 피드백 반영 수정 완료). 03-confirmed reinforced(217줄), re-eval PENDING. 04-act-confirmed(206줄), re-eval PENDING. **05-epilogue REINFORCED(198줄), re-eval PENDING**. 00-prologue not evaluated.
-- **Chapter docs**: 01-01=A/87avg (SCENE APPROVED). 01-02=A/86(태수 2nd, SCENE APPROVED). **02-03-chapter.md=A/90~92est(태수3건+혜원2건+연수4건=총9건 반영완료, SCENE APPROVED)**. **02-04-chapter.md=S/97(태수 full eval, SCENE APPROVED, 프로젝트 최초 S등급)**. Acts 3-4 chapters not created.
+- **Chapter docs**: 01-01=A/87avg (SCENE APPROVED). 01-02=A/86(태수 2nd, SCENE APPROVED). **02-03-chapter.md=A/90~92est(총9건 반영완료, SCENE APPROVED)**. **02-04-chapter.md=S/97(4평가자 20건 반영완료, 593줄, SCENE APPROVED, 프로젝트 최초 S등급)**. Acts 3-4 chapters not created.
 - **Scene docs**: Act 1 complete (01-01-01 through 01-02-04). Prologue 2 scenes. Acts 2-4 none.
 - **Novel/Final**: f-0-prologue.md, f-1-friends.md finalized. Working drafts in novel/
 - **Evaluation criteria**: Act(v3), Chapter(v2), Scene(v1.1). All finalized.
@@ -84,6 +84,18 @@
 - **두루 순간이동**: 거울 비추는 방향 전환 시 순간이동 가능. 좁은 통로에서 최초 활용. 상세 규칙은 Scene으로 이관
 - **Chapter 02-03과의 분량 비교**: 02-03=410줄/씬2개, 02-04=557줄/씬3개. M/R 해결 다수+앵커 장면 상세+동굴 물리구조 포함으로 분량 증가 정당화
 
+## 02-04-chapter 4-Evaluator Feedback Review (2026-02-10)
+- **Scores**: Kim=S/97, Hyewon=S/92, Yeonsu=22/28=79%(partial D+A1+C3+E4), Park=S/92. Avg full=93.7
+- **Score ranking**: 태수(97) > 혜원=박(92) >> 연수(79%부분). 연수 D항목 엄격(02-03 대비 D-3,D-5 각 -0.5~1)
+- **Total items reviewed**: 20건. 수용12+부분수용2+보류5+거절1
+- **Accepted(12)**: 인지부하관리 섹션 신설(3/4동의), 두루외형8항목 공개시점매핑, 7캐릭터동선 추적전략, 자족적미니서사선언, 신규설정역반영목록+NOTE-TO-EDITOR, 두루아크테이블추가, 플롯서브플롯("탐욕과순수의대비")추가, 수진체계적사고어휘("석등,마을회관,동굴--전부" + "하나,둘,셋"), 겨울이복선이중역할주석, 겨울이감정반응보류복선추가, 다음막갈등구도한문장, 민준대사"앵글흔들렸다!"시그니처, 마기재학술적허세대사
+- **Partially accepted(2)**: 감각키워드표(열추가형태로수용, 완전매트릭스는Scene이관), 서브플롯중복정리(플롯서브플롯만추가, 중복정리는거절)
+- **Held(5)**: 종료후크3막연결강화(Scene이관), 씬2교감여운시간검증(Scene이관), 수진-두루전략적시선(Scene이관), 겨울이-두루추격전관계(Scene이관), Act시간프레임조정(별도작업NOTE-TO-EDITOR)
+- **Rejected(1)**: ASCII긴장곡선추가(ASCII제거정책2026-02-09). 연수"스스로"오탈자 지적도 거절(확인결과 정확한표기)
+- **Post-reflection doc size**: 557줄 -> 593줄 (+36줄)
+- **Key lesson**: 인지부하관리 섹션은 Chapter 문서의 필수 구성요소로 확정. 02-03에는 있었으나 02-04에서 누락 -> 3/4 평가자가 지적. 향후 Chapter 작성 시 info dump 방지방안과 함께 반드시 포함
+- **02-04 confirmed status**: S등급 유지. SCENE APPROVED. 593줄.
+
 ## Scene Evaluation Criteria Design Notes (2026-02-09)
 - Scene = smallest unit, no sub-docs. Converts directly to novel/ files.
 - Key differentiator: "novel-writable" specificity (dialogue examples, sensory descriptions, beat-level pacing)
@@ -126,7 +138,7 @@
 3. **Re-evaluate reinforced 05-epilogue.md -- PENDING (198줄, newly reinforced)**
 4. Evaluate remaining Act doc (00-prologue)
 5. Apply ASCII removal to Scene eval criteria (보류-1)
-6. **02-03-chapter.md 보완반영 검증 완료 (A/90~92est, SCENE APPROVED, 39/39=100%)**. **02-04-chapter.md=S/97 SCENE APPROVED**. 02-04 권장보완 3건: (1) 씬2 인지부하 구간 명시, (2) 자족적 미니서사 선언, (3) 신규설정 상위문서 업데이트 목록
+6. **02-03-chapter.md=A/90~92est SCENE APPROVED**. **02-04-chapter.md=S/97 SCENE APPROVED(4평가자 피드백 반영 완료, 593줄)**. 02-04 4평가자 피드백 20건: 수용12+부분수용2+보류5+거절1
 7. Create Chapter docs for Acts 3-4
 8. Evaluate remaining Scene doc (01-01-01). Needs reinforcement first.
 9. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic)
