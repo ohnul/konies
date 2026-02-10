@@ -13,6 +13,7 @@
 - All 4 novel files: consistent B+ pre-edit, 5-8 mandatory + 9~12 recommended each
 - Act/Chapter eval criteria: reviewed. Scene eval criteria: reviewed.
 - **02-03-chapter: D=11.5/15(77%), C-3=4.5/5(90%), E-4=2.5/3(83%). 평가범위 합계 18.5/23(80%=A). (2026-02-10)**
+- **02-04-chapter: D=10.5/15(70%), A-1=5/5(100%), C-3=4/5(80%), E-4=2.5/3(83%). 평가범위 합계 22/28(79%=B+~A). (2026-02-10)**
 
 ## Novel Editing Summary (4 files complete)
 - See `novel-editing-log.md` for detailed per-file editing decisions
@@ -50,7 +51,7 @@
 - **New pattern (04-scene)**: Repetitive chase sequences need per-beat sensory differentiation. 4 identical discoveries = reader dropout. Each location needs 1 unique sensory keyword.
 
 ## Recurring Issues to Track
-- **"스스로" typo**: 04-act.md, 01-02-chapter.md
+- **"스스로" typo**: 04-act.md, 01-02-chapter.md, 02-04-chapter.md (301행, 398행)
 - **"석등 길" vs "연쇄 석등"**: setting-overview vs chapter gap
 - **"마을 빚 50억"**: Unresolved in setting-overview.md
 - **번쩍임 복선**: 01-02-01 설치, novel-01-02-02 회수완료. 01-02-02-scene 미회수.
@@ -97,7 +98,11 @@
 - **02-03 약점**: 씬 2 후반 이완 충분성 미검증, 미각 감각 부재, "서류/문서" 혼용, "내부/입구" 모호성.
 - **수진 체계적 어휘 누락 패턴**: 01-02에서 확립된 "탈락/패턴/체크" 어휘가 02-03 대사 방향에서 미활용. Chapter 간 시그니처 연속성 점검 필수.
 - **Chapter 수준 감각 설계 모범**: 씬별 4분할(전반/후반) x 4감각(시/청/후/촉) 표 = 하위 Scene 작성의 강력한 가이드. 이 형식을 향후 Chapter 문서의 표준으로 권장.
-- **"서류" vs "문서" 혼용**: 02-03-chapter 내부에서 96행="서류", 289행="문서". 통일 필요. 프로젝트 전체 용어 관리에 추가.
+- **"서류" vs "문서" 혼용**: 02-03-chapter 내부에서 96행="서류", 289행="문서". 통일 필요. 02-04에서는 "문서"로 통일됨. 02-03만 수정 필요.
+- **02-04 vs 02-03 품질 역전 패턴**: 02-04는 서사 설계 밀도 최고(미드포인트 34행, 소환 5단계, 빛 4단계)이나, 독자 경험 구조화 도구(ASCII 곡선, 인지 부하 섹션, 감각 표)가 02-03 대비 퇴보. "서사 에너지 집중 -> 구조화 도구 약화" 패턴.
+- **02-04 고유 강점**: 톤 교차 설계(장간 60:40 vs 70:30 합산), 연령 적합성 3중 안전장치(두루 소환), 비율 지시("공포 60:전환 15:교감 25").
+- **02-04 고유 약점**: 7캐릭터 동선의 독자 추적 부담 미관리, 두루 외형 8항목 공개 시점 미매핑, 씬 2 교감 여운의 시간 충분성 미검증.
+- **수진 체계적 어휘 누락 반복**: 02-03 평가에서 지적 -> 02-04에서도 동일 누락. 3회 연속(01-02 확립 후 02-03, 02-04 모두 미활용). 작성자에게 "수진 시그니처 어휘 체크리스트" 제안 필요.
 
 ## Feedback Style
 - Re-evaluation: Before/After comparison table first

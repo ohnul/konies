@@ -89,6 +89,10 @@
 - Remaining minor issues: Scene 2 internal pacing guide, sensory transition strategy between scenes, taste sense absent, 탈옥범 복선 유지 방안 needs concrete device
 - **Key pattern confirmed**: Same revision strategy as 01-01 works for 01-02. Core formula = Chapter-unique value (character-moment mapping + sensory keywords + humor placement + cognitive load mgmt + info disclosure mapping). Both chapters went from D to A with +34~37pt improvement.
 - **Key lesson repeated**: Chapter docs that only list role keywords without scene-specific actions/dialogue directions are useless for prose writing. The confirmed 01-01 should be the template for all future Chapter docs.
+- **02-04-chapter.md 1st eval (2026-02-10)**: S(92). First Chapter doc to score S on first evaluation. All M-level items from Act doc resolved (M-2,M-3,M-4,M-5). Key strengths: 7-zone cave text map, 5-stage summoning sensory decomposition, 7-character chase choreography, minute-level time frame, beat-level emotion breakdown for anchor scene (fear:transition:communion = 60:15:25). No "연꽃 문양" error. 5 recommended improvements (Scene-level info density in S2, olfactory reinforcement, Sujin-Duru strategic gaze, Act time alignment, S3 camera focus order).
+  - **Key lesson**: This doc proves the Chapter revision formula from 01-01/01-02 was learned and applied from scratch. All elements that previously required revision rounds (dialogue directions, sensory keywords, tension/relaxation rhythm, humor placement, info dump prevention) were present in the first version.
+  - **Writing readiness**: Immediately usable for novel prose writing even before Scene docs exist. Anchor scene (Duru summoning) has enough detail for S-level Scene doc requirements.
+  - **New concern**: Chapter doc's high completeness creates Scene doc role ambiguity -- what unique value should Scene docs add? Answer: beat-level emotion tracking, camera focus order in chase scene, olfactory details, inter-info "breathing" beats in Scene 2.
 
 ## Scene Evaluation Criteria - Feedback Summary (2026-02-09)
 - Feedback file: `feedback/20260209-1700-scene-eval-crit-feedback-hojin.md`
