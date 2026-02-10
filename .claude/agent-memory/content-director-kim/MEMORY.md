@@ -19,7 +19,7 @@
 - ~~Foreshadowing classification drift~~: RESOLVED 2026-02-08. 겨울이/지영태호 복선 모두 Act/Chapter 양쪽 "보류"로 통일. 최종원고 단계에서 구체화하기로 합의.
 
 ## Completed Work Status (Updated 2026-02-10)
-- **Act docs**: All created (00-prologue through 05-epilogue). 01-act-confirmed.md = A grade (83pts). 02-act-confirmed.md = A grade (88pts, 태수 re-eval 2026-02-10). 03-act.md = D grade (avg 52pts, 4-eval), reinforced 83->217 lines (261%). CHAPTER CREATION PENDING re-eval. Acts 4-5 not evaluated
+- **Act docs**: All created (00-prologue through 05-epilogue). 01-act-confirmed.md = A/83. 02-act-confirmed.md = A/88. 03-act-confirmed.md reinforced 83->217 lines, re-eval PENDING. 04-act.md = D/46 (태수 1st, 2026-02-10). 05-epilogue/00-prologue not evaluated
 - **Chapter docs**: 01-01 = A grade (avg 87pts across 4 evaluators, feedback applied, SCENE APPROVED). 01-02 = **A grade (태수 2차 86pts)**, reinforced 2026-02-08 (116->361 lines), re-evaluated 2026-02-09. SCENE APPROVED. Acts 2-4 chapters not created
 - **Scene docs**: Act 1 complete (01-01-01 through 01-02-04). Prologue 2 scenes. Acts 2-4 none
 - **Novel/Final**: f-0-prologue.md, f-1-friends.md finalized. Working drafts in novel/
@@ -79,7 +79,8 @@
 13b. ~~Re-evaluate reinforced 02-act.md~~ DONE 2026-02-10: 태수 A/88pts. Chapter creation approved.
 13c. ~~Evaluate 03-act.md~~ DONE 2026-02-10: 4-eval avg D/52pts. Reinforced 83->217 lines (261%).
 13d. Re-evaluate reinforced 03-act.md -- PENDING
-13e. Evaluate remaining Act docs (00-prologue, 04-act, 05-epilogue)
+13e. ~~Evaluate 04-act.md~~ DONE 2026-02-10: 태수 1차 D/46pts. 8 mandatory + 7 recommended. 3 critical 4막-specific gaps (아이들 수수께끼해답/두루감정클라이맥스/복선회수계획).
+13e-1. Evaluate remaining Act docs (00-prologue, 05-epilogue)
 13f. Create Chapter docs for Act 2 (02-03-chapter.md, 02-04-chapter.md) -- APPROVED
 14. Create Chapter docs for Acts 3-4
 15. Cross-evaluation after all Act 1 chapters reach B+ (both now A)
@@ -208,6 +209,16 @@
 - **Zero rejections**: ALL items from ALL 4 evaluators were accepted. First time in project history.
 - **Expected re-eval**: A/85-88pts based on pattern (01-act C->A+27, 02-act C->A+22). Chapter creation approval pending.
 - **New plot-structure.md sync needed**: Ch5 "추격과탈출"->"합류와결의", Ch6 "재결합과결의"->"시련과팀워크" changes need plot-structure.md update
+
+## 04-act.md Evaluation Insights (2026-02-10)
+- **Score**: 46/D (태수). 03-act 1st eval (48/D)과 거의 동일. Pre-criteria document pattern.
+- **C/D항목 = 40% 정확히 경계선**: 1점이라도 낮으면 필수 보완 대상이 되는 위태로운 상태.
+- **3 critical Act 4-specific gaps**: (1) 아이들의 수수께끼 해답 부재 (악당 실패만 있고 성공 경로 없음), (2) 두루의 감정적 클라이맥스 미설계 (물리적 행동만, 심리 여정 없음), (3) 복선 회수 계획 전무 ("복선 회수의 축제"여야 하는데 프로그램이 없음)
+- **New setting issues**: 상자 증식 메커니즘 (setting-overview 미반영), 두루의 물리적 힘 (미정의), 동굴 붕괴 물리학
+- **꽃이 피는 돌/석등 motif 4막에서도 부재**: 횡단-3 갭 2-3-4막 모두 해당
+- **겨울이 4막 역할 누락**: 3막에서 "감지자+신호전달자"로 활약했으나 4막 캐릭터 목록에서 빠짐
+- **Reinforcement estimate**: 86->170-180줄. 15% 비중이지만 클라이맥스 중요도로 상세 설계 필요.
+- **Pattern**: All 4 Act initial evals now scored D (01:avg57, 02:avg66, 03:avg52, 04:46). Pre-criteria docs uniformly D grade.
 
 ## Key File Paths
 - Act eval criteria: act/act-evaluation-criteria.md

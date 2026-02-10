@@ -8,6 +8,7 @@
 - **novel-01-02-04: B+, edited. 8 mandatory + 12 recommended = 20 items. 222->228 lines. (2026-02-09)**
 - **02-act.md: B(73)->S(93) yeonsu eval. A=24, B=24, C=18, D=14, E=13. 17/18 items reflected. (2026-02-10)**
 - **03-act.md: D(52) yeonsu eval. A=14, B=17, C=7(!), D=6, E=8. C항목 40% 미달 필수보완. 18 items. (2026-02-10)**
+- **04-act.md: D(52) yeonsu eval. A=13, B=17, C=8, D=6, E=8. C/D 40% 경계. 8 필수 + 12 권장 = 20 items. (2026-02-10)**
 - All 4 novel files: consistent B+ pre-edit, 5-8 mandatory + 9~12 recommended each
 - Act/Chapter eval criteria: reviewed. Scene eval criteria: reviewed.
 
@@ -71,6 +72,9 @@
 - **03-act 고유 도전**: "관계 중심 서사"의 인과 설계. 태호 전환 = 핵심 인과. 악당 미등장 시 긴장 유지 설계 필수. C항목 0점 3개(성장아크/악당/상호작용).
 - **03-act vs plot-structure 불일치**: 막 제목 "갈등과 성장" vs "시련과 성장". 통일 필요. 설정 충돌 해결 규칙에 따라 팀장 판단.
 - **Act 초안 D등급 패턴**: 02-act 초안(73/B)보다 03-act(52/D)가 더 낮은 이유 = (1) 악당 미등장으로 C-5 구조적 0점, (2) 관계 인과가 사건 인과보다 설계 난이도 높음, (3) 상호작용/복선 섹션 완전 부재.
+- **04-act 고유 결함**: "아이들이 관객이 되는 클라이맥스". 전환점에서 아이들의 능동적 역할 부재. 악당 자멸(나쁜 예시)만 있고 아이들의 선택(좋은 예시) 없음. 수수께끼 해결이 아이들 행동으로 나타나야 주제 완성.
+- **04-act vs 03-act 동일 52점이나 약점 다름**: 03=C항목 35% 미달(성장/상호작용/악당 0점 3개), 04=C/D 40% 경계(상호작용 0점 최대 약점). 04는 악당 등장으로 C-5 확보, 서사 방향성 명확 = B항목 잠재력 높음.
+- **두루 희생 설계**: Act 수준 결정 필수. 형태(소멸 vs 재봉인 vs 잠듦), 동기(용기 성장 인과), 지훈 반응(감정 매개자). 연령 적합성 = "이별이지만 재회 가능성" 톤.
 
 ## Feedback Style
 - Re-evaluation: Before/After comparison table first

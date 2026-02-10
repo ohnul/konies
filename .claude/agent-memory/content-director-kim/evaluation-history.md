@@ -158,6 +158,26 @@
 - **New issue found**: "인광 광물" (phosphorescent mineral) used as major narrative device but not in setting-overview.md. -1 in E-4.
 - **Eval file**: feedback/20260210-1800-02-act-eval-kim.md
 
+## Act 04 Evaluation (2026-02-10, 태수 1st eval)
+
+### 1st Evaluation (태수 solo)
+- **Score**: 46/D. A=11/25(44%), B=13/25(52%), C=8/20(40%), D=6/15(40%), E=8/15(53%)
+- **Pattern match**: Nearly identical to 03-act 1st eval (태수 48/D). Same root cause: pre-criteria document.
+- **86 lines** = 40% of 03-act-confirmed (217 lines), 45% of 02-act-confirmed (192 lines)
+- **Missing sections**: spatial route, time frame, growth arc, interaction design, humor, pacing, reader experience, foreshadowing, age-appropriateness
+- **3 critical 4막-specific gaps**:
+  1. **Children's riddle answer absent**: Villain failure mechanism exists (box proliferation) but HOW children solve the riddle is undesigned
+  2. **Duru emotional climax undesigned**: Physical action ("holds back rocks") without psychological journey (fear -> courage) or farewell scene with Jihoon
+  3. **Foreshadowing harvest missing**: Act 4 should be "복선 회수의 축제" -- currently zero foreshadowing tracking
+- **New setting issues**: Box proliferation mechanism (not in setting-overview), Duru's physical strength (undefined), cave collapse dynamics
+- **C/D항목 at 40% boundary**: Both exactly 40%. One point lower = mandatory remediation.
+- **Tone ratio**: 70:30 (adventure:humor). Justified for climax but lacks chapter-level distribution.
+- **꽃이 피는 돌/석등 motif still absent** in Act 4 (same횡단-3 gap as 2-3막)
+- **겨울이 missing** from character list
+- **Eval file**: feedback/20260210-1050-04-act-eval-kim.md
+- **Expected post-reinforcement**: A/85-90pts based on pattern (01: +27, 02: +22, 03: +37(estimated))
+- **Reinforcement size estimate**: 86 -> ~170-180 lines. 15% volume = smaller than 02(30%)/03(25%) but climax importance justifies comparable detail.
+
 ## Team Feedback Patterns
 - Hyewon (plot): narrative dynamics, foreshadowing vs motif, info revelation; tracks 지영 character depth. A-3 scoring outlier (lenient on emotional arc structure).
 - Hojin (writing): practical needs - space/time, sensory details, character chemistry; "숲의 설계도" / "작가가 이걸로 지을 수 있는가" framework. D항목 consistently strictest evaluator.

@@ -152,6 +152,16 @@
   - Expected revision path: same formula as 01/02-act. D(53) -> A(83-87) with all items reflected.
 - **3막-specific writing concerns**: 5 obstacle scenes risk "and then" mechanical repetition (same as 01-02-04 chase scenes). Each obstacle needs unique mini-arc with distinct emotional/comic moment. "색깔 등불 미로" setting basis (who installed colored lights in a natural cave?) needs worldbuilding resolution.
 
+## Act 4 Evaluation (2026-02-10)
+- **04-act.md 1st evaluation**: D(50). C-section scored 7/20 (35%), BELOW 40% minimum -- mandatory fix.
+  - Nearly identical structural problems as 03-act pre-revision. Growth arc=0, interaction=0, humor=0, pacing=0, spatial/temporal=0, foreshadow=0
+  - **4막-unique critical issue**: "욕심 없는 자만 열 수 있는 상자" mechanism only shows VILLAIN FAILURE (boxes multiply), not PROTAGONIST SUCCESS. The riddle's answer is half-missing.
+  - Duru's sacrifice: direction exists but lacks specifics (what form? what cost? mirror fate? Jihoon's last interaction?)
+  - E-3 motif continuity = 3/3 (strength): "도깨비 희생 = 불꽃 도령 전설의 현재 실현" connection is impressive
+  - 13 recommendations: 4 critical (growth arc completion, interaction design, spatial/temporal, box mechanism), 5 essential (emotion arc 7-8 stages, humor, pacing, villain depth, foreshadow recovery), 4 recommended (reader experience, age guide, chapter weight, "스스로" typo check)
+  - **4막 unique priority order**: (1) Box riddle mechanism > (2) Duru sacrifice design > (3) Growth arc completion. These 3 are 4막's identity; without them, climax fails.
+  - Expected revision: D(50) -> A(85-90) following same formula + 4막-specific mechanisms.
+
 ## Document References
 - `act/act-evaluation-criteria.md`: Evaluation framework by Kim Taesu (team lead), updated with team feedback
 - `character-overview.md`: All 5 protagonists + 2 villains + Duru + Gyeoul
