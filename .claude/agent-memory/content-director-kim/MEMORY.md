@@ -18,7 +18,7 @@
 
 ## Completed Work Status (Updated 2026-02-10)
 - **Act docs**: All created. 01-confirmed=A/83. 02-confirmed=A/88(198줄, 5건 피드백 반영 수정 완료). 03-confirmed reinforced(217줄), re-eval PENDING. 04-act-confirmed(206줄), re-eval PENDING. **05-epilogue REINFORCED(198줄), re-eval PENDING**. 00-prologue not evaluated.
-- **Chapter docs**: 01-01=A/87avg (SCENE APPROVED). 01-02=A/86(태수 2nd, SCENE APPROVED). **02-03-chapter.md=A/88~91est(태수 A+C+E3 partial, 37.5/39=96%, SCENE APPROVED)**. **02-04-chapter.md=S/97(태수 full eval, SCENE APPROVED, 프로젝트 최초 S등급)**. Acts 3-4 chapters not created.
+- **Chapter docs**: 01-01=A/87avg (SCENE APPROVED). 01-02=A/86(태수 2nd, SCENE APPROVED). **02-03-chapter.md=A/90~92est(태수3건+혜원2건+연수4건=총9건 반영완료, SCENE APPROVED)**. **02-04-chapter.md=S/97(태수 full eval, SCENE APPROVED, 프로젝트 최초 S등급)**. Acts 3-4 chapters not created.
 - **Scene docs**: Act 1 complete (01-01-01 through 01-02-04). Prologue 2 scenes. Acts 2-4 none.
 - **Novel/Final**: f-0-prologue.md, f-1-friends.md finalized. Working drafts in novel/
 - **Evaluation criteria**: Act(v3), Chapter(v2), Scene(v1.1). All finalized.
@@ -57,12 +57,13 @@
 - **톤 비율**: 70:30(긴장:유머). 2막 기본(65:35)보다 5% 긴장 상향 -- 악당 첫 대면이라는 고강도 사건
 - **미니 클라이맥스**: 수진의 떨리는 손 노출 순간. 1장 허당 노출(코믹)과 질적으로 다른 전환점
 - **빛 모티프 전환**: 1막 석등(희망) -> 3장 손전등(위험/무기) -> 4장 카메라빛->거울(구원)으로 이어지는 체인 설계
-- **ASCII art 포함**: 긴장 곡선 ASCII 그래프 1개 포함. ASCII 제거 정책 적용 시 제거 대상
+- **ASCII art**: 제거 완료(키워드 열거 대체). 398줄로 감소(기존 410줄)
 - **확정 문서와의 구조 차이**: 01-01=369줄/씬1개, 01-02=362줄/씬4개. 02-03=410줄/씬2개. 씬 수 적으나 악당 캐릭터 소개+M/R 해결 사항 포함으로 분량 증가
 - **Partial eval (태수, A+C+E3)**: 37.5/39=96%. A=24/25, C(partial)=10.5/11, E3=3/3. 예상 전체=A/88~91
-- **권장 보완 3건**: (1) 씬2 공간이동 단일처리 근거 추가, (2) 지훈 아크 진행 구체화, (3) ASCII 긴장곡선 제거
+- **권장 보완 3건 반영 완료**: (1) 씬2 공간이동 근거 37행 추가(원칙인정+이중근거+기능적이유), (2) 지훈 아크 262행 질적격상 명시(흥분/호기심->불안/경계), (3) ASCII 제거+키워드열거 대체. 반영 후 A=25/25, C(partial)=11/11, 범위내 39/39=100%. 예상 전체=A/90~92
 - **강점**: 후크 설계 최고 완성도, 캐릭터 아크+사건 유기적 결합, Act 정합성 100%
 - **Chapter 품질 상향 수렴 패턴**: 01-01(87) -> 01-02(86) -> 02-03(88~91est) -> **02-04(97/S)**. S등급 도달 핵심 요인: M/R 선제 해결, 앵커 장면 비트 분해, 서브플롯 5개+씬매핑, D항목 독립 섹션화. 02-04를 향후 Chapter 벤치마크로 활용
+- **3인 평가자 피드백 추가 반영 (혜원2+연수5=7건 검토)**: 수용6건, 보류(Scene이관)1건, 거절0건. 수용: (1)마을수몰위기 동기환기, (2)미니클라이맥스-포획 관계명시, (3)보물문서 노출강도 구체화, (4)수진 체계적사고어휘, (5)"내부/입구"->입구(문앞), (6)미각감각 추가. 보류: 씬2후반 이완충분성(NOTE-TO-SCENE으로 이관). H-1+Y-3을 통합반영(딜레마구간에 동기환기+체계적어휘 결합)
 
 ## 02-04-chapter Key Decisions (2026-02-10)
 - **분량**: 557줄. 02-03(410줄)보다 147줄 증가. M급 해결 4건(M-2~M-5) + R급 해결 5건(R-1~R-5, R-7) 포함으로 분량 증가
@@ -125,7 +126,7 @@
 3. **Re-evaluate reinforced 05-epilogue.md -- PENDING (198줄, newly reinforced)**
 4. Evaluate remaining Act doc (00-prologue)
 5. Apply ASCII removal to Scene eval criteria (보류-1)
-6. **02-03-chapter.md partial eval DONE (A/88~91est, SCENE APPROVED, 권장보완3건)**. **02-04-chapter.md=S/97 SCENE APPROVED**. 권장보완 3건: (1) 씬2 인지부하 구간 명시, (2) 자족적 미니서사 선언, (3) 신규설정 상위문서 업데이트 목록
+6. **02-03-chapter.md 보완반영 검증 완료 (A/90~92est, SCENE APPROVED, 39/39=100%)**. **02-04-chapter.md=S/97 SCENE APPROVED**. 02-04 권장보완 3건: (1) 씬2 인지부하 구간 명시, (2) 자족적 미니서사 선언, (3) 신규설정 상위문서 업데이트 목록
 7. Create Chapter docs for Acts 3-4
 8. Evaluate remaining Scene doc (01-01-01). Needs reinforcement first.
 9. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic)
@@ -153,8 +154,8 @@
 - Act 4 confirmed: act/04-act-confirmed.md (206줄)
 - Epilogue: act/05-epilogue.md (198줄, reinforced, re-eval PENDING)
 - Chapter 01-01/01-02: chapter/01-01-chapter-confirmed.md, chapter/01-02-chapter-confirmed.md
-- Chapter 02-03: chapter/02-03-chapter.md (410줄, partial eval A/88~91est, SCENE APPROVED)
-- Chapter 02-03 eval: feedback/20260210-2142-02-03-chapter-eval-kim.md (A+C+E3 partial)
+- Chapter 02-03: chapter/02-03-chapter.md (398줄, 보완반영후 A/90~92est, SCENE APPROVED, 39/39=100%)
+- Chapter 02-03 eval: feedback/20260210-2142-02-03-chapter-eval-kim.md (A+C+E3 partial, 보완3건 반영검증 완료)
 - Chapter 02-04: chapter/02-04-chapter.md (557줄, S/97, SCENE APPROVED)
 - Chapter 02-04 eval: feedback/20260210-2159-02-04-chapter-eval-kim.md (S/97, full eval)
 - Act 4 evals: feedback/20260210-1050-04-act-eval-{kim,hyewon,yeonsu,park}.md
