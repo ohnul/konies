@@ -7,6 +7,7 @@
 - **novel-01-02-01: B+, edited. novel-01-02-02: B+, edited. novel-01-02-03: B+, edited. (2026-02-09)**
 - **novel-01-02-04: B+, edited. 8 mandatory + 12 recommended = 20 items. 222->228 lines. (2026-02-09)**
 - **02-act.md: B(73)->S(93) yeonsu eval. A=24, B=24, C=18, D=14, E=13. 17/18 items reflected. (2026-02-10)**
+- **03-act.md: D(52) yeonsu eval. A=14, B=17, C=7(!), D=6, E=8. C항목 40% 미달 필수보완. 18 items. (2026-02-10)**
 - All 4 novel files: consistent B+ pre-edit, 5-8 mandatory + 9~12 recommended each
 - Act/Chapter eval criteria: reviewed. Scene eval criteria: reviewed.
 
@@ -62,11 +63,14 @@
 - "전환 트리거" used heavily but undefined in any document
 - Scene "구체화 허용" in 설정 충돌 해결 (new vs Chapter)
 - **Act eval pattern**: B항목(서사) strong, C항목(캐릭터) weak = "서사 뼈대 탄탄, 캐릭터 살 부족" 패턴. -> 02-act 보강 후 해소(C 60->90%).
-- **Act 문서 성숙도 격차**: ~~1막 149행 vs 2막 80행~~ -> RESOLVED. 2막 보강 후 193행, 1막 상회.
+- **Act 문서 성숙도 격차**: ~~1막 149행 vs 2막 80행~~ -> RESOLVED (2막). 3막 83행, 4막 87행 = 동일 패턴 반복. 보강 전 Act 초안은 80-87행 범위.
 - **Act 필수 보강 패턴**: 성장 아크 + 상호작용 + 공간 동선 + 시간 프레임 + 복선 관리 = 5대 필수 섹션. 02-act에서 검증완료. 향후 03/04-act에도 동일 기준 적용.
 - **동굴 진입 동기**: ~~인과 공백~~ -> RESOLVED. 이중 동기(물리적 차단 + 인광 빛 호기심)로 해결.
 - **Act 재평가 패턴**: 초안 B(73) -> 보강 S(93). +20점. 113행 추가(141%). 가장 큰 개선=C항목(+30%p). 보강 효율 높음.
 - **연령 적합성 가이드**: 02-act에서 자발적 추가. 고강도 긴장 막(2막, 4막)에서 필수 참조. 장면별 묘사 수위 설정 = Act 수준 모범 사례.
+- **03-act 고유 도전**: "관계 중심 서사"의 인과 설계. 태호 전환 = 핵심 인과. 악당 미등장 시 긴장 유지 설계 필수. C항목 0점 3개(성장아크/악당/상호작용).
+- **03-act vs plot-structure 불일치**: 막 제목 "갈등과 성장" vs "시련과 성장". 통일 필요. 설정 충돌 해결 규칙에 따라 팀장 판단.
+- **Act 초안 D등급 패턴**: 02-act 초안(73/B)보다 03-act(52/D)가 더 낮은 이유 = (1) 악당 미등장으로 C-5 구조적 0점, (2) 관계 인과가 사건 인과보다 설계 난이도 높음, (3) 상호작용/복선 섹션 완전 부재.
 
 ## Feedback Style
 - Re-evaluation: Before/After comparison table first

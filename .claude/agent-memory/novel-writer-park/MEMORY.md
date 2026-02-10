@@ -142,6 +142,16 @@
   - Sujin's "trembling hands" exposure during capture = growth arc "first crack" -- connects to "real leadership is honesty not perfection"
   - "위기 극복 시너지" frame for Act 2 trio dynamics (Minjun triggers with light -> Jihoon empathizes with Duru -> Sujin strategizes "make this dokkaebi our ally") -- parallel to Act 1's "수수께끼 해결 시너지"
 
+## Act 3 Evaluation (2026-02-10)
+- **03-act.md 1st evaluation**: D(53). C-section scored 7/20 (35%), BELOW 40% minimum -- mandatory fix.
+  - Key issues: growth arc COMPLETELY absent (C-4=0) in a "Conflict and Growth" act, villain absence unexplained (C-5=0), zero character interaction combos (C-6=0), zero humor patterns (D-4=0), zero pacing design (D-5=0), no spatial/temporal framework, only 83 lines (56% of 01-act's 149, 43% of 02-act's 192)
+  - D-section at 40% boundary (6/15). 0-point items: D-4 humor, D-5 pacing
+  - Strengths: motif design (E-3=3/3, "division and union" mirroring village community), obstacle-talent mapping (5 pairings), Taeho-Jiyoung conflict axis concept
+  - 12 recommendations: 4 critical (growth arc, interaction design, spatial/temporal, villain positioning), 4 essential (emotion arc 7-8 stages, humor 5 patterns, pacing, obstacle mechanics), 4 recommended (reader experience, foreshadow section, age guide, chapter weight)
+  - **Critical difference from 01/02-act evals**: 03-act has a deeper structural problem -- the "growth" in its title is completely unimplemented. Previous acts had missing sections; this act is missing its CORE IDENTITY.
+  - Expected revision path: same formula as 01/02-act. D(53) -> A(83-87) with all items reflected.
+- **3막-specific writing concerns**: 5 obstacle scenes risk "and then" mechanical repetition (same as 01-02-04 chase scenes). Each obstacle needs unique mini-arc with distinct emotional/comic moment. "색깔 등불 미로" setting basis (who installed colored lights in a natural cave?) needs worldbuilding resolution.
+
 ## Document References
 - `act/act-evaluation-criteria.md`: Evaluation framework by Kim Taesu (team lead), updated with team feedback
 - `character-overview.md`: All 5 protagonists + 2 villains + Duru + Gyeoul
