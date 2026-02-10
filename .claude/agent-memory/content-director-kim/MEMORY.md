@@ -19,7 +19,7 @@
 - ~~Foreshadowing classification drift~~: RESOLVED 2026-02-08. 겨울이/지영태호 복선 모두 Act/Chapter 양쪽 "보류"로 통일. 최종원고 단계에서 구체화하기로 합의.
 
 ## Completed Work Status (Updated 2026-02-10)
-- **Act docs**: All created (00-prologue through 05-epilogue). 01-act-confirmed.md = A grade (83pts). 02-act.md = A grade (88pts, 태수 re-eval 2026-02-10). CHAPTER CREATION APPROVED. Acts 3-5 not evaluated
+- **Act docs**: All created (00-prologue through 05-epilogue). 01-act-confirmed.md = A grade (83pts). 02-act-confirmed.md = A grade (88pts, 태수 re-eval 2026-02-10). 03-act.md = D grade (avg 52pts, 4-eval), reinforced 83->217 lines (261%). CHAPTER CREATION PENDING re-eval. Acts 4-5 not evaluated
 - **Chapter docs**: 01-01 = A grade (avg 87pts across 4 evaluators, feedback applied, SCENE APPROVED). 01-02 = **A grade (태수 2차 86pts)**, reinforced 2026-02-08 (116->361 lines), re-evaluated 2026-02-09. SCENE APPROVED. Acts 2-4 chapters not created
 - **Scene docs**: Act 1 complete (01-01-01 through 01-02-04). Prologue 2 scenes. Acts 2-4 none
 - **Novel/Final**: f-0-prologue.md, f-1-friends.md finalized. Working drafts in novel/
@@ -34,8 +34,10 @@
 - 01-01-chapter.md reinforcement was transformative: 134->359->368 lines, D(42)->A(87)->A(~89-91 est.)
 - Key lesson: Chapter docs need Episode/Sequence absorption features explicitly; docs written before eval criteria lack these
 - Act 2 tone ratio: 65:35 (adventure:humor) adjusted from 60:40 due to high-tension events (capture, cave, chase)
-- Act doc inter-rater range (12pts) wider than Chapter doc range (3-7pts). Act-level evaluations have more subjective divergence.
+- Act 3 tone ratio: 55:45 (adventure:humor) -- team bonding/growth focus lowers adventure ratio
+- Act doc inter-rater range: 02-act=12pts, 03-act=7pts. 03-act has tighter agreement than 02-act.
 - 02-act.md reinforcement size: 80->192 lines (240%). 43 lines MORE than 01-act-confirmed (149 lines) -- justified by 30% vs 20% volume share
+- 03-act.md reinforcement size: 83->217 lines (261%). 25 lines MORE than 02-act-confirmed (192 lines) -- justified by 25% volume with most complex team dynamics (5-person team + 5 obstacles + growth arcs)
 
 ## 4-Evaluator Feedback Review Insights (2026-02-08)
 - **Score consistency**: 4 evaluators scored 85/87/88/88. 3-point range = very high inter-rater agreement
@@ -75,8 +77,10 @@
 13. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic issue). 01-02-04 is clean (no 연꽃문양).
 13a. ~~Evaluate 02-act.md~~ DONE 2026-02-10: 4-eval avg C/66pts. Reinforced (80->192 lines).
 13b. ~~Re-evaluate reinforced 02-act.md~~ DONE 2026-02-10: 태수 A/88pts. Chapter creation approved.
-13c. Evaluate remaining Act docs (00-prologue, 03-act, 04-act, 05-epilogue)
-13d. Create Chapter docs for Act 2 (02-03-chapter.md, 02-04-chapter.md) -- APPROVED
+13c. ~~Evaluate 03-act.md~~ DONE 2026-02-10: 4-eval avg D/52pts. Reinforced 83->217 lines (261%).
+13d. Re-evaluate reinforced 03-act.md -- PENDING
+13e. Evaluate remaining Act docs (00-prologue, 04-act, 05-epilogue)
+13f. Create Chapter docs for Act 2 (02-03-chapter.md, 02-04-chapter.md) -- APPROVED
 14. Create Chapter docs for Acts 3-4
 15. Cross-evaluation after all Act 1 chapters reach B+ (both now A)
 16. Act 1 Chapter balance check (균형 점검) - both chapters now B+ eligible
@@ -176,6 +180,35 @@
 - **README inconsistency**: Act 2/3 descriptions outdated. Deferred to after all Acts reach B+.
 - **Eval criteria example gap**: criteria example 84/A vs actual avg 66/C. 18pt gap. Version evolution + relative standard issue.
 
+## 03-act.md 4-Evaluator Review + Reinforcement (2026-02-10)
+- **Scores**: 태수 48(D), 연수 52(D), 혜원 55(D), 호진 53(D). Avg=52(D), Range=7pts
+- **Inter-rater range**: 7pts (tighter than 02-act's 12pts). All 4 evaluators agree on D grade.
+- **Score by category (avg)**: A=13.3/25(53%), B=15.3/25(61%), C=8.8/20(44%), D=6.5/15(43%), E=8.3/15(55%)
+- **C항목 weakest (44%)**, C항목 40% 미달 flagged by 2 evaluators (연수 35%, 호진 35%). D항목 second weakest (43%).
+- **C-4 growth arc = 0/3 all 4 evaluators**. Most critical gap: "갈등과 성장" title but no growth design.
+- **Common issues (3+/4 agreement)**: ~15 items all auto-accepted:
+  - Spatial route missing, Time frame missing, Growth arc missing, Interaction design missing
+  - Humor design missing, Pacing missing, Age-appropriateness missing, Reader experience incomplete
+  - Foreshadowing system missing, Villain status missing, Gyeoul status missing
+  - 5장 title mismatch ("추격과 탈출" but content is 휴식/합류/논의)
+  - 막 title mismatch ("갈등과 성장" vs plot-structure "시련과 성장")
+  - Emotion arc insufficient (4 stages), Obstacle mechanisms too vague
+- **Reinforcement applied 2026-02-10**: 83->217 lines (261%). ALL 4 evaluators' mandatory+recommended items applied.
+  - Title: "갈등과 성장" -> "시련과 성장" (plot-structure alignment)
+  - Ch5: "추격과 탈출" -> "합류와 결의", Ch6: "재결합과 결의" -> "시련과 팀워크"
+  - Spatial route (11-step), time frame (6 periods 9:30pm-2:30am), growth arc (5 chars)
+  - Interactions (6 combos), villain status section, Gyeoul role ("감지자+신호 전달자")
+  - Emotional arc 4->9 stages, pacing (장별 + 이완3곳 + 13-step triggers)
+  - Humor (6 patterns with dialogue examples), age-appropriateness (5 scenes)
+  - Reader experience (hook/anchor/page-turning), foreshadowing (회수3/설치5/유지4)
+  - Unresolved tasks (5 items), obstacle mechanisms (2-3 lines each + NOTE-TO-AI)
+  - Scene restructuring: 03-06-02 split (was 5 obstacles in 1 scene -> 4 scenes with distributed obstacles)
+  - Taeho persuasion 3-step causal chain: (a) 지훈 intuition proven, (b) 지훈 emotional appeal, (c) instinctive grab at vine
+- **Notable evaluator insights**: 연수="관계 중심 서사의 인과 설계" (psychological vs event-driven causation), 호진="03-06-02 Scene overload" (5 obstacles in 1 scene unrealistic), 혜원=Ch5 title mismatch (most precise structural finding), 태수=가장 엄격(48/D)
+- **Zero rejections**: ALL items from ALL 4 evaluators were accepted. First time in project history.
+- **Expected re-eval**: A/85-88pts based on pattern (01-act C->A+27, 02-act C->A+22). Chapter creation approval pending.
+- **New plot-structure.md sync needed**: Ch5 "추격과탈출"->"합류와결의", Ch6 "재결합과결의"->"시련과팀워크" changes need plot-structure.md update
+
 ## Key File Paths
 - Act eval criteria: act/act-evaluation-criteria.md
 - Chapter eval criteria: chapter/chapter-evaluation-criteria.md
@@ -189,3 +222,4 @@
 - Scene eval criteria pending decisions: report/20260209-scene-eval-crit-pending-decisions.md
 - Act 2 eval (4-evaluator): feedback/20260210-0600-02-act-eval-{kim,yeonsu,hyewon,park}.md
 - Act 2 re-eval (태수): feedback/20260210-1800-02-act-eval-kim.md (A/88pts)
+- Act 3 eval (4-evaluator): feedback/20260210-1000-03-act-eval-{kim,hyewon,yeonsu,park}.md (avg D/52pts)
