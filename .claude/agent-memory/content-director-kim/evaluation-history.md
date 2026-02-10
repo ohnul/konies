@@ -178,6 +178,39 @@
 - **Expected post-reinforcement**: A/85-90pts based on pattern (01: +27, 02: +22, 03: +37(estimated))
 - **Reinforcement size estimate**: 86 -> ~170-180 lines. 15% volume = smaller than 02(30%)/03(25%) but climax importance justifies comparable detail.
 
+## Act 4 4-Evaluator Review + Reinforcement (2026-02-10)
+- **Scores**: 태수 46(D), 혜원 48(D), 호진 50(D), 연수 52(D). Avg=49(D), Range=6pts
+- **Inter-rater range**: 6pts (tightest in project). All 4 evaluators agree on D grade. All scores within 46-52.
+- **Score by category (avg)**: A=12.3/25(49%), B=14.5/25(58%), C=8.3/20(41%), D=6/15(40%), E=7.5/15(50%)
+- **C항목 weakest (41%)**: 호진 flagged C=35% (40% 미달). 태수/연수/혜원=40% boundary. C-4(성장 아크)=0pt all 4, C-6(상호작용)=0pt all 4.
+- **D항목 at 40% boundary**: D-3(연령 적합성)=0pt avg, D-4(유머)=0pt all 4, D-5(페이싱)=0-1pt.
+- **E항목**: 혜원 flagged E=33% (40% 미달, only evaluator). E-6(복선)=0pt all 4.
+- **B항목 strongest (58%)**: B-5-2 악당 자업자득 = 3.5-4/4 across all. Best-designed element.
+- **4막-specific critical gaps (unanimously identified)**:
+  1. 아이들의 능동적 역할 부재 -- "관객이 되는 클라이맥스" (연수 표현). 수수께끼에서 아이들이 수동적 관찰자
+  2. 두루 감정적 클라이맥스 미설계 -- 물리적 행동만, 동기/결심/반응/거울 운명 미설계
+  3. 복선 회수 계획 전무 -- 4막은 "복선 회수의 축제"인데 프로그램 없음
+  4. 겨울이 누락, 성장 아크 부재, 상호작용 0건
+- **Reinforcement applied 2026-02-10**: 87->206 lines (237%). Key additions:
+  - 아이들의 선택: 민준 "우리는 보물을 가지러 온 게 아니잖아" + 열지 않음 = 해답 (연수 구체적 제안 채택)
+  - 두루 희생 구체화: 재봉인(소멸 아님), 동기=초콜릿 우정, 지훈 교감 "괜찮아, 우리가 있잖아", 거울 금간 상태
+  - 공간 동선(10단계), 시간 프레임(7구간 2:30-5:00am), 감정 아크(9단계)
+  - 성장 아크(6명 전원), 상호작용(6조합), 악당 전개(마기재 5단계 심리+마희재 반대)
+  - 유머(4패턴), 연령 적합성(5장면), 페이싱(장별+9트리거+이완2곳)
+  - 독자 경험(후크/앵커/페이지터닝), 복선(회수9/설치3/유지1), 미해결 과제(6건)
+  - 석등 모티프 체인 완결: 보물의 방 벽면 불꽃 문양 + 석굴 내부 연화문
+  - 구름골 모티프: 동이 트는 새벽 하늘 + 구름 걷힘 = 위기 해소
+  - NOTE-TO-AI: 5월 일출 5:30am, 아이들 10시간 연속 활동, 어둠->빛 자연 전환
+- **Evaluator-specific notable contributions**:
+  - 연수: 민준 선택 장면 구체적 제안 (거의 그대로 채택), "상자가 저절로 열리며 빛이 나는" 부분은 보류(논리 충돌)
+  - 혜원: E항목 40% 미달 경고, 03-act 격차 분석표, 수수께끼 이중 구조 분석
+  - 호진: C항목 40% 미달 판정, "4막 고유 보강 우선순위" 프레임, 마희재 "형, 그만해!" 제안
+  - 태수: 가장 엄격(46점), 상자 메커니즘+두루 능력+동굴 물리학의 설정 정합성 점검
+- **E-3 disagreement**: 호진 3/3(만점) vs 나머지 3명 1-2/3 (석등 모티프 4막 부재 지적). 3/4 다수 의견 채택 -> 모티프 추가.
+- **Feedback file annotations**: All 4 files annotated with accept/hold/reject reasoning. Held: setting-overview 공식화(별도), Scene 세부 연출(Scene 범위), 상자 자동 개봉(논리 검토). Rejected: 호진 E-3 만점(석등 모티프 추가).
+- **Re-evaluation**: PENDING. Expected A/85-90pts based on pattern.
+- **Act eval inter-rater range trend**: 01-act=?pts, 02-act=12pts, 03-act=7pts, 04-act=6pts. Range tightening as criteria stabilize.
+
 ## Team Feedback Patterns
 - Hyewon (plot): narrative dynamics, foreshadowing vs motif, info revelation; tracks 지영 character depth. A-3 scoring outlier (lenient on emotional arc structure).
 - Hojin (writing): practical needs - space/time, sensory details, character chemistry; "숲의 설계도" / "작가가 이걸로 지을 수 있는가" framework. D항목 consistently strictest evaluator.
