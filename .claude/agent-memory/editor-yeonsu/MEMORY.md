@@ -129,5 +129,15 @@
 - **전환 트리거 분산**: Scene doc [전환 트리거] 5-6문장 -> 2문장 핵심만 유지 + 나머지 다음 비트 대사 사이에 삽입
 - **복선 삽입**: 장면 문서 복선 관리 표에 있으나 소설 누락된 항목(지영/태호 미행 암시) 환경 소리로 처리
 
+## Human Feedback Lessons (2026-02-13, novel-01-02-01)
+- **Blind spot identified**: Editor missed physical plausibility (camera direction, palm size) + setting consistency (학원 in 시골, 형/누나 호칭). Need "2-b review pass" for these.
+- **Scene doc error propagation**: 4 scene doc errors directly entered novel (#4 호칭, #7 삼각대, #8 카메라방향, #17 학원). "Critical conversion" principle needed.
+- **"시작" overuse**: 3x in 1 scene (63, 146, 160행). Max 1x rule. Stop-and-go pattern 3x = pacing drag.
+- **"모르겠었다" anti-pattern**: Awkward Korean grammar. Replace with "알 수 없었다".
+- **Dialogue-action layout**: No rule existed. Now proposed: short action=same line, 2+ sentence action=separate para.
+- **Human readers stronger at**: contextual naturalness of dialogue, spatial imagination plausibility, setting-vs-detail consistency.
+- See `human-feedback-analysis.md` for full checklist (A~G categories, 20+ items).
+
 ## Links
 - `novel-editing-log.md`: Detailed per-file editing decisions and line-level changes
+- `human-feedback-analysis.md`: Editing checklist derived from human team feedback (2026-02-13)

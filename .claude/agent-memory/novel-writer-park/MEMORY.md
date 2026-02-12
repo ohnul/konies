@@ -56,6 +56,26 @@
   - **Gyeoul's south-facing behavior as planted payoff**: M1-B2 establishes Gyeoul fixating on the south petal -> M3-B2 this pays off when Jihoon finds the arrow there. Not supernatural, just animal behavior responding to owner's interest direction.
   - **Structural marker avoidance**: Caught and fixed "이전 씬에서" -> "아까 벤치에서" -- novel prose must never reference structural units. Replace with temporal/spatial references the characters would naturally use.
 
+## Human Team Feedback Lessons (2026-02-13)
+- Feedback file: `feedback/20260213-0008-novel-01-02-01-human-feedback-park.md`
+- **Root cause of most issues**: Scene doc elements "transplanted" into prose without "transformation" (설정 태그 직접 이식)
+- **Top 4 issue categories**: Setting-narrative gap (4), Unnecessary dialogue/description (4), Scene structure/transition (3), Physical/spatial logic (2)
+- **Critical rules established**:
+  - A: Dialogue+stage direction placement must be consistent within each Moment
+  - B: Body descriptions must match character age (no "넓은 손바닥" for 14-yr-old); props must match 2020s (짐벌 not 삼각대)
+  - C: Honorifics follow narrator focus character's gender (수진 POV = 오빠/언니, not 형/누나)
+  - D: Sentence order = cause->effect for target audience; intentional inversion max 1-2 per scene
+  - E: Never use setting doc tags in narrator voice ("완벽한 학생회장" = tell not show)
+  - F: "3-function test" -- every sentence must serve: info delivery, character reveal, or mood shift
+  - G: Mentally simulate all physical actions before writing (direction, distance, feasibility)
+  - H: Avoid "-겠었다" construction; use "알 수 없었다" instead
+  - I: Never repeat "시작되었다" in scene endings; end with sensory image not narrator declaration
+  - J: Key motif ambiguity must be discussed by characters to prevent reader confusion
+- **Minjun dialogue quality**: Don't repeat surface-level broadcast phrases ("카메라는 계속 돌아갑니다"). Write content-CREATOR thinking ("편집 포인트!", "썸네일감이야!")
+- **Scene ending structure**: Don't mechanically list Scene doc's "끝 상황" elements. Integrate into one dynamic scene with single emotional direction
+- **Setting consistency checklist**: No 학원 in 5-student rural village; cooking smells at 4:30pm unrealistic; camera "뒤로" direction impossible
+- **What worked well (no feedback)**: M1 reasoning flow, Gyeoul descriptions, zelkova tree flash hook, overall M1->M2->M3 structure
+
 ## Character Voice Notes
 - Minjun: Camera always ready, "대박 콘텐츠" as reflex; should evolve subtly across acts. "썸네일이 안 되잖아!" is peak Minjun voice.
 - Sujin: Public/private mode switch best shown through physical contrast. Camera triggers private mode most effectively. Leader mode = direction + action verb sentences.

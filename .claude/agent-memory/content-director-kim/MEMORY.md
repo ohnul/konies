@@ -132,24 +132,37 @@
 - Epilogue evals: feedback/20260210-1128-05-epilogue-eval-{kim,hyewon,yeonsu,park}.md
 - **Feedback reflection**: All 4 feedback docs updated with ## 반영 결과 sections
 
+## Human Feedback Analysis: Novel-01-02-01 (2026-02-13)
+- **First human review of novel-stage output**. 20 NOTE-TO-AI items, 0 unnecessary.
+- **6 pattern types identified**: A.문체일관성(4건), B.물리적비논리(3건), C.설정일관성(3건), D.대사품질(5건), E.페이싱(3건), F.서사의도불명확(2건)
+- **Scene-to-Novel propagation**: 6/20 items trace back to Scene document errors. Key: 호칭(형/누나 should be 오빠/언니 for 수진), 학원(시골마을에 없음), 삼각대(짐벌이 시대적으로 정확)
+- **AI weakness pattern**: (1) Physical action simulation absent (카메라 뒤로 숨기기), (2) Show-don't-tell violation (설정 키워드 직접 서술), (3) Beat-to-prose 1:1 mechanical mapping -> pacing issues, (4) Korean honorific gender-dependency overlooked
+- **Style-guide additions proposed**: Dialogue+tag formatting rules, Show-don't-tell principle, Physical action verification, Korean honorific matrix
+- **Novel self-check checklist proposed**: 17 items across 5 categories (설정정합/물리논리/문체일관/대사품질/페이싱)
+- **Key insight**: A-grade Scene doc (81pts) still produces novel with 20 human-flagged issues. Design quality != prose quality. Novel stage needs its own quality criteria.
+- **Report**: feedback/20260213-0008-novel-01-02-01-human-feedback-kim.md (420줄)
+
 ## Next Steps (Priority Order)
-1. Re-evaluate reinforced 03-act.md -- PENDING
-2. Re-evaluate reinforced 04-act-confirmed.md -- PENDING
-3. **Re-evaluate reinforced 05-epilogue.md -- PENDING (198줄, newly reinforced)**
-4. Evaluate remaining Act doc (00-prologue)
-5. Apply ASCII removal to Scene eval criteria (보류-1)
-6. **02-03-chapter.md=A/90~92est SCENE APPROVED**. **02-04-chapter.md=S/97 SCENE APPROVED(4평가자 피드백 반영 완료, 593줄)**. 02-04 4평가자 피드백 20건: 수용12+부분수용2+보류5+거절1
-7. Create Chapter docs for Acts 3-4
-8. Evaluate remaining Scene doc (01-01-01). Needs reinforcement first.
-9. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic)
-10. Reinforce + re-evaluate Scene 01-02-02 (D/53), 01-02-03 (D/44), 01-02-04 (D/53.5)
-11. Cross-evaluation after all Act 1 chapters reach B+
-12. Formalize "마을 빚 50억" + "인광 광물" + "상자 증식 메커니즘" in setting-overview.md
-13. Update plot-structure.md: Ch5 "추격과탈출"->"합류와결의", Ch6 "재결합과결의"->"시련과팀워크"
-14. Formalize "통합학급" + 지훈 "자연물 표현" in character-overview.md
-15. Add CLAUDE.md "서브플롯" term definition
-16. Apply ASCII removal to Chapter/Act confirmed docs at next update
-17. Eval criteria format efficiency review (표 제거) at Scene v1.2
+1. **Apply style-guide.md additions**: 호칭매트릭스, 대사+지문 배치규칙, Show-don't-tell, 물리적 동작 검증
+2. **Fix Scene propagation issues**: 01-02-01-scene-confirmed.md (호칭/삼각대), 01-01-01-scene-confirmed.md (학원)
+3. Re-evaluate reinforced 03-act.md -- PENDING
+4. Re-evaluate reinforced 04-act-confirmed.md -- PENDING
+5. **Re-evaluate reinforced 05-epilogue.md -- PENDING (198줄, newly reinforced)**
+6. Evaluate remaining Act doc (00-prologue)
+7. Apply ASCII removal to Scene eval criteria (보류-1)
+8. **02-03-chapter.md=A/90~92est SCENE APPROVED**. **02-04-chapter.md=S/97 SCENE APPROVED(4평가자 피드백 반영 완료, 593줄)**. 02-04 4평가자 피드백 20건: 수용12+부분수용2+보류5+거절1
+9. Create Chapter docs for Acts 3-4
+10. Evaluate remaining Scene doc (01-01-01). Needs reinforcement first.
+11. Fix "연꽃 문양" -> "꽃받침 형태" across ALL Scene docs (systemic)
+12. Reinforce + re-evaluate Scene 01-02-02 (D/53), 01-02-03 (D/44), 01-02-04 (D/53.5)
+13. Cross-evaluation after all Act 1 chapters reach B+
+14. Formalize "마을 빚 50억" + "인광 광물" + "상자 증식 메커니즘" in setting-overview.md
+15. Update plot-structure.md: Ch5 "추격과탈출"->"합류와결의", Ch6 "재결합과결의"->"시련과팀워크"
+16. Formalize "통합학급" + 지훈 "자연물 표현" in character-overview.md
+17. Add CLAUDE.md "서브플롯" term definition
+18. Apply ASCII removal to Chapter/Act confirmed docs at next update
+19. Eval criteria format efficiency review (표 제거) at Scene v1.2
+20. **Develop Novel evaluation criteria** (novel-stage-specific, based on human feedback patterns)
 
 ## Scene Evaluation Summary (Details in evaluation-history.md)
 - 01-02-01: D/53 -> A/81 (+28). NOVEL APPROVED.
