@@ -3,6 +3,9 @@ THIS IS A MEMO "FOR HUMAN", DON'T REFERENCE THIS DOCUMENT!
 
 ---
 
+집필된 소설에 인간 팀이 피드백을 남겼다. 모든 에이전트는 이를 분석해서 자신의 관점에서 각자 메모리를 업데이트 하라. 혹은 집필 가이드를 작성하라. 편집 가이드도 좋다. 
+
+
 
 
 모든 팀원, subagent 들은 chapter 문서 평가 기준에 따라 chapter2 문서를 평가하라. feedback 폴더에 평가 문서를 작성하고 파일명은 기존의 규칙을 따른다.
