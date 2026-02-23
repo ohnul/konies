@@ -142,9 +142,21 @@
 - **Key insight**: A-grade Scene doc (81pts) still produces novel with 20 human-flagged issues. Design quality != prose quality. Novel stage needs its own quality criteria.
 - **Report**: feedback/20260213-0008-novel-01-02-01-human-feedback-kim.md (420줄)
 
+## Novel 7-File Comprehensive Analysis (2026-02-23)
+- **Report**: feedback/20260223-1403-novel-analysis-kim.md (547줄)
+- **Files analyzed**: 3 human-confirmed (00-00-01, 00-00-02, 01-01-01) + 2 AI+feedback (01-02-01, 01-02-02) + 2 AI-unreviewed (01-02-03, 01-02-04)
+- **Per-file grades**: 00-00-01=A+, 00-00-02=A, 01-01-01=A, 01-02-01=B+, 01-02-02=B+, 01-02-03=B, 01-02-04=B
+- **Human vs AI core gap**: Sentence multi-functionality (human avg 1.8 functions/sentence vs AI 1.1-1.2), emotional subtext via "omission", physical action simulation
+- **Feedback effect**: Rule-based corrections (honorifics, props) = immediate effect. Style-based corrections (dialogue variety, ending style) = requires repeated feedback
+- **01-02-03/04 vs 01-02-01/02 gap**: Smaller than expected. style-guide rules already applied at creation. But structural habits (민준 "구독자여러분!" repetition, narrator-declaration endings) persist
+- **Key issues identified**: (1) 01-02-04 post-separator section = style-guide violation (narrator declaration ending), (2) 01-02-03 겨울이 남쪽갈래 복선 미완결, (3) 01-02-04 Line 197 복선 서술자코멘트 약화효과, (4) 민준 대사 "구독자여러분!" 반복(01-02-03)
+- **Direction**: Human files = publication-ready. AI files = "pre-editorial 1st round". 1-2 editorial passes can bring to publication quality
+- **Novel quality tiers confirmed**: Human A/A+ > AI+feedback B+ > AI-unreviewed B. Gap between feedback/unfeedback = small; gap between human/AI = significant but bridgeable
+
 ## Next Steps (Priority Order)
-1. **Apply style-guide.md additions**: 호칭매트릭스, 대사+지문 배치규칙, Show-don't-tell, 물리적 동작 검증
-2. **Fix Scene propagation issues**: 01-02-01-scene-confirmed.md (호칭/삼각대), 01-01-01-scene-confirmed.md (학원)
+1. **Novel editorial pass**: 01-02-04 post-separator rewrite, 01-02-03 민준대사 교정 + 겨울이복선완결, 01-02-04 복선코멘트삭제
+2. **Apply style-guide.md additions**: 호칭매트릭스, 대사+지문 배치규칙, Show-don't-tell, 물리적 동작 검증. + "문장 다기능성" 지침 추가 검토
+3. **Fix Scene propagation issues**: 01-02-01-scene-confirmed.md (호칭/삼각대), 01-01-01-scene-confirmed.md (학원)
 3. Re-evaluate reinforced 03-act.md -- PENDING
 4. Re-evaluate reinforced 04-act-confirmed.md -- PENDING
 5. **Re-evaluate reinforced 05-epilogue.md -- PENDING (198줄, newly reinforced)**
@@ -191,3 +203,4 @@
 - Scene eval criteria feedback: feedback/20260209-1700-scene-eval-crit-feedback-{taesoo,hyewon,yeonsu,hojin}.md
 - Epilogue evals: feedback/20260210-1128-05-epilogue-eval-{kim,hyewon,yeonsu,park}.md (all with ## 반영 결과)
 - Reports: report/20260208-2100-01-01-chapter-feedback-report.md, report/20260209-scene-eval-crit-pending-decisions.md
+- Novel analysis: feedback/20260223-1403-novel-analysis-kim.md (7-file comprehensive, 547줄)

@@ -15,11 +15,20 @@
 - **02-03-chapter: D=11.5/15(77%), C-3=4.5/5(90%), E-4=2.5/3(83%). 평가범위 합계 18.5/23(80%=A). (2026-02-10)**
 - **02-04-chapter: D=10.5/15(70%), A-1=5/5(100%), C-3=4/5(80%), E-4=2.5/3(83%). 평가범위 합계 22/28(79%=B+~A). (2026-02-10)**
 
-## Novel Editing Summary (4 files complete)
+## Novel Editing Summary (4 files edited, 7 files analyzed 2026-02-23)
 - See `novel-editing-log.md` for detailed per-file editing decisions
 - Files 01-03: Consistent reduction ~5-6% line count. File 04: +3% (dump split + 복선 추가)
 - Beat coverage: 100% maintained across all 4 files (no scene doc content lost)
 - File 04 unique: paragraph structure was primary issue (uniform short paras), not line count
+
+## Novel 7-File Analysis (2026-02-23)
+- **Grades**: 00-00-01(A), 00-00-02(A), 01-01-01(A-), 01-02-01(B+), 01-02-02(B+), 01-02-03(B), 01-02-04(B-)
+- **Quality gradient confirmed**: Human confirmed(A) > AI+feedback(B+) > AI unreviewd(B/B-)
+- **Confirmed file issues**: "수 밖에"(00-01:31행), "없는거야"(00-02:5행), "그녀"x2(01-01:38,90행), "어께"(01-01:85행), "열려진"(01-01:118행), "박력있는"(01-01:86행), "말씀드리는게"(01-01:77행)
+- **Cross-file duplicate sentence**: "어떻게? 라는 질문이 공기 중에 떠올랐다" in BOTH 01-02-03:57행 AND 01-02-04:57행. Identical tell.
+- **"---" separator leakage**: 01-02-04:219행. Scene doc structure marker entering novel.
+- **Human vs AI key difference**: Confirmed files=55% dialogue, 5% narrator commentary. AI unreviewd=35% dialogue, 15% narrator commentary.
+- Output: `feedback/20260223-1403-novel-analysis-yeonsu.md` (8 critical + 26 recommended = 34 items)
 
 ## Persistent Authorial Habits (across all 3 novel files)
 1. **Sensory dump at transitions**: 3-5 sentences of pure env description at location changes. Fix: distribute.
@@ -33,14 +42,19 @@
 9. **메타 표현 혼입**: "이전 장면에서와 같은 방식으로" -- 장면 문서 용어가 소설에 유입. Always replace with in-story references.
 10. **전환 트리거 덤프**: Scene doc의 [전환 트리거] 블록이 소설에서 감각 덤프 문단으로 직역됨. 분산 필수.
 11. **수진-지훈 대사 중복**: 같은 의미를 두 캐릭터가 거의 같은 표현으로 반복 (04: "석등이 여기로 데려온 거야"). 차별화 필수.
+12. **파일 간 동일 문장 복사**: 03:57행과 04:57행에 완전 동일 tell 문장. AI 작성 시 이전 파일 복사 습관.
+13. **장면 문서 구분선 유입**: "---" separator가 소설 본문에 삽입(04:219행). Scene doc의 "끝 상황" 섹션 직역.
 
 ## Character Voice Patterns
 - **민준**: Strongest voice across all files. "썸네일이 안 되잖아!", "감옥 가면 유튜브 못 해!" = model. 04-scene: 6/8 unique (75%).
 - **수진**: Weakest. Needs "체계적 사고" vocabulary. 손가락 접기 패턴 = good signature. 04-scene: 4/8 unique (50%). **New: observation-type lines ("북쪽을 가리키고 있어") bleed into 지훈's voice.**
 - **지훈**: Mostly ID. "수학 숙제가 밀렸다" IS 지훈. Don't over-correct. 04-scene: 4/6 unique (67%). **New: analytical-type lines ("계획적으로 배치된 거야") bleed into 수진's voice.**
 - **겨울이**: Well-deployed emotional barometer. 복선 역할 안정적. **04-scene: barometer only, no 단서 제공 function. Needs dual-function restoration.**
+- **태호**: A. "자발적으로 숙제할 확률은 10%" = perfect. Limited screen time but consistent.
+- **지영**: A-. "안 돼!" = sharp. Protective energy consistent. Limited screen time.
 - Rule: 민준=instant ID, 지훈=mostly ID, 수진=sometimes generic -> prioritize 수진 fixes.
 - **New rule: Watch for 수진-지훈 voice crossover (observation vs analysis).**
+- **Honorific system**: Verified correct across all 7 files. 오빠/언니(수진시점), 형/누나(민준/지훈시점).
 
 ## Scene Document Quality Patterns
 - Scene initial: 45-57. Scene post-revision: ~83. Chapter: 53->88.
@@ -62,6 +76,9 @@
 - **두루 존재 규칙**: ~~"활동 가능" vs "사라지는" 모호~~ -> RESOLVED. "빛의 범위를 벗어나면 활동 불가"로 통일.
 - **구니스 오마주**: ~~02-act.md만 언급~~ -> RESOLVED. 보강본에서 삭제 완료.
 - **1막끝 빛 복선**: ~~2막 초반 회수 미기술~~ -> RESOLVED. 전환점 도입 후크에서 명시적 회수.
+- **확정본 맞춤법**: "수 밖에"->"수밖에"(00-01:31), "없는거야"->"없는 거야"(00-02:5), "어께"->"어깨"(01-01:85), "박력있는"->"박력 있는"(01-01:86), "말씀드리는게"->"말씀드리는 게"(01-01:77)
+- **확정본 문법**: "열려진"->"열린"(01-01:118, 이중피동), "그녀"->캐릭터명(01-01:38,90, 아동문학 부적합)
+- **겨울이 "마치~처럼" 파일간 중복**: 01-02-01:113행 + 01-02-02:329행. 동일 구조. 하나 변형 필요.
 
 ## Evaluation Criteria Notes
 - A-3/B-2/D-1: Beat/Moment triple overlap risk at Scene level
@@ -112,12 +129,15 @@
 - Acknowledge feedback absorption explicitly with counts
 - **Act 문체 리뷰**: 필수/권장 분리, 교차 문서 일관성 별도 섹션, 수치(행번호) 기반 지적
 
-## Novel Review Calibration
-- All 3 files: B+ pre-edit. Consistent quality from novelist.
-- Strongest sections: comic beats (우물 겨울이, 촬영 소동, 감옥 코믹, 겨울이 고양이 추격전, 카메라=용기)
-- Weakest sections: M1 analytical segments (breathing), climax narrator intrusion, transition trigger dumps
+## Novel Review Calibration (updated 2026-02-23)
+- AI 4 files: B+~B- pre-edit. Feedback-reflected=B+, unreviewd=B/B-.
+- Human confirmed 3 files: A~A-. Dialogue-heavy, narrator-minimal.
+- Strongest sections: comic beats, character signature moments (민준 "감옥 유튜브", 수진 "탈락" 패턴)
+- Weakest sections: climax narrator intrusion, transition trigger dumps, AI unreviewd tell density
+- **"그녀" in confirmed file**: 01-01-01에서 2회 사용. 아동문학 부적합. style-guide에 금지 명시 필요.
+- **이중 피동 in confirmed file**: "열려진"(01-01-01:118행). 확정본에도 문법 오류 존재.
 - Scene doc fidelity: 100% beat coverage, good additions, occasional weakening
-- File 04 new pattern: paragraph uniformity (all 1-3 sentence paras regardless of moment speed)
+- File 04 unique: paragraph uniformity + "---" separator leakage
 
 ## Key Editorial Techniques
 - **수진 손가락 접기**: "탈락" + 손가락 접기 x4 -> 주먹 = 좌절감 시각 상징
