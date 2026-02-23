@@ -36,7 +36,7 @@
 3. **Same emotion multiple times**: "안도" 3x (01), "민준 환호" 2x (02), "저녁 풍경" 3x (03). Rule: max 2x, must escalate.
 4. **Tactile repetition**: "거칠고 차가운" for all stone objects. Differentiate per object.
 5. **Tell after show**: Good show sentence + unnecessary tell sentence explaining same thing.
-6. **삼인조 시너지 서술자 설명**: At climax moments, narrator explains team synergy structure directly. DELETE always.
+6. **삼인조 시너지 서술자 설명**: Narrator direct explanation=DELETE ("모든 조각이 맞물려 돌아갔다"). Character inner reflection=ALLOW ("민준이 불꽃이라 했고, 자신이 빛을 생각해냈고, 지훈이 찾았다" as 수진 POV). Revised per 박서준 insight: target readers need connection once.
 7. **저녁 풍경 반복**: 장소 전환마다 같은 환경(연기, 불빛, 하늘색) 반복. File 02: 연기 4x->1x. File 03: 불빛 3x->1x.
 8. **클라이맥스 전후 tell 밀집**: 감정 정점 직전/직후에 서술자 설명 집중. 독자 안내 의도지만 감동 해침.
 9. **메타 표현 혼입**: "이전 장면에서와 같은 방식으로" -- 장면 문서 용어가 소설에 유입. Always replace with in-story references.
@@ -87,18 +87,13 @@
 - **Act eval pattern**: B항목(서사) strong, C항목(캐릭터) weak = "서사 뼈대 탄탄, 캐릭터 살 부족" 패턴. -> 02-act 보강 후 해소(C 60->90%).
 - **Act 문서 성숙도 격차**: ~~1막 149행 vs 2막 80행~~ -> RESOLVED (2막). 3막 83행, 4막 87행 = 동일 패턴 반복. 보강 전 Act 초안은 80-87행 범위.
 - **Act 필수 보강 패턴**: 성장 아크 + 상호작용 + 공간 동선 + 시간 프레임 + 복선 관리 = 5대 필수 섹션. 02-act에서 검증완료. 향후 03/04-act에도 동일 기준 적용.
-- **동굴 진입 동기**: ~~인과 공백~~ -> RESOLVED. 이중 동기(물리적 차단 + 인광 빛 호기심)로 해결.
-- **Act 재평가 패턴**: 초안 B(73) -> 보강 S(93). +20점. 113행 추가(141%). 가장 큰 개선=C항목(+30%p). 보강 효율 높음.
-- **연령 적합성 가이드**: 02-act에서 자발적 추가. 고강도 긴장 막(2막, 4막)에서 필수 참조. 장면별 묘사 수위 설정 = Act 수준 모범 사례.
-- **03-act 고유 도전**: "관계 중심 서사"의 인과 설계. 태호 전환 = 핵심 인과. 악당 미등장 시 긴장 유지 설계 필수. C항목 0점 3개(성장아크/악당/상호작용).
-- **03-act vs plot-structure 불일치**: 막 제목 "갈등과 성장" vs "시련과 성장". 통일 필요. 설정 충돌 해결 규칙에 따라 팀장 판단.
-- **Act 초안 D등급 패턴**: 02-act 초안(73/B)보다 03-act(52/D)가 더 낮은 이유 = (1) 악당 미등장으로 C-5 구조적 0점, (2) 관계 인과가 사건 인과보다 설계 난이도 높음, (3) 상호작용/복선 섹션 완전 부재.
-- **04-act 고유 결함**: "아이들이 관객이 되는 클라이맥스". 전환점에서 아이들의 능동적 역할 부재. 악당 자멸(나쁜 예시)만 있고 아이들의 선택(좋은 예시) 없음. 수수께끼 해결이 아이들 행동으로 나타나야 주제 완성.
-- **04-act vs 03-act 동일 52점이나 약점 다름**: 03=C항목 35% 미달(성장/상호작용/악당 0점 3개), 04=C/D 40% 경계(상호작용 0점 최대 약점). 04는 악당 등장으로 C-5 확보, 서사 방향성 명확 = B항목 잠재력 높음.
-- **두루 희생 설계**: Act 수준 결정 필수. 형태(소멸 vs 재봉인 vs 잠듦), 동기(용기 성장 인과), 지훈 반응(감정 매개자). 연령 적합성 = "이별이지만 재회 가능성" 톤. -> **04-act-confirmed에서 RESOLVED: 재봉인, 초콜릿 동기, 지훈 교감.**
-- **05-epilogue 고유 결함**: (1) 전환점이 "사건"이 아닌 "카테고리"(telling only), (2) 감정 아크에서 두루 상실감 누락, (3) 5명 성장 = 서술자 요약만(showing 없음), (4) 에필로그 내부 비트 구성 전무, (5) Scene 없이 직접 집필 = Act가 Chapter 수준 구체성 필요.
-- **에필로그 vs 일반 막 점수 격차**: 42점(에필로그) vs 52점(03/04 초안). 10점 차이 원인 = 전환점 인과 부재(A-2), 감정 아크 3단계(A-3), B항목 부분 충족 0개.
-- **Act 초안 점수 추이**: 02-act(73/B) > 03-act(52/D) = 04-act(52/D) > 05-epilogue(42/D). 초안이 뒤로 갈수록 약해지는 경향. 04-act-confirmed(보강 후)는 206행/S급 추정.
+- **동굴 진입 동기**: RESOLVED. 이중 동기(물리적 차단 + 인광 빛 호기심).
+- **두루 희생 설계**: RESOLVED. 재봉인, 초콜릿 동기, 지훈 교감 (04-act-confirmed).
+- **Act 필수 보강 5대 섹션**: 성장 아크 + 상호작용 + 공간 동선 + 시간 프레임 + 복선 관리.
+- **03-act vs plot-structure 불일치**: 막 제목 "갈등과 성장" vs "시련과 성장". 통일 필요.
+- **04-act 고유 결함**: 아이들이 관객 되는 클라이맥스. 능동적 역할 부재.
+- **05-epilogue 고유 결함**: 전환점=카테고리(telling), 두루 상실감 누락, 5명 성장=서술자 요약만.
+- **Act 초안 점수 추이**: 02(73/B) > 03=04(52/D) > 05(42/D). 뒤로 갈수록 약화.
 
 ## Act Document Style Review Patterns (02-act-confirmed, 2026-02-10)
 - **Parenthesis overuse**: 목표 목록에서 한영 병기+괄호 과잉. 핵심 전달 방해. 첫 등장 이후 삭제 원칙.
@@ -149,6 +144,32 @@
 - **전환 트리거 분산**: Scene doc [전환 트리거] 5-6문장 -> 2문장 핵심만 유지 + 나머지 다음 비트 대사 사이에 삽입
 - **복선 삽입**: 장면 문서 복선 관리 표에 있으나 소설 누락된 항목(지영/태호 미행 암시) 환경 소리로 처리
 
+## Cross-Agent Novel Editing Rules (2026-02-23, from 4-agent analysis)
+See `cross-agent-insights.md` for full detail and sourcing.
+
+### From 혜원(plot): Foreshadowing & Pacing
+- **겨울이 해석 50% 삭제 규칙**: 지훈이 매번 해석하면 복선->설명으로 전락. 절반은 행동만.
+- **환호 감정 레이블링**: 동일 유형(발견) 반복 시 감정의 질 차별화. 02=놀라움, 03=확신.
+- **캐릭터 시그니처 연속성**: "탈락" 패턴이 03에서 사라짐. 변주("확인!", "통과!")로 유지.
+- **클라이맥스 정점 비트 = 최단 비트**: 정점 분량 > 여운 분량이면 타격감 분산. 10줄 이내.
+- **씬 간 전환 감정 착지**: 이전 씬 정서 정리 2-3문장 후 다음 씬 시작.
+
+### From 박서준(novel): Human Author Techniques
+- **"그때"/"바로 그때" 제한**: 물리적 사건 돌발에만. 분위기 전환에 사용 금지. (인간 4회/3편 vs AI 11회/4편)
+- **대사 밀도 규칙**: 연속 대사 4회 이상 -> 중간에 행동/감각/정적 삽입.
+- **서술자 선제 판단 금지**: "~이 분명했다" = 서술자가 캐릭터보다 먼저 판단. 캐릭터 행동으로 대체.
+- **감정 전환 전 정적**: 큰 감정 직전에 "사물의 작은 움직임"(바람, 풀잎) 1-2문장. 정적 속 에너지 축적.
+- **비주얼 정점 슬로우모션**: 시각적 절정(플래시 점등 등)은 최소 4-5문장으로 확장.
+- **코믹 비트 상한 5문단**: 인간 확정본 기준 3-4문단. AI 감옥 코믹 7문단=과잉.
+
+### From 김태수(director): Quality Standards
+- **문장 다기능성 테스트**: 각 문장이 정보/캐릭터/감정 중 1개 이상 수행하는지. 0개=삭제 후보.
+- **규칙 교정 vs 스타일 교정 분리**: 규칙(호칭, 소품)=즉시 반영. 스타일(대사 변주, 종료)=반복 필요.
+- **수진 허당 비트 균형**: 각 장 내 수진 허당 최소 1회. 2장에서 유능한 리더만 = 이중성 희석.
+- **감정의 여백 테스트**: "이 문장을 삭제하면 독자가 감정을 직접 느끼는가?" -> 느끼면 삭제.
+- **토론 장면 리듬 변주**: 해석 제시를 동일 리듬으로 나열하지 않기. 첫째=길게, 둘째=짧게, 셋째=코믹.
+- **겨울이 남쪽 갈래 복선 완결 누락**: 화살표 방향=남쪽 명시적 확인 필요.
+
 ## Human Feedback Lessons (2026-02-13, novel-01-02-01)
 - **Blind spot identified**: Editor missed physical plausibility (camera direction, palm size) + setting consistency (학원 in 시골, 형/누나 호칭). Need "2-b review pass" for these.
 - **Scene doc error propagation**: 4 scene doc errors directly entered novel (#4 호칭, #7 삼각대, #8 카메라방향, #17 학원). "Critical conversion" principle needed.
@@ -176,3 +197,4 @@
 ## Links
 - `novel-editing-log.md`: Detailed per-file editing decisions and line-level changes
 - `human-feedback-analysis.md`: Editing checklist derived from human team feedback (2026-02-13)
+- `cross-agent-insights.md`: Insights from 4-agent 7-file analysis (2026-02-23). Consensus, conflicts, resolutions.
