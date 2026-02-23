@@ -138,6 +138,21 @@
 - **Human readers stronger at**: contextual naturalness of dialogue, spatial imagination plausibility, setting-vs-detail consistency.
 - See `human-feedback-analysis.md` for full checklist (A~G categories, 20+ items).
 
+## Human Feedback Revision (2026-02-13, novel-01-02-01)
+- **Revision completed**: 20/20 feedbacks reflected. 162 lines -> 130 lines (-20%). All NOTE-TO-AI removed.
+- **Key changes**: 호칭(오빠와 언니), 짐벌(삼각대->소형 짐벌), 카메라 방향(뒤로->옆으로), 학원->인강, 완벽한 학생회장 tell 삭제, 모르겠었다->알 수 없었다, 원인->결과 순서, 시작 반복 3x->0x(서술자 선언), 정문 앞 압축(stop-and-go 3x->1x), 밥냄새->나무 태우는 냄새, 꽃이 피는 돌 다의성 대사 추가, 민준 대사 개선("그대로 채택"->"편집 안 해도 되겠다", "카메라 돌아갑니다"->"로케이션 헌팅 가봅시다"), 지훈 대사 근거 추가("사람들이 오래 모이는 곳에"), 머리도 안 감았는데 삭제, 넓은 손바닥->익숙한 손길.
+- **Structural change**: M3 ending compressed. 정문 나선 후 뒤돌아봄+안도+시작선언 반복 -> 단일 연속 동작(정문 나서며 한 번 뒤돌아봄 -> 실루엣 확인 -> 어깨에서 힘 빠짐). 마지막 2문장("꽃이 피는 돌의 비밀은 아직...") 삭제, 수진의 빨라지는 발걸음으로 종결.
+- **Beat coverage preserved**: M1(추리 4비트), M2(촬영 3비트), M3(출발 3비트) 모두 유지. 번쩍임 복선 유지.
+
+## Re-review of novel-01-02-02 (2026-02-13)
+- **"시작" overuse confirmed cross-file**: 01에서 3x(수정 후 0x), 02에서 7x. 작가의 반복 습관 확정. "~기 시작했다" 패턴이 원인. 장면당 3회 이하로 축소 필요.
+- **"~보았다" verb cluster**: M3 석등 발견부(249-289행)에서 7회/30행. 시각 행위 장면에서 동사 다양성 부족. "시선이 갔다/닿았다/머물렀다" 등 교체 패턴 확보.
+- **Scene doc comic beat 누락**: M1-B3 수진 비틀거림 전체 누락. 장면 문서 코믹 비트가 소설에서 탈락하는 패턴 확인. 유머 비율 40% 유지 점검 필수.
+- **겨울이 인과 약화**: 장면 문서="지훈 시선 반응", 소설="갑자기 질주". 초자연적 감지로 읽히는 위험.
+- **석등 높이 모순**: 253행 "허리쯤 높이" vs 289행 "까치발을 들고". 물리적 모순. 한국 석등=150-200cm.
+- **캐릭터 레이블 tell 반복**: 01에서 "완벽한 학생회장" 삭제 완료. 02에서 311행 동일 패턴 재발("학생회장의 단정한 미소"). style-guide 금지사항 재확인.
+- **번쩍임 복선 활용도**: 01에서 설치 -> 02에서 회수 시도하나 탐색 동기로 미활용. "반짝이는 것도 없었다" 등 연결 강화 필요.
+
 ## Links
 - `novel-editing-log.md`: Detailed per-file editing decisions and line-level changes
 - `human-feedback-analysis.md`: Editing checklist derived from human team feedback (2026-02-13)
